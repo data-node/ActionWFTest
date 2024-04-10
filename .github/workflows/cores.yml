@@ -1,0 +1,16 @@
+name: See Free Cores
+
+on:
+  workflow_dispatch:
+
+jobs:
+  cpu-cores:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v4
+    - name: Set up Python
+    - uses: actions/setup-python@v4
+      with:
+        python-version: '3.9'
+    - name: Display Python version
+      run: python -c "import os; print(os.cpu_count())"
