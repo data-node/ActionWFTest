@@ -15,5 +15,6 @@ jobs:
     - name: Display Resource Info
       run: |
         python -c "import os; print(os.cpu_count())"
+        python -c "import os; print(os.getcwd())"
         python -c "import psutil; print(psutil.disk_usage('/'))"
-        python -c "import psutil; import os; print(f'Free Space: {psutil.disk_usage(os.getcwd()).free}')"
+        python -c "import psutil; print(f'RAM: {psutil.virtual_memory()}')"
