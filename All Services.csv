@@ -1333,6 +1333,8 @@ us-gov-east-1,AWS WAF,https://aws.amazon.com/waf/
 ap-south-1,AWS WAF,https://aws.amazon.com/waf/
 eu-south-1,AWS WAF,https://aws.amazon.com/waf/
 eu-west-3,AWS WAF,https://aws.amazon.com/waf/
+eu-central-1,AWS IoT FleetWise,https://aws.amazon.com/iot-fleetwise/
+us-east-1,AWS IoT FleetWise,https://aws.amazon.com/iot-fleetwise/
 af-south-1,AWS Outposts,https://aws.amazon.com/outposts/
 ap-east-1,AWS Outposts,https://aws.amazon.com/outposts/
 ca-central-1,AWS Outposts,https://aws.amazon.com/outposts/
@@ -3199,24 +3201,25 @@ us-west-1,AWS Transfer Family,https://aws.amazon.com/aws-transfer-family/
 ap-east-1,AWS Transfer Family,https://aws.amazon.com/aws-transfer-family/
 ap-northeast-2,AWS Transfer Family,https://aws.amazon.com/aws-transfer-family/
 ap-northeast-3,AWS Transfer Family,https://aws.amazon.com/aws-transfer-family/
+ca-west-1,AWS Transfer Family,https://aws.amazon.com/aws-transfer-family/
 eu-south-2,AWS Transfer Family,https://aws.amazon.com/aws-transfer-family/
 eu-west-2,AWS Transfer Family,https://aws.amazon.com/aws-transfer-family/
 eu-west-3,AWS Transfer Family,https://aws.amazon.com/aws-transfer-family/
 il-central-1,AWS Transfer Family,https://aws.amazon.com/aws-transfer-family/
-me-south-1,AWS Transfer Family,https://aws.amazon.com/aws-transfer-family/
 sa-east-1,AWS Transfer Family,https://aws.amazon.com/aws-transfer-family/
 us-east-1,AWS Transfer Family,https://aws.amazon.com/aws-transfer-family/
 ap-northeast-1,AWS Transfer Family,https://aws.amazon.com/aws-transfer-family/
 ap-south-2,AWS Transfer Family,https://aws.amazon.com/aws-transfer-family/
 ca-central-1,AWS Transfer Family,https://aws.amazon.com/aws-transfer-family/
-cn-northwest-1,AWS Transfer Family,https://aws.amazon.com/aws-transfer-family/
 eu-north-1,AWS Transfer Family,https://aws.amazon.com/aws-transfer-family/
 eu-west-1,AWS Transfer Family,https://aws.amazon.com/aws-transfer-family/
 me-central-1,AWS Transfer Family,https://aws.amazon.com/aws-transfer-family/
+me-south-1,AWS Transfer Family,https://aws.amazon.com/aws-transfer-family/
 us-gov-east-1,AWS Transfer Family,https://aws.amazon.com/aws-transfer-family/
 us-gov-west-1,AWS Transfer Family,https://aws.amazon.com/aws-transfer-family/
 us-west-2,AWS Transfer Family,https://aws.amazon.com/aws-transfer-family/
 cn-north-1,AWS Transfer Family,https://aws.amazon.com/aws-transfer-family/
+cn-northwest-1,AWS Transfer Family,https://aws.amazon.com/aws-transfer-family/
 eu-south-1,AWS Transfer Family,https://aws.amazon.com/aws-transfer-family/
 ap-northeast-1,Amazon WorkDocs,https://aws.amazon.com/workdocs/
 ap-southeast-1,Amazon WorkDocs,https://aws.amazon.com/workdocs/
@@ -3620,6 +3623,7 @@ ap-east-1,AWS Snowball,https://aws.amazon.com/snowball/
 ca-central-1,AWS Snowball,https://aws.amazon.com/snowball/
 cn-northwest-1,AWS Snowball,https://aws.amazon.com/snowball/
 eu-central-1,AWS Snowball,https://aws.amazon.com/snowball/
+il-central-1,AWS Snowball,https://aws.amazon.com/snowball/
 us-east-2,AWS Snowball,https://aws.amazon.com/snowball/
 us-west-1,AWS Snowball,https://aws.amazon.com/snowball/
 ap-southeast-2,AWS Database Migration Service,https://aws.amazon.com/dms/
