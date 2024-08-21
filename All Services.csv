@@ -2787,18 +2787,6 @@ us-gov-west-1,Amazon Kendra,https://aws.amazon.com/kendra/
 us-west-2,Amazon Kendra,https://aws.amazon.com/kendra/
 ap-southeast-2,Amazon Kendra,https://aws.amazon.com/kendra/
 us-west-2,AWS Device Farm,https://aws.amazon.com/device-farm/
-af-south-1,Amazon Lex,https://aws.amazon.com/lex/
-ap-northeast-1,Amazon Lex,https://aws.amazon.com/lex/
-ap-northeast-2,Amazon Lex,https://aws.amazon.com/lex/
-ap-southeast-1,Amazon Lex,https://aws.amazon.com/lex/
-ca-central-1,Amazon Lex,https://aws.amazon.com/lex/
-eu-central-1,Amazon Lex,https://aws.amazon.com/lex/
-eu-west-1,Amazon Lex,https://aws.amazon.com/lex/
-eu-west-2,Amazon Lex,https://aws.amazon.com/lex/
-us-east-1,Amazon Lex,https://aws.amazon.com/lex/
-us-gov-west-1,Amazon Lex,https://aws.amazon.com/lex/
-ap-southeast-2,Amazon Lex,https://aws.amazon.com/lex/
-us-west-2,Amazon Lex,https://aws.amazon.com/lex/
 ap-southeast-1,Amazon Bedrock,https://aws.amazon.com/bedrock/
 ap-southeast-2,Amazon Bedrock,https://aws.amazon.com/bedrock/
 eu-central-1,Amazon Bedrock,https://aws.amazon.com/bedrock/
@@ -2812,39 +2800,6 @@ us-west-2,Amazon Bedrock,https://aws.amazon.com/bedrock/
 ap-northeast-1,Amazon Bedrock,https://aws.amazon.com/bedrock/
 ap-south-1,Amazon Bedrock,https://aws.amazon.com/bedrock/
 ca-central-1,Amazon Bedrock,https://aws.amazon.com/bedrock/
-af-south-1,Amazon FSx,https://aws.amazon.com/fsx/
-ap-northeast-3,Amazon FSx,https://aws.amazon.com/fsx/
-eu-central-1,Amazon FSx,https://aws.amazon.com/fsx/
-eu-central-2,Amazon FSx,https://aws.amazon.com/fsx/
-eu-north-1,Amazon FSx,https://aws.amazon.com/fsx/
-me-central-1,Amazon FSx,https://aws.amazon.com/fsx/
-me-south-1,Amazon FSx,https://aws.amazon.com/fsx/
-us-east-1,Amazon FSx,https://aws.amazon.com/fsx/
-us-gov-east-1,Amazon FSx,https://aws.amazon.com/fsx/
-us-west-2,Amazon FSx,https://aws.amazon.com/fsx/
-ap-south-1,Amazon FSx,https://aws.amazon.com/fsx/
-ap-southeast-1,Amazon FSx,https://aws.amazon.com/fsx/
-ap-southeast-2,Amazon FSx,https://aws.amazon.com/fsx/
-ap-southeast-3,Amazon FSx,https://aws.amazon.com/fsx/
-cn-north-1,Amazon FSx,https://aws.amazon.com/fsx/
-cn-northwest-1,Amazon FSx,https://aws.amazon.com/fsx/
-eu-west-2,Amazon FSx,https://aws.amazon.com/fsx/
-il-central-1,Amazon FSx,https://aws.amazon.com/fsx/
-sa-east-1,Amazon FSx,https://aws.amazon.com/fsx/
-us-east-2,Amazon FSx,https://aws.amazon.com/fsx/
-ap-east-1,Amazon FSx,https://aws.amazon.com/fsx/
-ap-northeast-1,Amazon FSx,https://aws.amazon.com/fsx/
-ap-northeast-2,Amazon FSx,https://aws.amazon.com/fsx/
-ap-southeast-4,Amazon FSx,https://aws.amazon.com/fsx/
-eu-south-1,Amazon FSx,https://aws.amazon.com/fsx/
-eu-south-2,Amazon FSx,https://aws.amazon.com/fsx/
-eu-west-1,Amazon FSx,https://aws.amazon.com/fsx/
-eu-west-3,Amazon FSx,https://aws.amazon.com/fsx/
-us-gov-west-1,Amazon FSx,https://aws.amazon.com/fsx/
-us-west-1,Amazon FSx,https://aws.amazon.com/fsx/
-ap-south-2,Amazon FSx,https://aws.amazon.com/fsx/
-ca-central-1,Amazon FSx,https://aws.amazon.com/fsx/
-ca-west-1,Amazon FSx,https://aws.amazon.com/fsx/
 ap-south-2,AWS X-Ray,https://aws.amazon.com/xray/
 ap-southeast-1,AWS X-Ray,https://aws.amazon.com/xray/
 ap-southeast-4,AWS X-Ray,https://aws.amazon.com/xray/
@@ -2926,32 +2881,18 @@ us-west-1,Amazon EventBridge,https://aws.amazon.com/eventbridge/
 ap-northeast-1,Amazon EventBridge,https://aws.amazon.com/eventbridge/
 ap-south-1,Amazon EventBridge,https://aws.amazon.com/eventbridge/
 ap-southeast-4,Amazon EventBridge,https://aws.amazon.com/eventbridge/
-ap-northeast-2,Amazon Neptune,https://aws.amazon.com/neptune/
-ap-southeast-1,Amazon Neptune,https://aws.amazon.com/neptune/
-ap-southeast-2,Amazon Neptune,https://aws.amazon.com/neptune/
-cn-northwest-1,Amazon Neptune,https://aws.amazon.com/neptune/
-eu-west-1,Amazon Neptune,https://aws.amazon.com/neptune/
-eu-west-2,Amazon Neptune,https://aws.amazon.com/neptune/
-me-south-1,Amazon Neptune,https://aws.amazon.com/neptune/
-us-east-1,Amazon Neptune,https://aws.amazon.com/neptune/
-us-gov-east-1,Amazon Neptune,https://aws.amazon.com/neptune/
-us-west-1,Amazon Neptune,https://aws.amazon.com/neptune/
-ap-east-1,Amazon Neptune,https://aws.amazon.com/neptune/
-ap-northeast-1,Amazon Neptune,https://aws.amazon.com/neptune/
-ap-south-1,Amazon Neptune,https://aws.amazon.com/neptune/
-cn-north-1,Amazon Neptune,https://aws.amazon.com/neptune/
-eu-central-1,Amazon Neptune,https://aws.amazon.com/neptune/
-eu-west-3,Amazon Neptune,https://aws.amazon.com/neptune/
-il-central-1,Amazon Neptune,https://aws.amazon.com/neptune/
-me-central-1,Amazon Neptune,https://aws.amazon.com/neptune/
-sa-east-1,Amazon Neptune,https://aws.amazon.com/neptune/
-us-west-2,Amazon Neptune,https://aws.amazon.com/neptune/
-af-south-1,Amazon Neptune,https://aws.amazon.com/neptune/
-ap-northeast-3,Amazon Neptune,https://aws.amazon.com/neptune/
-ca-central-1,Amazon Neptune,https://aws.amazon.com/neptune/
-eu-north-1,Amazon Neptune,https://aws.amazon.com/neptune/
-us-east-2,Amazon Neptune,https://aws.amazon.com/neptune/
-us-gov-west-1,Amazon Neptune,https://aws.amazon.com/neptune/
+af-south-1,Amazon Lex,https://aws.amazon.com/lex/
+ap-northeast-1,Amazon Lex,https://aws.amazon.com/lex/
+ap-northeast-2,Amazon Lex,https://aws.amazon.com/lex/
+ap-southeast-1,Amazon Lex,https://aws.amazon.com/lex/
+ca-central-1,Amazon Lex,https://aws.amazon.com/lex/
+eu-central-1,Amazon Lex,https://aws.amazon.com/lex/
+eu-west-1,Amazon Lex,https://aws.amazon.com/lex/
+eu-west-2,Amazon Lex,https://aws.amazon.com/lex/
+us-east-1,Amazon Lex,https://aws.amazon.com/lex/
+us-gov-west-1,Amazon Lex,https://aws.amazon.com/lex/
+ap-southeast-2,Amazon Lex,https://aws.amazon.com/lex/
+us-west-2,Amazon Lex,https://aws.amazon.com/lex/
 af-south-1,AWS Fault Injection Service,https://aws.amazon.com/fis/
 ap-northeast-1,AWS Fault Injection Service,https://aws.amazon.com/fis/
 ap-southeast-1,AWS Fault Injection Service,https://aws.amazon.com/fis/
@@ -3008,18 +2949,39 @@ us-west-2,AWS Private Certificate Authority,https://aws.amazon.com/private-ca/
 cn-north-1,AWS Private Certificate Authority,https://aws.amazon.com/private-ca/
 sa-east-1,AWS Private Certificate Authority,https://aws.amazon.com/private-ca/
 us-gov-east-1,AWS Private Certificate Authority,https://aws.amazon.com/private-ca/
-ap-south-1,AWS Audit Manager,https://aws.amazon.com/audit-manager/
-ap-southeast-2,AWS Audit Manager,https://aws.amazon.com/audit-manager/
-ca-central-1,AWS Audit Manager,https://aws.amazon.com/audit-manager/
-eu-central-1,AWS Audit Manager,https://aws.amazon.com/audit-manager/
-eu-west-1,AWS Audit Manager,https://aws.amazon.com/audit-manager/
-eu-west-2,AWS Audit Manager,https://aws.amazon.com/audit-manager/
-us-east-1,AWS Audit Manager,https://aws.amazon.com/audit-manager/
-us-east-2,AWS Audit Manager,https://aws.amazon.com/audit-manager/
-us-west-1,AWS Audit Manager,https://aws.amazon.com/audit-manager/
-us-west-2,AWS Audit Manager,https://aws.amazon.com/audit-manager/
-ap-northeast-1,AWS Audit Manager,https://aws.amazon.com/audit-manager/
-ap-southeast-1,AWS Audit Manager,https://aws.amazon.com/audit-manager/
+af-south-1,Amazon FSx,https://aws.amazon.com/fsx/
+ap-northeast-3,Amazon FSx,https://aws.amazon.com/fsx/
+eu-central-1,Amazon FSx,https://aws.amazon.com/fsx/
+eu-central-2,Amazon FSx,https://aws.amazon.com/fsx/
+eu-north-1,Amazon FSx,https://aws.amazon.com/fsx/
+me-central-1,Amazon FSx,https://aws.amazon.com/fsx/
+me-south-1,Amazon FSx,https://aws.amazon.com/fsx/
+us-east-1,Amazon FSx,https://aws.amazon.com/fsx/
+us-gov-east-1,Amazon FSx,https://aws.amazon.com/fsx/
+us-west-2,Amazon FSx,https://aws.amazon.com/fsx/
+ap-south-1,Amazon FSx,https://aws.amazon.com/fsx/
+ap-southeast-1,Amazon FSx,https://aws.amazon.com/fsx/
+ap-southeast-2,Amazon FSx,https://aws.amazon.com/fsx/
+ap-southeast-3,Amazon FSx,https://aws.amazon.com/fsx/
+cn-north-1,Amazon FSx,https://aws.amazon.com/fsx/
+cn-northwest-1,Amazon FSx,https://aws.amazon.com/fsx/
+eu-west-2,Amazon FSx,https://aws.amazon.com/fsx/
+il-central-1,Amazon FSx,https://aws.amazon.com/fsx/
+sa-east-1,Amazon FSx,https://aws.amazon.com/fsx/
+us-east-2,Amazon FSx,https://aws.amazon.com/fsx/
+ap-east-1,Amazon FSx,https://aws.amazon.com/fsx/
+ap-northeast-1,Amazon FSx,https://aws.amazon.com/fsx/
+ap-northeast-2,Amazon FSx,https://aws.amazon.com/fsx/
+ap-southeast-4,Amazon FSx,https://aws.amazon.com/fsx/
+eu-south-1,Amazon FSx,https://aws.amazon.com/fsx/
+eu-south-2,Amazon FSx,https://aws.amazon.com/fsx/
+eu-west-1,Amazon FSx,https://aws.amazon.com/fsx/
+eu-west-3,Amazon FSx,https://aws.amazon.com/fsx/
+us-gov-west-1,Amazon FSx,https://aws.amazon.com/fsx/
+us-west-1,Amazon FSx,https://aws.amazon.com/fsx/
+ap-south-2,Amazon FSx,https://aws.amazon.com/fsx/
+ca-central-1,Amazon FSx,https://aws.amazon.com/fsx/
+ca-west-1,Amazon FSx,https://aws.amazon.com/fsx/
 af-south-1,Amazon Verified Permissions,https://aws.amazon.com/verified-permissions/
 ap-northeast-1,Amazon Verified Permissions,https://aws.amazon.com/verified-permissions/
 ap-southeast-1,Amazon Verified Permissions,https://aws.amazon.com/verified-permissions/
@@ -3128,18 +3090,32 @@ us-west-1,AWS Secrets Manager,https://aws.amazon.com/secrets-manager/
 ap-south-2,AWS Secrets Manager,https://aws.amazon.com/secrets-manager/
 eu-south-1,AWS Secrets Manager,https://aws.amazon.com/secrets-manager/
 us-gov-east-1,AWS Secrets Manager,https://aws.amazon.com/secrets-manager/
-ap-northeast-1,Amazon Augmented AI (A2I),https://aws.amazon.com/augmented-ai/
-ap-southeast-1,Amazon Augmented AI (A2I),https://aws.amazon.com/augmented-ai/
-ap-southeast-2,Amazon Augmented AI (A2I),https://aws.amazon.com/augmented-ai/
-ca-central-1,Amazon Augmented AI (A2I),https://aws.amazon.com/augmented-ai/
-eu-central-1,Amazon Augmented AI (A2I),https://aws.amazon.com/augmented-ai/
-eu-west-1,Amazon Augmented AI (A2I),https://aws.amazon.com/augmented-ai/
-eu-west-2,Amazon Augmented AI (A2I),https://aws.amazon.com/augmented-ai/
-us-east-1,Amazon Augmented AI (A2I),https://aws.amazon.com/augmented-ai/
-us-east-2,Amazon Augmented AI (A2I),https://aws.amazon.com/augmented-ai/
-us-west-2,Amazon Augmented AI (A2I),https://aws.amazon.com/augmented-ai/
-ap-northeast-2,Amazon Augmented AI (A2I),https://aws.amazon.com/augmented-ai/
-ap-south-1,Amazon Augmented AI (A2I),https://aws.amazon.com/augmented-ai/
+ap-northeast-2,Amazon Neptune,https://aws.amazon.com/neptune/
+ap-southeast-1,Amazon Neptune,https://aws.amazon.com/neptune/
+ap-southeast-2,Amazon Neptune,https://aws.amazon.com/neptune/
+cn-northwest-1,Amazon Neptune,https://aws.amazon.com/neptune/
+eu-west-1,Amazon Neptune,https://aws.amazon.com/neptune/
+eu-west-2,Amazon Neptune,https://aws.amazon.com/neptune/
+me-south-1,Amazon Neptune,https://aws.amazon.com/neptune/
+us-east-1,Amazon Neptune,https://aws.amazon.com/neptune/
+us-gov-east-1,Amazon Neptune,https://aws.amazon.com/neptune/
+us-west-1,Amazon Neptune,https://aws.amazon.com/neptune/
+ap-east-1,Amazon Neptune,https://aws.amazon.com/neptune/
+ap-northeast-1,Amazon Neptune,https://aws.amazon.com/neptune/
+ap-south-1,Amazon Neptune,https://aws.amazon.com/neptune/
+cn-north-1,Amazon Neptune,https://aws.amazon.com/neptune/
+eu-central-1,Amazon Neptune,https://aws.amazon.com/neptune/
+eu-west-3,Amazon Neptune,https://aws.amazon.com/neptune/
+il-central-1,Amazon Neptune,https://aws.amazon.com/neptune/
+me-central-1,Amazon Neptune,https://aws.amazon.com/neptune/
+sa-east-1,Amazon Neptune,https://aws.amazon.com/neptune/
+us-west-2,Amazon Neptune,https://aws.amazon.com/neptune/
+af-south-1,Amazon Neptune,https://aws.amazon.com/neptune/
+ap-northeast-3,Amazon Neptune,https://aws.amazon.com/neptune/
+ca-central-1,Amazon Neptune,https://aws.amazon.com/neptune/
+eu-north-1,Amazon Neptune,https://aws.amazon.com/neptune/
+us-east-2,Amazon Neptune,https://aws.amazon.com/neptune/
+us-gov-west-1,Amazon Neptune,https://aws.amazon.com/neptune/
 ap-northeast-1,AWS Batch,https://aws.amazon.com/batch/
 ap-south-1,AWS Batch,https://aws.amazon.com/batch/
 ap-southeast-2,AWS Batch,https://aws.amazon.com/batch/
@@ -3193,6 +3169,18 @@ eu-west-3,AWS Amplify,https://aws.amazon.com/amplify/
 sa-east-1,AWS Amplify,https://aws.amazon.com/amplify/
 us-east-1,AWS Amplify,https://aws.amazon.com/amplify/
 us-west-1,AWS Amplify,https://aws.amazon.com/amplify/
+ap-south-1,AWS Audit Manager,https://aws.amazon.com/audit-manager/
+ap-southeast-2,AWS Audit Manager,https://aws.amazon.com/audit-manager/
+ca-central-1,AWS Audit Manager,https://aws.amazon.com/audit-manager/
+eu-central-1,AWS Audit Manager,https://aws.amazon.com/audit-manager/
+eu-west-1,AWS Audit Manager,https://aws.amazon.com/audit-manager/
+eu-west-2,AWS Audit Manager,https://aws.amazon.com/audit-manager/
+us-east-1,AWS Audit Manager,https://aws.amazon.com/audit-manager/
+us-east-2,AWS Audit Manager,https://aws.amazon.com/audit-manager/
+us-west-1,AWS Audit Manager,https://aws.amazon.com/audit-manager/
+us-west-2,AWS Audit Manager,https://aws.amazon.com/audit-manager/
+ap-northeast-1,AWS Audit Manager,https://aws.amazon.com/audit-manager/
+ap-southeast-1,AWS Audit Manager,https://aws.amazon.com/audit-manager/
 af-south-1,Amazon Elastic MapReduce (EMR),https://aws.amazon.com/emr/
 ap-southeast-1,Amazon Elastic MapReduce (EMR),https://aws.amazon.com/emr/
 ap-southeast-3,Amazon Elastic MapReduce (EMR),https://aws.amazon.com/emr/
@@ -3232,30 +3220,6 @@ ap-southeast-2,Amazon WorkDocs,https://aws.amazon.com/workdocs/
 eu-west-1,Amazon WorkDocs,https://aws.amazon.com/workdocs/
 us-east-1,Amazon WorkDocs,https://aws.amazon.com/workdocs/
 us-west-2,Amazon WorkDocs,https://aws.amazon.com/workdocs/
-af-south-1,Amazon Simple Email Service (SES),https://aws.amazon.com/ses/
-ap-northeast-1,Amazon Simple Email Service (SES),https://aws.amazon.com/ses/
-ap-northeast-3,Amazon Simple Email Service (SES),https://aws.amazon.com/ses/
-ap-southeast-1,Amazon Simple Email Service (SES),https://aws.amazon.com/ses/
-eu-west-2,Amazon Simple Email Service (SES),https://aws.amazon.com/ses/
-eu-west-3,Amazon Simple Email Service (SES),https://aws.amazon.com/ses/
-il-central-1,Amazon Simple Email Service (SES),https://aws.amazon.com/ses/
-sa-east-1,Amazon Simple Email Service (SES),https://aws.amazon.com/ses/
-us-gov-east-1,Amazon Simple Email Service (SES),https://aws.amazon.com/ses/
-us-gov-west-1,Amazon Simple Email Service (SES),https://aws.amazon.com/ses/
-ap-northeast-2,Amazon Simple Email Service (SES),https://aws.amazon.com/ses/
-ap-south-1,Amazon Simple Email Service (SES),https://aws.amazon.com/ses/
-ap-southeast-3,Amazon Simple Email Service (SES),https://aws.amazon.com/ses/
-eu-central-1,Amazon Simple Email Service (SES),https://aws.amazon.com/ses/
-eu-south-1,Amazon Simple Email Service (SES),https://aws.amazon.com/ses/
-eu-west-1,Amazon Simple Email Service (SES),https://aws.amazon.com/ses/
-me-south-1,Amazon Simple Email Service (SES),https://aws.amazon.com/ses/
-us-east-2,Amazon Simple Email Service (SES),https://aws.amazon.com/ses/
-us-west-1,Amazon Simple Email Service (SES),https://aws.amazon.com/ses/
-us-west-2,Amazon Simple Email Service (SES),https://aws.amazon.com/ses/
-ap-southeast-2,Amazon Simple Email Service (SES),https://aws.amazon.com/ses/
-ca-central-1,Amazon Simple Email Service (SES),https://aws.amazon.com/ses/
-eu-north-1,Amazon Simple Email Service (SES),https://aws.amazon.com/ses/
-us-east-1,Amazon Simple Email Service (SES),https://aws.amazon.com/ses/
 ap-northeast-1,Amazon Simple Workflow Service (SWF),https://aws.amazon.com/swf/
 ap-northeast-3,Amazon Simple Workflow Service (SWF),https://aws.amazon.com/swf/
 ap-south-1,Amazon Simple Workflow Service (SWF),https://aws.amazon.com/swf/
@@ -3307,6 +3271,18 @@ eu-west-3,Amazon VPC Lattice,https://aws.amazon.com/vpc/lattice/
 us-east-2,Amazon VPC Lattice,https://aws.amazon.com/vpc/lattice/
 us-west-1,Amazon VPC Lattice,https://aws.amazon.com/vpc/lattice/
 us-west-2,Amazon VPC Lattice,https://aws.amazon.com/vpc/lattice/
+ap-northeast-1,Amazon Augmented AI (A2I),https://aws.amazon.com/augmented-ai/
+ap-southeast-1,Amazon Augmented AI (A2I),https://aws.amazon.com/augmented-ai/
+ap-southeast-2,Amazon Augmented AI (A2I),https://aws.amazon.com/augmented-ai/
+ca-central-1,Amazon Augmented AI (A2I),https://aws.amazon.com/augmented-ai/
+eu-central-1,Amazon Augmented AI (A2I),https://aws.amazon.com/augmented-ai/
+eu-west-1,Amazon Augmented AI (A2I),https://aws.amazon.com/augmented-ai/
+eu-west-2,Amazon Augmented AI (A2I),https://aws.amazon.com/augmented-ai/
+us-east-1,Amazon Augmented AI (A2I),https://aws.amazon.com/augmented-ai/
+us-east-2,Amazon Augmented AI (A2I),https://aws.amazon.com/augmented-ai/
+us-west-2,Amazon Augmented AI (A2I),https://aws.amazon.com/augmented-ai/
+ap-northeast-2,Amazon Augmented AI (A2I),https://aws.amazon.com/augmented-ai/
+ap-south-1,Amazon Augmented AI (A2I),https://aws.amazon.com/augmented-ai/
 af-south-1,AWS Marketplace,https://aws.amazon.com/mp/
 ap-northeast-1,AWS Marketplace,https://aws.amazon.com/mp/
 ap-northeast-3,AWS Marketplace,https://aws.amazon.com/mp/
@@ -3340,36 +3316,6 @@ eu-west-3,AWS Marketplace,https://aws.amazon.com/mp/
 ap-southeast-2,AWS Marketplace,https://aws.amazon.com/mp/
 ca-west-1,AWS Marketplace,https://aws.amazon.com/mp/
 il-central-1,AWS Marketplace,https://aws.amazon.com/mp/
-ap-southeast-3,AWS Application Migration Service (MGN),https://aws.amazon.com/application-migration-service/
-ca-central-1,AWS Application Migration Service (MGN),https://aws.amazon.com/application-migration-service/
-eu-south-1,AWS Application Migration Service (MGN),https://aws.amazon.com/application-migration-service/
-eu-south-2,AWS Application Migration Service (MGN),https://aws.amazon.com/application-migration-service/
-eu-west-2,AWS Application Migration Service (MGN),https://aws.amazon.com/application-migration-service/
-il-central-1,AWS Application Migration Service (MGN),https://aws.amazon.com/application-migration-service/
-me-south-1,AWS Application Migration Service (MGN),https://aws.amazon.com/application-migration-service/
-us-east-2,AWS Application Migration Service (MGN),https://aws.amazon.com/application-migration-service/
-us-gov-west-1,AWS Application Migration Service (MGN),https://aws.amazon.com/application-migration-service/
-us-west-1,AWS Application Migration Service (MGN),https://aws.amazon.com/application-migration-service/
-ap-northeast-1,AWS Application Migration Service (MGN),https://aws.amazon.com/application-migration-service/
-ap-northeast-3,AWS Application Migration Service (MGN),https://aws.amazon.com/application-migration-service/
-ap-south-1,AWS Application Migration Service (MGN),https://aws.amazon.com/application-migration-service/
-ap-southeast-2,AWS Application Migration Service (MGN),https://aws.amazon.com/application-migration-service/
-ap-southeast-4,AWS Application Migration Service (MGN),https://aws.amazon.com/application-migration-service/
-eu-north-1,AWS Application Migration Service (MGN),https://aws.amazon.com/application-migration-service/
-eu-west-1,AWS Application Migration Service (MGN),https://aws.amazon.com/application-migration-service/
-eu-west-3,AWS Application Migration Service (MGN),https://aws.amazon.com/application-migration-service/
-sa-east-1,AWS Application Migration Service (MGN),https://aws.amazon.com/application-migration-service/
-us-east-1,AWS Application Migration Service (MGN),https://aws.amazon.com/application-migration-service/
-af-south-1,AWS Application Migration Service (MGN),https://aws.amazon.com/application-migration-service/
-ap-east-1,AWS Application Migration Service (MGN),https://aws.amazon.com/application-migration-service/
-ap-northeast-2,AWS Application Migration Service (MGN),https://aws.amazon.com/application-migration-service/
-ap-south-2,AWS Application Migration Service (MGN),https://aws.amazon.com/application-migration-service/
-ap-southeast-1,AWS Application Migration Service (MGN),https://aws.amazon.com/application-migration-service/
-eu-central-1,AWS Application Migration Service (MGN),https://aws.amazon.com/application-migration-service/
-eu-central-2,AWS Application Migration Service (MGN),https://aws.amazon.com/application-migration-service/
-me-central-1,AWS Application Migration Service (MGN),https://aws.amazon.com/application-migration-service/
-us-gov-east-1,AWS Application Migration Service (MGN),https://aws.amazon.com/application-migration-service/
-us-west-2,AWS Application Migration Service (MGN),https://aws.amazon.com/application-migration-service/
 af-south-1,AWS Transfer Family,https://aws.amazon.com/aws-transfer-family/
 ap-south-1,AWS Transfer Family,https://aws.amazon.com/aws-transfer-family/
 ap-southeast-1,AWS Transfer Family,https://aws.amazon.com/aws-transfer-family/
@@ -3403,6 +3349,30 @@ us-west-2,AWS Transfer Family,https://aws.amazon.com/aws-transfer-family/
 cn-north-1,AWS Transfer Family,https://aws.amazon.com/aws-transfer-family/
 cn-northwest-1,AWS Transfer Family,https://aws.amazon.com/aws-transfer-family/
 eu-south-1,AWS Transfer Family,https://aws.amazon.com/aws-transfer-family/
+af-south-1,Amazon Simple Email Service (SES),https://aws.amazon.com/ses/
+ap-northeast-1,Amazon Simple Email Service (SES),https://aws.amazon.com/ses/
+ap-northeast-3,Amazon Simple Email Service (SES),https://aws.amazon.com/ses/
+ap-southeast-1,Amazon Simple Email Service (SES),https://aws.amazon.com/ses/
+eu-west-2,Amazon Simple Email Service (SES),https://aws.amazon.com/ses/
+eu-west-3,Amazon Simple Email Service (SES),https://aws.amazon.com/ses/
+il-central-1,Amazon Simple Email Service (SES),https://aws.amazon.com/ses/
+sa-east-1,Amazon Simple Email Service (SES),https://aws.amazon.com/ses/
+us-gov-east-1,Amazon Simple Email Service (SES),https://aws.amazon.com/ses/
+us-gov-west-1,Amazon Simple Email Service (SES),https://aws.amazon.com/ses/
+ap-northeast-2,Amazon Simple Email Service (SES),https://aws.amazon.com/ses/
+ap-south-1,Amazon Simple Email Service (SES),https://aws.amazon.com/ses/
+ap-southeast-3,Amazon Simple Email Service (SES),https://aws.amazon.com/ses/
+eu-central-1,Amazon Simple Email Service (SES),https://aws.amazon.com/ses/
+eu-south-1,Amazon Simple Email Service (SES),https://aws.amazon.com/ses/
+eu-west-1,Amazon Simple Email Service (SES),https://aws.amazon.com/ses/
+me-south-1,Amazon Simple Email Service (SES),https://aws.amazon.com/ses/
+us-east-2,Amazon Simple Email Service (SES),https://aws.amazon.com/ses/
+us-west-1,Amazon Simple Email Service (SES),https://aws.amazon.com/ses/
+us-west-2,Amazon Simple Email Service (SES),https://aws.amazon.com/ses/
+ap-southeast-2,Amazon Simple Email Service (SES),https://aws.amazon.com/ses/
+ca-central-1,Amazon Simple Email Service (SES),https://aws.amazon.com/ses/
+eu-north-1,Amazon Simple Email Service (SES),https://aws.amazon.com/ses/
+us-east-1,Amazon Simple Email Service (SES),https://aws.amazon.com/ses/
 ap-northeast-1,EC2 Image Builder,https://aws.amazon.com/image-builder/
 ap-south-2,EC2 Image Builder,https://aws.amazon.com/image-builder/
 ap-southeast-1,EC2 Image Builder,https://aws.amazon.com/image-builder/
@@ -3468,15 +3438,6 @@ us-gov-west-1,AWS CodePipeline,https://aws.amazon.com/codepipeline/
 us-west-1,AWS CodePipeline,https://aws.amazon.com/codepipeline/
 ap-southeast-1,AWS CodePipeline,https://aws.amazon.com/codepipeline/
 il-central-1,AWS CodePipeline,https://aws.amazon.com/codepipeline/
-ap-northeast-1,AWS OpsWorks for Chef Automate,https://aws.amazon.com/opsworks/chefautomate/
-ap-southeast-1,AWS OpsWorks for Chef Automate,https://aws.amazon.com/opsworks/chefautomate/
-ap-southeast-2,AWS OpsWorks for Chef Automate,https://aws.amazon.com/opsworks/chefautomate/
-eu-central-1,AWS OpsWorks for Chef Automate,https://aws.amazon.com/opsworks/chefautomate/
-eu-west-1,AWS OpsWorks for Chef Automate,https://aws.amazon.com/opsworks/chefautomate/
-us-east-1,AWS OpsWorks for Chef Automate,https://aws.amazon.com/opsworks/chefautomate/
-us-east-2,AWS OpsWorks for Chef Automate,https://aws.amazon.com/opsworks/chefautomate/
-us-west-1,AWS OpsWorks for Chef Automate,https://aws.amazon.com/opsworks/chefautomate/
-us-west-2,AWS OpsWorks for Chef Automate,https://aws.amazon.com/opsworks/chefautomate/
 ap-east-1,AWS Auto Scaling,https://aws.amazon.com/autoscaling/
 ap-northeast-2,AWS Auto Scaling,https://aws.amazon.com/autoscaling/
 ap-northeast-3,AWS Auto Scaling,https://aws.amazon.com/autoscaling/
@@ -3511,39 +3472,36 @@ us-east-1,Amazon Timestream,https://aws.amazon.com/timestream
 us-east-2,Amazon Timestream,https://aws.amazon.com/timestream
 us-gov-west-1,Amazon Timestream,https://aws.amazon.com/timestream
 us-west-2,Amazon Timestream,https://aws.amazon.com/timestream
-af-south-1,AWS Lake Formation,https://aws.amazon.com/lake-formation/
-ap-southeast-1,AWS Lake Formation,https://aws.amazon.com/lake-formation/
-ap-southeast-3,AWS Lake Formation,https://aws.amazon.com/lake-formation/
-eu-central-1,AWS Lake Formation,https://aws.amazon.com/lake-formation/
-eu-north-1,AWS Lake Formation,https://aws.amazon.com/lake-formation/
-eu-south-1,AWS Lake Formation,https://aws.amazon.com/lake-formation/
-eu-south-2,AWS Lake Formation,https://aws.amazon.com/lake-formation/
-us-east-1,AWS Lake Formation,https://aws.amazon.com/lake-formation/
-us-gov-east-1,AWS Lake Formation,https://aws.amazon.com/lake-formation/
-us-west-1,AWS Lake Formation,https://aws.amazon.com/lake-formation/
-ap-east-1,AWS Lake Formation,https://aws.amazon.com/lake-formation/
-ap-northeast-1,AWS Lake Formation,https://aws.amazon.com/lake-formation/
-ap-northeast-2,AWS Lake Formation,https://aws.amazon.com/lake-formation/
-ap-northeast-3,AWS Lake Formation,https://aws.amazon.com/lake-formation/
-ca-central-1,AWS Lake Formation,https://aws.amazon.com/lake-formation/
-cn-north-1,AWS Lake Formation,https://aws.amazon.com/lake-formation/
-eu-west-3,AWS Lake Formation,https://aws.amazon.com/lake-formation/
-me-south-1,AWS Lake Formation,https://aws.amazon.com/lake-formation/
-us-gov-west-1,AWS Lake Formation,https://aws.amazon.com/lake-formation/
-us-west-2,AWS Lake Formation,https://aws.amazon.com/lake-formation/
-ap-south-2,AWS Lake Formation,https://aws.amazon.com/lake-formation/
-ap-southeast-2,AWS Lake Formation,https://aws.amazon.com/lake-formation/
-ap-southeast-4,AWS Lake Formation,https://aws.amazon.com/lake-formation/
-cn-northwest-1,AWS Lake Formation,https://aws.amazon.com/lake-formation/
-eu-central-2,AWS Lake Formation,https://aws.amazon.com/lake-formation/
-eu-west-1,AWS Lake Formation,https://aws.amazon.com/lake-formation/
-eu-west-2,AWS Lake Formation,https://aws.amazon.com/lake-formation/
-il-central-1,AWS Lake Formation,https://aws.amazon.com/lake-formation/
-me-central-1,AWS Lake Formation,https://aws.amazon.com/lake-formation/
-us-east-2,AWS Lake Formation,https://aws.amazon.com/lake-formation/
-ap-south-1,AWS Lake Formation,https://aws.amazon.com/lake-formation/
-ca-west-1,AWS Lake Formation,https://aws.amazon.com/lake-formation/
-sa-east-1,AWS Lake Formation,https://aws.amazon.com/lake-formation/
+ap-southeast-3,AWS Application Migration Service (MGN),https://aws.amazon.com/application-migration-service/
+ca-central-1,AWS Application Migration Service (MGN),https://aws.amazon.com/application-migration-service/
+eu-south-1,AWS Application Migration Service (MGN),https://aws.amazon.com/application-migration-service/
+eu-south-2,AWS Application Migration Service (MGN),https://aws.amazon.com/application-migration-service/
+eu-west-2,AWS Application Migration Service (MGN),https://aws.amazon.com/application-migration-service/
+il-central-1,AWS Application Migration Service (MGN),https://aws.amazon.com/application-migration-service/
+me-south-1,AWS Application Migration Service (MGN),https://aws.amazon.com/application-migration-service/
+us-east-2,AWS Application Migration Service (MGN),https://aws.amazon.com/application-migration-service/
+us-gov-west-1,AWS Application Migration Service (MGN),https://aws.amazon.com/application-migration-service/
+us-west-1,AWS Application Migration Service (MGN),https://aws.amazon.com/application-migration-service/
+ap-northeast-1,AWS Application Migration Service (MGN),https://aws.amazon.com/application-migration-service/
+ap-northeast-3,AWS Application Migration Service (MGN),https://aws.amazon.com/application-migration-service/
+ap-south-1,AWS Application Migration Service (MGN),https://aws.amazon.com/application-migration-service/
+ap-southeast-2,AWS Application Migration Service (MGN),https://aws.amazon.com/application-migration-service/
+ap-southeast-4,AWS Application Migration Service (MGN),https://aws.amazon.com/application-migration-service/
+eu-north-1,AWS Application Migration Service (MGN),https://aws.amazon.com/application-migration-service/
+eu-west-1,AWS Application Migration Service (MGN),https://aws.amazon.com/application-migration-service/
+eu-west-3,AWS Application Migration Service (MGN),https://aws.amazon.com/application-migration-service/
+sa-east-1,AWS Application Migration Service (MGN),https://aws.amazon.com/application-migration-service/
+us-east-1,AWS Application Migration Service (MGN),https://aws.amazon.com/application-migration-service/
+af-south-1,AWS Application Migration Service (MGN),https://aws.amazon.com/application-migration-service/
+ap-east-1,AWS Application Migration Service (MGN),https://aws.amazon.com/application-migration-service/
+ap-northeast-2,AWS Application Migration Service (MGN),https://aws.amazon.com/application-migration-service/
+ap-south-2,AWS Application Migration Service (MGN),https://aws.amazon.com/application-migration-service/
+ap-southeast-1,AWS Application Migration Service (MGN),https://aws.amazon.com/application-migration-service/
+eu-central-1,AWS Application Migration Service (MGN),https://aws.amazon.com/application-migration-service/
+eu-central-2,AWS Application Migration Service (MGN),https://aws.amazon.com/application-migration-service/
+me-central-1,AWS Application Migration Service (MGN),https://aws.amazon.com/application-migration-service/
+us-gov-east-1,AWS Application Migration Service (MGN),https://aws.amazon.com/application-migration-service/
+us-west-2,AWS Application Migration Service (MGN),https://aws.amazon.com/application-migration-service/
 ap-northeast-1,AWS Migration Hub,https://aws.amazon.com/migration-hub/
 ap-southeast-2,AWS Migration Hub,https://aws.amazon.com/migration-hub/
 eu-central-1,AWS Migration Hub,https://aws.amazon.com/migration-hub/
@@ -3602,6 +3560,15 @@ us-gov-west-1,Amazon CloudWatch,https://aws.amazon.com/cloudwatch/
 ap-south-1,Amazon CloudWatch,https://aws.amazon.com/cloudwatch/
 ap-southeast-4,Amazon CloudWatch,https://aws.amazon.com/cloudwatch/
 eu-west-2,Amazon CloudWatch,https://aws.amazon.com/cloudwatch/
+ap-northeast-1,AWS OpsWorks for Chef Automate,https://aws.amazon.com/opsworks/chefautomate/
+ap-southeast-1,AWS OpsWorks for Chef Automate,https://aws.amazon.com/opsworks/chefautomate/
+ap-southeast-2,AWS OpsWorks for Chef Automate,https://aws.amazon.com/opsworks/chefautomate/
+eu-central-1,AWS OpsWorks for Chef Automate,https://aws.amazon.com/opsworks/chefautomate/
+eu-west-1,AWS OpsWorks for Chef Automate,https://aws.amazon.com/opsworks/chefautomate/
+us-east-1,AWS OpsWorks for Chef Automate,https://aws.amazon.com/opsworks/chefautomate/
+us-east-2,AWS OpsWorks for Chef Automate,https://aws.amazon.com/opsworks/chefautomate/
+us-west-1,AWS OpsWorks for Chef Automate,https://aws.amazon.com/opsworks/chefautomate/
+us-west-2,AWS OpsWorks for Chef Automate,https://aws.amazon.com/opsworks/chefautomate/
 ap-northeast-1,Amazon Location Service,https://aws.amazon.com/location
 ap-south-1,Amazon Location Service,https://aws.amazon.com/location
 ap-southeast-1,Amazon Location Service,https://aws.amazon.com/location
@@ -3651,24 +3618,40 @@ us-east-2,AWS Cloud9,https://aws.amazon.com/cloud9/
 us-west-2,AWS Cloud9,https://aws.amazon.com/cloud9/
 eu-west-2,AWS Cloud9,https://aws.amazon.com/cloud9/
 eu-west-3,AWS Cloud9,https://aws.amazon.com/cloud9/
+af-south-1,AWS Lake Formation,https://aws.amazon.com/lake-formation/
+ap-southeast-1,AWS Lake Formation,https://aws.amazon.com/lake-formation/
+ap-southeast-3,AWS Lake Formation,https://aws.amazon.com/lake-formation/
+eu-central-1,AWS Lake Formation,https://aws.amazon.com/lake-formation/
+eu-north-1,AWS Lake Formation,https://aws.amazon.com/lake-formation/
+eu-south-1,AWS Lake Formation,https://aws.amazon.com/lake-formation/
+eu-south-2,AWS Lake Formation,https://aws.amazon.com/lake-formation/
+us-east-1,AWS Lake Formation,https://aws.amazon.com/lake-formation/
+us-gov-east-1,AWS Lake Formation,https://aws.amazon.com/lake-formation/
+us-west-1,AWS Lake Formation,https://aws.amazon.com/lake-formation/
+ap-east-1,AWS Lake Formation,https://aws.amazon.com/lake-formation/
+ap-northeast-1,AWS Lake Formation,https://aws.amazon.com/lake-formation/
+ap-northeast-2,AWS Lake Formation,https://aws.amazon.com/lake-formation/
+ap-northeast-3,AWS Lake Formation,https://aws.amazon.com/lake-formation/
+ca-central-1,AWS Lake Formation,https://aws.amazon.com/lake-formation/
+cn-north-1,AWS Lake Formation,https://aws.amazon.com/lake-formation/
+eu-west-3,AWS Lake Formation,https://aws.amazon.com/lake-formation/
+me-south-1,AWS Lake Formation,https://aws.amazon.com/lake-formation/
+us-gov-west-1,AWS Lake Formation,https://aws.amazon.com/lake-formation/
+us-west-2,AWS Lake Formation,https://aws.amazon.com/lake-formation/
+ap-south-2,AWS Lake Formation,https://aws.amazon.com/lake-formation/
+ap-southeast-2,AWS Lake Formation,https://aws.amazon.com/lake-formation/
+ap-southeast-4,AWS Lake Formation,https://aws.amazon.com/lake-formation/
+cn-northwest-1,AWS Lake Formation,https://aws.amazon.com/lake-formation/
+eu-central-2,AWS Lake Formation,https://aws.amazon.com/lake-formation/
+eu-west-1,AWS Lake Formation,https://aws.amazon.com/lake-formation/
+eu-west-2,AWS Lake Formation,https://aws.amazon.com/lake-formation/
+il-central-1,AWS Lake Formation,https://aws.amazon.com/lake-formation/
+me-central-1,AWS Lake Formation,https://aws.amazon.com/lake-formation/
+us-east-2,AWS Lake Formation,https://aws.amazon.com/lake-formation/
+ap-south-1,AWS Lake Formation,https://aws.amazon.com/lake-formation/
+ca-west-1,AWS Lake Formation,https://aws.amazon.com/lake-formation/
+sa-east-1,AWS Lake Formation,https://aws.amazon.com/lake-formation/
 us-east-1,Amazon CodeWhisperer,https://aws.amazon.com/codewhisperer/
-af-south-1,Amazon WorkSpaces,https://aws.amazon.com/workspaces/
-ap-south-1,Amazon WorkSpaces,https://aws.amazon.com/workspaces/
-ap-southeast-2,Amazon WorkSpaces,https://aws.amazon.com/workspaces/
-ca-central-1,Amazon WorkSpaces,https://aws.amazon.com/workspaces/
-cn-northwest-1,Amazon WorkSpaces,https://aws.amazon.com/workspaces/
-eu-central-1,Amazon WorkSpaces,https://aws.amazon.com/workspaces/
-sa-east-1,Amazon WorkSpaces,https://aws.amazon.com/workspaces/
-us-east-1,Amazon WorkSpaces,https://aws.amazon.com/workspaces/
-us-gov-west-1,Amazon WorkSpaces,https://aws.amazon.com/workspaces/
-us-west-2,Amazon WorkSpaces,https://aws.amazon.com/workspaces/
-ap-northeast-1,Amazon WorkSpaces,https://aws.amazon.com/workspaces/
-ap-northeast-2,Amazon WorkSpaces,https://aws.amazon.com/workspaces/
-ap-southeast-1,Amazon WorkSpaces,https://aws.amazon.com/workspaces/
-eu-west-1,Amazon WorkSpaces,https://aws.amazon.com/workspaces/
-eu-west-2,Amazon WorkSpaces,https://aws.amazon.com/workspaces/
-il-central-1,Amazon WorkSpaces,https://aws.amazon.com/workspaces/
-us-gov-east-1,Amazon WorkSpaces,https://aws.amazon.com/workspaces/
 ap-northeast-1,Amazon Managed Blockchain,https://aws.amazon.com/managed-blockchain/
 ap-northeast-2,Amazon Managed Blockchain,https://aws.amazon.com/managed-blockchain/
 ap-southeast-1,Amazon Managed Blockchain,https://aws.amazon.com/managed-blockchain/
@@ -3736,6 +3719,23 @@ us-west-2,AWS Database Migration Service,https://aws.amazon.com/dms/
 af-south-1,AWS Database Migration Service,https://aws.amazon.com/dms/
 ap-south-1,AWS Database Migration Service,https://aws.amazon.com/dms/
 us-gov-east-1,AWS Database Migration Service,https://aws.amazon.com/dms/
+af-south-1,Amazon WorkSpaces,https://aws.amazon.com/workspaces/
+ap-south-1,Amazon WorkSpaces,https://aws.amazon.com/workspaces/
+ap-southeast-2,Amazon WorkSpaces,https://aws.amazon.com/workspaces/
+ca-central-1,Amazon WorkSpaces,https://aws.amazon.com/workspaces/
+cn-northwest-1,Amazon WorkSpaces,https://aws.amazon.com/workspaces/
+eu-central-1,Amazon WorkSpaces,https://aws.amazon.com/workspaces/
+sa-east-1,Amazon WorkSpaces,https://aws.amazon.com/workspaces/
+us-east-1,Amazon WorkSpaces,https://aws.amazon.com/workspaces/
+us-gov-west-1,Amazon WorkSpaces,https://aws.amazon.com/workspaces/
+us-west-2,Amazon WorkSpaces,https://aws.amazon.com/workspaces/
+ap-northeast-1,Amazon WorkSpaces,https://aws.amazon.com/workspaces/
+ap-northeast-2,Amazon WorkSpaces,https://aws.amazon.com/workspaces/
+ap-southeast-1,Amazon WorkSpaces,https://aws.amazon.com/workspaces/
+eu-west-1,Amazon WorkSpaces,https://aws.amazon.com/workspaces/
+eu-west-2,Amazon WorkSpaces,https://aws.amazon.com/workspaces/
+il-central-1,Amazon WorkSpaces,https://aws.amazon.com/workspaces/
+us-gov-east-1,Amazon WorkSpaces,https://aws.amazon.com/workspaces/
 ap-east-1,AWS Serverless Application Repository,https://aws.amazon.com/serverless/serverlessrepo/
 ap-northeast-1,AWS Serverless Application Repository,https://aws.amazon.com/serverless/serverlessrepo/
 ap-northeast-2,AWS Serverless Application Repository,https://aws.amazon.com/serverless/serverlessrepo/
@@ -3768,33 +3768,6 @@ eu-west-2,AWS Entity Resolution,https://aws.amazon.com/entity-resolution
 us-east-1,AWS Entity Resolution,https://aws.amazon.com/entity-resolution
 us-east-2,AWS Entity Resolution,https://aws.amazon.com/entity-resolution
 us-west-2,AWS Entity Resolution,https://aws.amazon.com/entity-resolution
-ap-east-1,AWS Elastic Beanstalk,https://aws.amazon.com/elasticbeanstalk/
-ap-northeast-2,AWS Elastic Beanstalk,https://aws.amazon.com/elasticbeanstalk/
-ap-south-1,AWS Elastic Beanstalk,https://aws.amazon.com/elasticbeanstalk/
-ap-southeast-2,AWS Elastic Beanstalk,https://aws.amazon.com/elasticbeanstalk/
-ap-southeast-3,AWS Elastic Beanstalk,https://aws.amazon.com/elasticbeanstalk/
-eu-north-1,AWS Elastic Beanstalk,https://aws.amazon.com/elasticbeanstalk/
-eu-west-1,AWS Elastic Beanstalk,https://aws.amazon.com/elasticbeanstalk/
-sa-east-1,AWS Elastic Beanstalk,https://aws.amazon.com/elasticbeanstalk/
-us-gov-east-1,AWS Elastic Beanstalk,https://aws.amazon.com/elasticbeanstalk/
-us-west-1,AWS Elastic Beanstalk,https://aws.amazon.com/elasticbeanstalk/
-af-south-1,AWS Elastic Beanstalk,https://aws.amazon.com/elasticbeanstalk/
-ap-northeast-3,AWS Elastic Beanstalk,https://aws.amazon.com/elasticbeanstalk/
-ap-southeast-1,AWS Elastic Beanstalk,https://aws.amazon.com/elasticbeanstalk/
-cn-north-1,AWS Elastic Beanstalk,https://aws.amazon.com/elasticbeanstalk/
-cn-northwest-1,AWS Elastic Beanstalk,https://aws.amazon.com/elasticbeanstalk/
-eu-central-1,AWS Elastic Beanstalk,https://aws.amazon.com/elasticbeanstalk/
-eu-south-1,AWS Elastic Beanstalk,https://aws.amazon.com/elasticbeanstalk/
-eu-west-2,AWS Elastic Beanstalk,https://aws.amazon.com/elasticbeanstalk/
-me-south-1,AWS Elastic Beanstalk,https://aws.amazon.com/elasticbeanstalk/
-us-east-1,AWS Elastic Beanstalk,https://aws.amazon.com/elasticbeanstalk/
-ap-northeast-1,AWS Elastic Beanstalk,https://aws.amazon.com/elasticbeanstalk/
-ca-central-1,AWS Elastic Beanstalk,https://aws.amazon.com/elasticbeanstalk/
-eu-west-3,AWS Elastic Beanstalk,https://aws.amazon.com/elasticbeanstalk/
-il-central-1,AWS Elastic Beanstalk,https://aws.amazon.com/elasticbeanstalk/
-us-east-2,AWS Elastic Beanstalk,https://aws.amazon.com/elasticbeanstalk/
-us-gov-west-1,AWS Elastic Beanstalk,https://aws.amazon.com/elasticbeanstalk/
-us-west-2,AWS Elastic Beanstalk,https://aws.amazon.com/elasticbeanstalk/
 ap-south-1,AWS Organizations,https://aws.amazon.com/organizations
 ap-south-2,AWS Organizations,https://aws.amazon.com/organizations
 ap-southeast-2,AWS Organizations,https://aws.amazon.com/organizations
@@ -3879,17 +3852,33 @@ us-west-2,Amazon ElastiCache,https://aws.amazon.com/elasticache/
 ap-northeast-2,Amazon ElastiCache,https://aws.amazon.com/elasticache/
 eu-central-1,Amazon ElastiCache,https://aws.amazon.com/elasticache/
 me-south-1,Amazon ElastiCache,https://aws.amazon.com/elasticache/
-ap-northeast-1,AWS Clean Rooms,https://aws.amazon.com/clean-rooms/
-ap-northeast-2,AWS Clean Rooms,https://aws.amazon.com/clean-rooms/
-ap-southeast-1,AWS Clean Rooms,https://aws.amazon.com/clean-rooms/
-ap-southeast-2,AWS Clean Rooms,https://aws.amazon.com/clean-rooms/
-eu-central-1,AWS Clean Rooms,https://aws.amazon.com/clean-rooms/
-eu-north-1,AWS Clean Rooms,https://aws.amazon.com/clean-rooms/
-eu-west-1,AWS Clean Rooms,https://aws.amazon.com/clean-rooms/
-eu-west-2,AWS Clean Rooms,https://aws.amazon.com/clean-rooms/
-us-east-1,AWS Clean Rooms,https://aws.amazon.com/clean-rooms/
-us-west-2,AWS Clean Rooms,https://aws.amazon.com/clean-rooms/
-us-east-2,AWS Clean Rooms,https://aws.amazon.com/clean-rooms/
+ap-east-1,AWS Elastic Beanstalk,https://aws.amazon.com/elasticbeanstalk/
+ap-northeast-2,AWS Elastic Beanstalk,https://aws.amazon.com/elasticbeanstalk/
+ap-south-1,AWS Elastic Beanstalk,https://aws.amazon.com/elasticbeanstalk/
+ap-southeast-2,AWS Elastic Beanstalk,https://aws.amazon.com/elasticbeanstalk/
+ap-southeast-3,AWS Elastic Beanstalk,https://aws.amazon.com/elasticbeanstalk/
+eu-north-1,AWS Elastic Beanstalk,https://aws.amazon.com/elasticbeanstalk/
+eu-west-1,AWS Elastic Beanstalk,https://aws.amazon.com/elasticbeanstalk/
+sa-east-1,AWS Elastic Beanstalk,https://aws.amazon.com/elasticbeanstalk/
+us-gov-east-1,AWS Elastic Beanstalk,https://aws.amazon.com/elasticbeanstalk/
+us-west-1,AWS Elastic Beanstalk,https://aws.amazon.com/elasticbeanstalk/
+af-south-1,AWS Elastic Beanstalk,https://aws.amazon.com/elasticbeanstalk/
+ap-northeast-3,AWS Elastic Beanstalk,https://aws.amazon.com/elasticbeanstalk/
+ap-southeast-1,AWS Elastic Beanstalk,https://aws.amazon.com/elasticbeanstalk/
+cn-north-1,AWS Elastic Beanstalk,https://aws.amazon.com/elasticbeanstalk/
+cn-northwest-1,AWS Elastic Beanstalk,https://aws.amazon.com/elasticbeanstalk/
+eu-central-1,AWS Elastic Beanstalk,https://aws.amazon.com/elasticbeanstalk/
+eu-south-1,AWS Elastic Beanstalk,https://aws.amazon.com/elasticbeanstalk/
+eu-west-2,AWS Elastic Beanstalk,https://aws.amazon.com/elasticbeanstalk/
+me-south-1,AWS Elastic Beanstalk,https://aws.amazon.com/elasticbeanstalk/
+us-east-1,AWS Elastic Beanstalk,https://aws.amazon.com/elasticbeanstalk/
+ap-northeast-1,AWS Elastic Beanstalk,https://aws.amazon.com/elasticbeanstalk/
+ca-central-1,AWS Elastic Beanstalk,https://aws.amazon.com/elasticbeanstalk/
+eu-west-3,AWS Elastic Beanstalk,https://aws.amazon.com/elasticbeanstalk/
+il-central-1,AWS Elastic Beanstalk,https://aws.amazon.com/elasticbeanstalk/
+us-east-2,AWS Elastic Beanstalk,https://aws.amazon.com/elasticbeanstalk/
+us-gov-west-1,AWS Elastic Beanstalk,https://aws.amazon.com/elasticbeanstalk/
+us-west-2,AWS Elastic Beanstalk,https://aws.amazon.com/elasticbeanstalk/
 ap-east-1,Amazon Transcribe,https://aws.amazon.com/transcribe/
 ap-northeast-1,Amazon Transcribe,https://aws.amazon.com/transcribe/
 ap-northeast-2,Amazon Transcribe,https://aws.amazon.com/transcribe/
@@ -3966,20 +3955,6 @@ sa-east-1,Amazon Macie,https://aws.amazon.com/macie/
 us-west-2,Amazon Macie,https://aws.amazon.com/macie/
 eu-south-1,Amazon Macie,https://aws.amazon.com/macie/
 us-west-1,Amazon Macie,https://aws.amazon.com/macie/
-ap-northeast-1,Amazon Managed Service for Prometheus,https://aws.amazon.com/prometheus/
-ap-northeast-2,Amazon Managed Service for Prometheus,https://aws.amazon.com/prometheus/
-ap-southeast-2,Amazon Managed Service for Prometheus,https://aws.amazon.com/prometheus/
-eu-central-1,Amazon Managed Service for Prometheus,https://aws.amazon.com/prometheus/
-eu-west-1,Amazon Managed Service for Prometheus,https://aws.amazon.com/prometheus/
-eu-west-2,Amazon Managed Service for Prometheus,https://aws.amazon.com/prometheus/
-eu-west-3,Amazon Managed Service for Prometheus,https://aws.amazon.com/prometheus/
-sa-east-1,Amazon Managed Service for Prometheus,https://aws.amazon.com/prometheus/
-us-east-1,Amazon Managed Service for Prometheus,https://aws.amazon.com/prometheus/
-us-west-2,Amazon Managed Service for Prometheus,https://aws.amazon.com/prometheus/
-ap-south-1,Amazon Managed Service for Prometheus,https://aws.amazon.com/prometheus/
-ap-southeast-1,Amazon Managed Service for Prometheus,https://aws.amazon.com/prometheus/
-eu-north-1,Amazon Managed Service for Prometheus,https://aws.amazon.com/prometheus/
-us-east-2,Amazon Managed Service for Prometheus,https://aws.amazon.com/prometheus/
 ap-northeast-1,Amazon Keyspaces (for Apache Cassandra),https://aws.amazon.com/keyspaces/
 ca-central-1,Amazon Keyspaces (for Apache Cassandra),https://aws.amazon.com/keyspaces/
 cn-northwest-1,Amazon Keyspaces (for Apache Cassandra),https://aws.amazon.com/keyspaces/
@@ -4002,17 +3977,17 @@ us-gov-west-1,Amazon Keyspaces (for Apache Cassandra),https://aws.amazon.com/key
 us-west-1,Amazon Keyspaces (for Apache Cassandra),https://aws.amazon.com/keyspaces/
 ap-southeast-1,Amazon Keyspaces (for Apache Cassandra),https://aws.amazon.com/keyspaces/
 us-gov-east-1,Amazon Keyspaces (for Apache Cassandra),https://aws.amazon.com/keyspaces/
-af-south-1,Amazon Connect,https://aws.amazon.com/connect/
-ap-northeast-1,Amazon Connect,https://aws.amazon.com/connect/
-ap-northeast-2,Amazon Connect,https://aws.amazon.com/connect/
-ap-southeast-1,Amazon Connect,https://aws.amazon.com/connect/
-ap-southeast-2,Amazon Connect,https://aws.amazon.com/connect/
-ca-central-1,Amazon Connect,https://aws.amazon.com/connect/
-eu-central-1,Amazon Connect,https://aws.amazon.com/connect/
-us-east-1,Amazon Connect,https://aws.amazon.com/connect/
-us-gov-west-1,Amazon Connect,https://aws.amazon.com/connect/
-us-west-2,Amazon Connect,https://aws.amazon.com/connect/
-eu-west-2,Amazon Connect,https://aws.amazon.com/connect/
+ap-northeast-1,AWS Clean Rooms,https://aws.amazon.com/clean-rooms/
+ap-northeast-2,AWS Clean Rooms,https://aws.amazon.com/clean-rooms/
+ap-southeast-1,AWS Clean Rooms,https://aws.amazon.com/clean-rooms/
+ap-southeast-2,AWS Clean Rooms,https://aws.amazon.com/clean-rooms/
+eu-central-1,AWS Clean Rooms,https://aws.amazon.com/clean-rooms/
+eu-north-1,AWS Clean Rooms,https://aws.amazon.com/clean-rooms/
+eu-west-1,AWS Clean Rooms,https://aws.amazon.com/clean-rooms/
+eu-west-2,AWS Clean Rooms,https://aws.amazon.com/clean-rooms/
+us-east-1,AWS Clean Rooms,https://aws.amazon.com/clean-rooms/
+us-west-2,AWS Clean Rooms,https://aws.amazon.com/clean-rooms/
+us-east-2,AWS Clean Rooms,https://aws.amazon.com/clean-rooms/
 ap-northeast-2,AWS Key Management Service,https://aws.amazon.com/kms/
 ap-south-1,AWS Key Management Service,https://aws.amazon.com/kms/
 ap-south-2,AWS Key Management Service,https://aws.amazon.com/kms/
@@ -4141,37 +4116,20 @@ us-west-1,Amazon Simple Notification Service (SNS),https://aws.amazon.com/sns/
 ca-central-1,Amazon Simple Notification Service (SNS),https://aws.amazon.com/sns/
 eu-west-1,Amazon Simple Notification Service (SNS),https://aws.amazon.com/sns/
 us-west-2,Amazon Simple Notification Service (SNS),https://aws.amazon.com/sns/
-af-south-1,AWS VPN,https://aws.amazon.com/vpn/
-ap-southeast-2,AWS VPN,https://aws.amazon.com/vpn/
-ap-southeast-4,AWS VPN,https://aws.amazon.com/vpn/
-eu-central-1,AWS VPN,https://aws.amazon.com/vpn/
-eu-north-1,AWS VPN,https://aws.amazon.com/vpn/
-eu-south-2,AWS VPN,https://aws.amazon.com/vpn/
-eu-west-3,AWS VPN,https://aws.amazon.com/vpn/
-il-central-1,AWS VPN,https://aws.amazon.com/vpn/
-us-gov-west-1,AWS VPN,https://aws.amazon.com/vpn/
-us-west-2,AWS VPN,https://aws.amazon.com/vpn/
-ap-northeast-1,AWS VPN,https://aws.amazon.com/vpn/
-ap-northeast-2,AWS VPN,https://aws.amazon.com/vpn/
-ap-northeast-3,AWS VPN,https://aws.amazon.com/vpn/
-ap-south-2,AWS VPN,https://aws.amazon.com/vpn/
-ap-southeast-3,AWS VPN,https://aws.amazon.com/vpn/
-ca-west-1,AWS VPN,https://aws.amazon.com/vpn/
-eu-south-1,AWS VPN,https://aws.amazon.com/vpn/
-eu-west-2,AWS VPN,https://aws.amazon.com/vpn/
-me-south-1,AWS VPN,https://aws.amazon.com/vpn/
-us-east-2,AWS VPN,https://aws.amazon.com/vpn/
-ap-east-1,AWS VPN,https://aws.amazon.com/vpn/
-ap-south-1,AWS VPN,https://aws.amazon.com/vpn/
-ap-southeast-1,AWS VPN,https://aws.amazon.com/vpn/
-ca-central-1,AWS VPN,https://aws.amazon.com/vpn/
-eu-central-2,AWS VPN,https://aws.amazon.com/vpn/
-eu-west-1,AWS VPN,https://aws.amazon.com/vpn/
-me-central-1,AWS VPN,https://aws.amazon.com/vpn/
-sa-east-1,AWS VPN,https://aws.amazon.com/vpn/
-us-east-1,AWS VPN,https://aws.amazon.com/vpn/
-us-gov-east-1,AWS VPN,https://aws.amazon.com/vpn/
-us-west-1,AWS VPN,https://aws.amazon.com/vpn/
+ap-northeast-1,Amazon Managed Service for Prometheus,https://aws.amazon.com/prometheus/
+ap-northeast-2,Amazon Managed Service for Prometheus,https://aws.amazon.com/prometheus/
+ap-southeast-2,Amazon Managed Service for Prometheus,https://aws.amazon.com/prometheus/
+eu-central-1,Amazon Managed Service for Prometheus,https://aws.amazon.com/prometheus/
+eu-west-1,Amazon Managed Service for Prometheus,https://aws.amazon.com/prometheus/
+eu-west-2,Amazon Managed Service for Prometheus,https://aws.amazon.com/prometheus/
+eu-west-3,Amazon Managed Service for Prometheus,https://aws.amazon.com/prometheus/
+sa-east-1,Amazon Managed Service for Prometheus,https://aws.amazon.com/prometheus/
+us-east-1,Amazon Managed Service for Prometheus,https://aws.amazon.com/prometheus/
+us-west-2,Amazon Managed Service for Prometheus,https://aws.amazon.com/prometheus/
+ap-south-1,Amazon Managed Service for Prometheus,https://aws.amazon.com/prometheus/
+ap-southeast-1,Amazon Managed Service for Prometheus,https://aws.amazon.com/prometheus/
+eu-north-1,Amazon Managed Service for Prometheus,https://aws.amazon.com/prometheus/
+us-east-2,Amazon Managed Service for Prometheus,https://aws.amazon.com/prometheus/
 ap-south-1,AWS Mainframe Modernization,https://aws.amazon.com/mainframe-modernization/
 eu-central-1,AWS Mainframe Modernization,https://aws.amazon.com/mainframe-modernization/
 eu-north-1,AWS Mainframe Modernization,https://aws.amazon.com/mainframe-modernization/
@@ -4195,6 +4153,17 @@ us-east-2,AWS Mainframe Modernization,https://aws.amazon.com/mainframe-moderniza
 ca-central-1,AWS Mainframe Modernization,https://aws.amazon.com/mainframe-modernization/
 eu-south-1,AWS Mainframe Modernization,https://aws.amazon.com/mainframe-modernization/
 eu-south-2,AWS Mainframe Modernization,https://aws.amazon.com/mainframe-modernization/
+af-south-1,Amazon Connect,https://aws.amazon.com/connect/
+ap-northeast-1,Amazon Connect,https://aws.amazon.com/connect/
+ap-northeast-2,Amazon Connect,https://aws.amazon.com/connect/
+ap-southeast-1,Amazon Connect,https://aws.amazon.com/connect/
+ap-southeast-2,Amazon Connect,https://aws.amazon.com/connect/
+ca-central-1,Amazon Connect,https://aws.amazon.com/connect/
+eu-central-1,Amazon Connect,https://aws.amazon.com/connect/
+us-east-1,Amazon Connect,https://aws.amazon.com/connect/
+us-gov-west-1,Amazon Connect,https://aws.amazon.com/connect/
+us-west-2,Amazon Connect,https://aws.amazon.com/connect/
+eu-west-2,Amazon Connect,https://aws.amazon.com/connect/
 ap-northeast-1,Amazon FinSpace,https://aws.amazon.com/finspace/
 ap-southeast-1,Amazon FinSpace,https://aws.amazon.com/finspace/
 ap-southeast-2,Amazon FinSpace,https://aws.amazon.com/finspace/
@@ -4238,6 +4207,37 @@ us-gov-west-1,AWS Network Firewall,https://aws.amazon.com/network-firewall/
 eu-central-2,AWS Network Firewall,https://aws.amazon.com/network-firewall/
 sa-east-1,AWS Network Firewall,https://aws.amazon.com/network-firewall/
 us-west-2,AWS Network Firewall,https://aws.amazon.com/network-firewall/
+af-south-1,AWS VPN,https://aws.amazon.com/vpn/
+ap-southeast-2,AWS VPN,https://aws.amazon.com/vpn/
+ap-southeast-4,AWS VPN,https://aws.amazon.com/vpn/
+eu-central-1,AWS VPN,https://aws.amazon.com/vpn/
+eu-north-1,AWS VPN,https://aws.amazon.com/vpn/
+eu-south-2,AWS VPN,https://aws.amazon.com/vpn/
+eu-west-3,AWS VPN,https://aws.amazon.com/vpn/
+il-central-1,AWS VPN,https://aws.amazon.com/vpn/
+us-gov-west-1,AWS VPN,https://aws.amazon.com/vpn/
+us-west-2,AWS VPN,https://aws.amazon.com/vpn/
+ap-northeast-1,AWS VPN,https://aws.amazon.com/vpn/
+ap-northeast-2,AWS VPN,https://aws.amazon.com/vpn/
+ap-northeast-3,AWS VPN,https://aws.amazon.com/vpn/
+ap-south-2,AWS VPN,https://aws.amazon.com/vpn/
+ap-southeast-3,AWS VPN,https://aws.amazon.com/vpn/
+ca-west-1,AWS VPN,https://aws.amazon.com/vpn/
+eu-south-1,AWS VPN,https://aws.amazon.com/vpn/
+eu-west-2,AWS VPN,https://aws.amazon.com/vpn/
+me-south-1,AWS VPN,https://aws.amazon.com/vpn/
+us-east-2,AWS VPN,https://aws.amazon.com/vpn/
+ap-east-1,AWS VPN,https://aws.amazon.com/vpn/
+ap-south-1,AWS VPN,https://aws.amazon.com/vpn/
+ap-southeast-1,AWS VPN,https://aws.amazon.com/vpn/
+ca-central-1,AWS VPN,https://aws.amazon.com/vpn/
+eu-central-2,AWS VPN,https://aws.amazon.com/vpn/
+eu-west-1,AWS VPN,https://aws.amazon.com/vpn/
+me-central-1,AWS VPN,https://aws.amazon.com/vpn/
+sa-east-1,AWS VPN,https://aws.amazon.com/vpn/
+us-east-1,AWS VPN,https://aws.amazon.com/vpn/
+us-gov-east-1,AWS VPN,https://aws.amazon.com/vpn/
+us-west-1,AWS VPN,https://aws.amazon.com/vpn/
 us-east-1,AWS Private 5G,https://aws.amazon.com/private5g/
 us-east-2,AWS Private 5G,https://aws.amazon.com/private5g/
 us-west-2,AWS Private 5G,https://aws.amazon.com/private5g/
@@ -4524,6 +4524,48 @@ eu-west-1,Amazon Lookout for Vision,https://aws.amazon.com/lookout-for-vision/
 us-east-1,Amazon Lookout for Vision,https://aws.amazon.com/lookout-for-vision/
 us-east-2,Amazon Lookout for Vision,https://aws.amazon.com/lookout-for-vision/
 us-west-2,Amazon Lookout for Vision,https://aws.amazon.com/lookout-for-vision/
+cn-north-1,AWS Server Migration Service (SMS),https://aws.amazon.com/server-migration-service/
+us-gov-west-1,AWS Server Migration Service (SMS),https://aws.amazon.com/server-migration-service/
+us-west-2,AWS Server Migration Service (SMS),https://aws.amazon.com/server-migration-service/
+ap-northeast-3,AWS Elemental MediaTailor,https://aws.amazon.com/mediatailor/
+ap-southeast-4,AWS Elemental MediaTailor,https://aws.amazon.com/mediatailor/
+ca-central-1,AWS Elemental MediaTailor,https://aws.amazon.com/mediatailor/
+eu-central-1,AWS Elemental MediaTailor,https://aws.amazon.com/mediatailor/
+eu-north-1,AWS Elemental MediaTailor,https://aws.amazon.com/mediatailor/
+eu-west-1,AWS Elemental MediaTailor,https://aws.amazon.com/mediatailor/
+eu-west-3,AWS Elemental MediaTailor,https://aws.amazon.com/mediatailor/
+me-central-1,AWS Elemental MediaTailor,https://aws.amazon.com/mediatailor/
+us-east-1,AWS Elemental MediaTailor,https://aws.amazon.com/mediatailor/
+us-west-2,AWS Elemental MediaTailor,https://aws.amazon.com/mediatailor/
+af-south-1,AWS Elemental MediaTailor,https://aws.amazon.com/mediatailor/
+ap-northeast-1,AWS Elemental MediaTailor,https://aws.amazon.com/mediatailor/
+ap-northeast-2,AWS Elemental MediaTailor,https://aws.amazon.com/mediatailor/
+ap-south-1,AWS Elemental MediaTailor,https://aws.amazon.com/mediatailor/
+ap-south-2,AWS Elemental MediaTailor,https://aws.amazon.com/mediatailor/
+ap-southeast-1,AWS Elemental MediaTailor,https://aws.amazon.com/mediatailor/
+ap-southeast-2,AWS Elemental MediaTailor,https://aws.amazon.com/mediatailor/
+sa-east-1,AWS Elemental MediaTailor,https://aws.amazon.com/mediatailor/
+us-east-2,AWS Elemental MediaTailor,https://aws.amazon.com/mediatailor/
+ap-northeast-1,Amazon MemoryDB,https://aws.amazon.com/memorydb
+ap-southeast-1,Amazon MemoryDB,https://aws.amazon.com/memorydb
+ap-southeast-2,Amazon MemoryDB,https://aws.amazon.com/memorydb
+cn-north-1,Amazon MemoryDB,https://aws.amazon.com/memorydb
+cn-northwest-1,Amazon MemoryDB,https://aws.amazon.com/memorydb
+eu-central-1,Amazon MemoryDB,https://aws.amazon.com/memorydb
+eu-west-1,Amazon MemoryDB,https://aws.amazon.com/memorydb
+eu-west-3,Amazon MemoryDB,https://aws.amazon.com/memorydb
+us-west-1,Amazon MemoryDB,https://aws.amazon.com/memorydb
+us-west-2,Amazon MemoryDB,https://aws.amazon.com/memorydb
+ap-east-1,Amazon MemoryDB,https://aws.amazon.com/memorydb
+ap-northeast-2,Amazon MemoryDB,https://aws.amazon.com/memorydb
+ap-south-1,Amazon MemoryDB,https://aws.amazon.com/memorydb
+ca-central-1,Amazon MemoryDB,https://aws.amazon.com/memorydb
+eu-north-1,Amazon MemoryDB,https://aws.amazon.com/memorydb
+eu-south-1,Amazon MemoryDB,https://aws.amazon.com/memorydb
+eu-west-2,Amazon MemoryDB,https://aws.amazon.com/memorydb
+sa-east-1,Amazon MemoryDB,https://aws.amazon.com/memorydb
+us-east-1,Amazon MemoryDB,https://aws.amazon.com/memorydb
+us-east-2,Amazon MemoryDB,https://aws.amazon.com/memorydb
 ap-east-1,Amazon Simple Storage Service (S3),https://aws.amazon.com/s3/
 ap-northeast-1,Amazon Simple Storage Service (S3),https://aws.amazon.com/s3/
 eu-central-1,Amazon Simple Storage Service (S3),https://aws.amazon.com/s3/
@@ -4557,49 +4599,6 @@ us-west-2,Amazon Simple Storage Service (S3),https://aws.amazon.com/s3/
 af-south-1,Amazon Simple Storage Service (S3),https://aws.amazon.com/s3/
 ca-central-1,Amazon Simple Storage Service (S3),https://aws.amazon.com/s3/
 ca-west-1,Amazon Simple Storage Service (S3),https://aws.amazon.com/s3/
-cn-north-1,AWS Server Migration Service (SMS),https://aws.amazon.com/server-migration-service/
-us-gov-west-1,AWS Server Migration Service (SMS),https://aws.amazon.com/server-migration-service/
-us-west-2,AWS Server Migration Service (SMS),https://aws.amazon.com/server-migration-service/
-ap-northeast-3,AWS Elemental MediaTailor,https://aws.amazon.com/mediatailor/
-ap-southeast-4,AWS Elemental MediaTailor,https://aws.amazon.com/mediatailor/
-ca-central-1,AWS Elemental MediaTailor,https://aws.amazon.com/mediatailor/
-eu-central-1,AWS Elemental MediaTailor,https://aws.amazon.com/mediatailor/
-eu-north-1,AWS Elemental MediaTailor,https://aws.amazon.com/mediatailor/
-eu-west-1,AWS Elemental MediaTailor,https://aws.amazon.com/mediatailor/
-eu-west-3,AWS Elemental MediaTailor,https://aws.amazon.com/mediatailor/
-me-central-1,AWS Elemental MediaTailor,https://aws.amazon.com/mediatailor/
-us-east-1,AWS Elemental MediaTailor,https://aws.amazon.com/mediatailor/
-us-west-2,AWS Elemental MediaTailor,https://aws.amazon.com/mediatailor/
-af-south-1,AWS Elemental MediaTailor,https://aws.amazon.com/mediatailor/
-ap-northeast-1,AWS Elemental MediaTailor,https://aws.amazon.com/mediatailor/
-ap-northeast-2,AWS Elemental MediaTailor,https://aws.amazon.com/mediatailor/
-ap-south-1,AWS Elemental MediaTailor,https://aws.amazon.com/mediatailor/
-ap-south-2,AWS Elemental MediaTailor,https://aws.amazon.com/mediatailor/
-ap-southeast-1,AWS Elemental MediaTailor,https://aws.amazon.com/mediatailor/
-ap-southeast-2,AWS Elemental MediaTailor,https://aws.amazon.com/mediatailor/
-sa-east-1,AWS Elemental MediaTailor,https://aws.amazon.com/mediatailor/
-us-east-2,AWS Elemental MediaTailor,https://aws.amazon.com/mediatailor/
-us-east-1,AWS DeepRacer,https://aws.amazon.com/deepracer/
-ap-northeast-1,Amazon MemoryDB,https://aws.amazon.com/memorydb
-ap-southeast-1,Amazon MemoryDB,https://aws.amazon.com/memorydb
-ap-southeast-2,Amazon MemoryDB,https://aws.amazon.com/memorydb
-cn-north-1,Amazon MemoryDB,https://aws.amazon.com/memorydb
-cn-northwest-1,Amazon MemoryDB,https://aws.amazon.com/memorydb
-eu-central-1,Amazon MemoryDB,https://aws.amazon.com/memorydb
-eu-west-1,Amazon MemoryDB,https://aws.amazon.com/memorydb
-eu-west-3,Amazon MemoryDB,https://aws.amazon.com/memorydb
-us-west-1,Amazon MemoryDB,https://aws.amazon.com/memorydb
-us-west-2,Amazon MemoryDB,https://aws.amazon.com/memorydb
-ap-east-1,Amazon MemoryDB,https://aws.amazon.com/memorydb
-ap-northeast-2,Amazon MemoryDB,https://aws.amazon.com/memorydb
-ap-south-1,Amazon MemoryDB,https://aws.amazon.com/memorydb
-ca-central-1,Amazon MemoryDB,https://aws.amazon.com/memorydb
-eu-north-1,Amazon MemoryDB,https://aws.amazon.com/memorydb
-eu-south-1,Amazon MemoryDB,https://aws.amazon.com/memorydb
-eu-west-2,Amazon MemoryDB,https://aws.amazon.com/memorydb
-sa-east-1,Amazon MemoryDB,https://aws.amazon.com/memorydb
-us-east-1,Amazon MemoryDB,https://aws.amazon.com/memorydb
-us-east-2,Amazon MemoryDB,https://aws.amazon.com/memorydb
 ap-northeast-1,Amazon CodeGuru,https://aws.amazon.com/codeguru/
 ap-southeast-1,Amazon CodeGuru,https://aws.amazon.com/codeguru/
 ap-southeast-2,Amazon CodeGuru,https://aws.amazon.com/codeguru/
@@ -4654,14 +4653,6 @@ eu-west-2,Amazon Quantum Ledger Database (QLDB),https://aws.amazon.com/qldb/
 us-east-2,Amazon Quantum Ledger Database (QLDB),https://aws.amazon.com/qldb/
 us-west-2,Amazon Quantum Ledger Database (QLDB),https://aws.amazon.com/qldb/
 us-east-1,Amazon Quantum Ledger Database (QLDB),https://aws.amazon.com/qldb/
-ap-southeast-2,Amazon Comprehend Medical,https://aws.amazon.com/comprehend/medical/
-ca-central-1,Amazon Comprehend Medical,https://aws.amazon.com/comprehend/medical/
-eu-west-1,Amazon Comprehend Medical,https://aws.amazon.com/comprehend/medical/
-eu-west-2,Amazon Comprehend Medical,https://aws.amazon.com/comprehend/medical/
-us-east-1,Amazon Comprehend Medical,https://aws.amazon.com/comprehend/medical/
-us-east-2,Amazon Comprehend Medical,https://aws.amazon.com/comprehend/medical/
-us-gov-west-1,Amazon Comprehend Medical,https://aws.amazon.com/comprehend/medical/
-us-west-2,Amazon Comprehend Medical,https://aws.amazon.com/comprehend/medical/
 af-south-1,AWS User Notifications,https://aws.amazon.com/notifications/
 ap-east-1,AWS User Notifications,https://aws.amazon.com/notifications/
 ap-south-2,AWS User Notifications,https://aws.amazon.com/notifications/
@@ -4705,6 +4696,7 @@ ap-south-1,Amazon Inspector Classic,https://docs.aws.amazon.com/inspector/v1/use
 eu-west-1,Amazon Inspector Classic,https://docs.aws.amazon.com/inspector/v1/userguide/inspector_introduction.html
 us-east-1,Amazon Inspector Classic,https://docs.aws.amazon.com/inspector/v1/userguide/inspector_introduction.html
 us-gov-east-1,Amazon Inspector Classic,https://docs.aws.amazon.com/inspector/v1/userguide/inspector_introduction.html
+us-east-1,AWS DeepRacer,https://aws.amazon.com/deepracer/
 us-east-1,Amazon Q Developer,https://aws.amazon.com/q/developer/
 af-south-1,Amazon GameLift,https://aws.amazon.com/gamelift/
 ap-northeast-2,Amazon GameLift,https://aws.amazon.com/gamelift/
@@ -4751,9 +4743,6 @@ us-gov-west-1,AWS Elemental MediaConvert,https://aws.amazon.com/mediaconvert/
 us-west-1,AWS Elemental MediaConvert,https://aws.amazon.com/mediaconvert/
 af-south-1,AWS Elemental MediaConvert,https://aws.amazon.com/mediaconvert/
 sa-east-1,AWS Elemental MediaConvert,https://aws.amazon.com/mediaconvert/
-eu-west-1,Amazon WorkMail,https://aws.amazon.com/workmail/
-us-east-1,Amazon WorkMail,https://aws.amazon.com/workmail/
-us-west-2,Amazon WorkMail,https://aws.amazon.com/workmail/
 ap-east-1,AWS Security Hub,https://aws.amazon.com/security-hub/
 ap-northeast-2,AWS Security Hub,https://aws.amazon.com/security-hub/
 ap-south-2,AWS Security Hub,https://aws.amazon.com/security-hub/
@@ -4819,13 +4808,14 @@ us-east-2,Amazon FSx for OpenZFS,https://aws.amazon.com/fsx/openzfs
 us-gov-east-1,Amazon FSx for OpenZFS,https://aws.amazon.com/fsx/openzfs
 ap-southeast-1,Amazon FSx for OpenZFS,https://aws.amazon.com/fsx/openzfs
 eu-central-1,Amazon FSx for OpenZFS,https://aws.amazon.com/fsx/openzfs
-ap-northeast-1,AWS Payment Cryptography,https://aws.amazon.com/payment-cryptography/
-ap-southeast-1,AWS Payment Cryptography,https://aws.amazon.com/payment-cryptography/
-eu-central-1,AWS Payment Cryptography,https://aws.amazon.com/payment-cryptography/
-eu-west-1,AWS Payment Cryptography,https://aws.amazon.com/payment-cryptography/
-us-east-1,AWS Payment Cryptography,https://aws.amazon.com/payment-cryptography/
-us-east-2,AWS Payment Cryptography,https://aws.amazon.com/payment-cryptography/
-us-west-2,AWS Payment Cryptography,https://aws.amazon.com/payment-cryptography/
+ap-southeast-2,Amazon Comprehend Medical,https://aws.amazon.com/comprehend/medical/
+ca-central-1,Amazon Comprehend Medical,https://aws.amazon.com/comprehend/medical/
+eu-west-1,Amazon Comprehend Medical,https://aws.amazon.com/comprehend/medical/
+eu-west-2,Amazon Comprehend Medical,https://aws.amazon.com/comprehend/medical/
+us-east-1,Amazon Comprehend Medical,https://aws.amazon.com/comprehend/medical/
+us-east-2,Amazon Comprehend Medical,https://aws.amazon.com/comprehend/medical/
+us-gov-west-1,Amazon Comprehend Medical,https://aws.amazon.com/comprehend/medical/
+us-west-2,Amazon Comprehend Medical,https://aws.amazon.com/comprehend/medical/
 ap-south-2,Amazon DynamoDB,https://aws.amazon.com/dynamodb/
 ap-southeast-3,Amazon DynamoDB,https://aws.amazon.com/dynamodb/
 ap-southeast-4,Amazon DynamoDB,https://aws.amazon.com/dynamodb/
@@ -4967,39 +4957,16 @@ cn-northwest-1,Amazon CloudFront,https://aws.amazon.com/cloudfront/
 eu-north-1,Amazon CloudFront,https://aws.amazon.com/cloudfront/
 eu-south-1,Amazon CloudFront,https://aws.amazon.com/cloudfront/
 eu-central-2,Amazon CloudFront,https://aws.amazon.com/cloudfront/
-ap-south-1,AWS Lambda,https://aws.amazon.com/lambda/
-ap-southeast-1,AWS Lambda,https://aws.amazon.com/lambda/
-ap-southeast-2,AWS Lambda,https://aws.amazon.com/lambda/
-ap-southeast-3,AWS Lambda,https://aws.amazon.com/lambda/
-ap-southeast-4,AWS Lambda,https://aws.amazon.com/lambda/
-eu-south-2,AWS Lambda,https://aws.amazon.com/lambda/
-eu-west-2,AWS Lambda,https://aws.amazon.com/lambda/
-me-central-1,AWS Lambda,https://aws.amazon.com/lambda/
-us-east-1,AWS Lambda,https://aws.amazon.com/lambda/
-us-gov-west-1,AWS Lambda,https://aws.amazon.com/lambda/
-ap-east-1,AWS Lambda,https://aws.amazon.com/lambda/
-ap-northeast-1,AWS Lambda,https://aws.amazon.com/lambda/
-ap-northeast-2,AWS Lambda,https://aws.amazon.com/lambda/
-ca-west-1,AWS Lambda,https://aws.amazon.com/lambda/
-eu-central-2,AWS Lambda,https://aws.amazon.com/lambda/
-eu-north-1,AWS Lambda,https://aws.amazon.com/lambda/
-eu-south-1,AWS Lambda,https://aws.amazon.com/lambda/
-me-south-1,AWS Lambda,https://aws.amazon.com/lambda/
-us-east-2,AWS Lambda,https://aws.amazon.com/lambda/
-us-gov-east-1,AWS Lambda,https://aws.amazon.com/lambda/
-ap-south-2,AWS Lambda,https://aws.amazon.com/lambda/
-ca-central-1,AWS Lambda,https://aws.amazon.com/lambda/
-cn-north-1,AWS Lambda,https://aws.amazon.com/lambda/
-cn-northwest-1,AWS Lambda,https://aws.amazon.com/lambda/
-eu-central-1,AWS Lambda,https://aws.amazon.com/lambda/
-eu-west-1,AWS Lambda,https://aws.amazon.com/lambda/
-eu-west-3,AWS Lambda,https://aws.amazon.com/lambda/
-sa-east-1,AWS Lambda,https://aws.amazon.com/lambda/
-us-west-1,AWS Lambda,https://aws.amazon.com/lambda/
-us-west-2,AWS Lambda,https://aws.amazon.com/lambda/
-af-south-1,AWS Lambda,https://aws.amazon.com/lambda/
-ap-northeast-3,AWS Lambda,https://aws.amazon.com/lambda/
-il-central-1,AWS Lambda,https://aws.amazon.com/lambda/
+eu-west-1,Amazon WorkMail,https://aws.amazon.com/workmail/
+us-east-1,Amazon WorkMail,https://aws.amazon.com/workmail/
+us-west-2,Amazon WorkMail,https://aws.amazon.com/workmail/
+ap-northeast-1,AWS Payment Cryptography,https://aws.amazon.com/payment-cryptography/
+ap-southeast-1,AWS Payment Cryptography,https://aws.amazon.com/payment-cryptography/
+eu-central-1,AWS Payment Cryptography,https://aws.amazon.com/payment-cryptography/
+eu-west-1,AWS Payment Cryptography,https://aws.amazon.com/payment-cryptography/
+us-east-1,AWS Payment Cryptography,https://aws.amazon.com/payment-cryptography/
+us-east-2,AWS Payment Cryptography,https://aws.amazon.com/payment-cryptography/
+us-west-2,AWS Payment Cryptography,https://aws.amazon.com/payment-cryptography/
 ap-southeast-2,FreeRTOS,https://aws.amazon.com/freertos/
 ca-central-1,FreeRTOS,https://aws.amazon.com/freertos/
 cn-northwest-1,FreeRTOS,https://aws.amazon.com/freertos/
@@ -5062,50 +5029,41 @@ ap-south-1,Amazon Rekognition,https://aws.amazon.com/rekognition/
 eu-west-1,Amazon Rekognition,https://aws.amazon.com/rekognition/
 eu-west-2,Amazon Rekognition,https://aws.amazon.com/rekognition/
 us-west-2,Amazon Rekognition,https://aws.amazon.com/rekognition/
-ap-northeast-1,AWS Elemental MediaStore,https://aws.amazon.com/mediastore/
-ap-northeast-2,AWS Elemental MediaStore,https://aws.amazon.com/mediastore/
-ap-southeast-2,AWS Elemental MediaStore,https://aws.amazon.com/mediastore/
-eu-central-1,AWS Elemental MediaStore,https://aws.amazon.com/mediastore/
-eu-north-1,AWS Elemental MediaStore,https://aws.amazon.com/mediastore/
-eu-west-1,AWS Elemental MediaStore,https://aws.amazon.com/mediastore/
-eu-west-2,AWS Elemental MediaStore,https://aws.amazon.com/mediastore/
-us-east-1,AWS Elemental MediaStore,https://aws.amazon.com/mediastore/
-us-west-2,AWS Elemental MediaStore,https://aws.amazon.com/mediastore/
+ap-south-1,AWS Lambda,https://aws.amazon.com/lambda/
+ap-southeast-1,AWS Lambda,https://aws.amazon.com/lambda/
+ap-southeast-2,AWS Lambda,https://aws.amazon.com/lambda/
+ap-southeast-3,AWS Lambda,https://aws.amazon.com/lambda/
+ap-southeast-4,AWS Lambda,https://aws.amazon.com/lambda/
+eu-south-2,AWS Lambda,https://aws.amazon.com/lambda/
+eu-west-2,AWS Lambda,https://aws.amazon.com/lambda/
+me-central-1,AWS Lambda,https://aws.amazon.com/lambda/
+us-east-1,AWS Lambda,https://aws.amazon.com/lambda/
+us-gov-west-1,AWS Lambda,https://aws.amazon.com/lambda/
+ap-east-1,AWS Lambda,https://aws.amazon.com/lambda/
+ap-northeast-1,AWS Lambda,https://aws.amazon.com/lambda/
+ap-northeast-2,AWS Lambda,https://aws.amazon.com/lambda/
+ca-west-1,AWS Lambda,https://aws.amazon.com/lambda/
+eu-central-2,AWS Lambda,https://aws.amazon.com/lambda/
+eu-north-1,AWS Lambda,https://aws.amazon.com/lambda/
+eu-south-1,AWS Lambda,https://aws.amazon.com/lambda/
+me-south-1,AWS Lambda,https://aws.amazon.com/lambda/
+us-east-2,AWS Lambda,https://aws.amazon.com/lambda/
+us-gov-east-1,AWS Lambda,https://aws.amazon.com/lambda/
+ap-south-2,AWS Lambda,https://aws.amazon.com/lambda/
+ca-central-1,AWS Lambda,https://aws.amazon.com/lambda/
+cn-north-1,AWS Lambda,https://aws.amazon.com/lambda/
+cn-northwest-1,AWS Lambda,https://aws.amazon.com/lambda/
+eu-central-1,AWS Lambda,https://aws.amazon.com/lambda/
+eu-west-1,AWS Lambda,https://aws.amazon.com/lambda/
+eu-west-3,AWS Lambda,https://aws.amazon.com/lambda/
+sa-east-1,AWS Lambda,https://aws.amazon.com/lambda/
+us-west-1,AWS Lambda,https://aws.amazon.com/lambda/
+us-west-2,AWS Lambda,https://aws.amazon.com/lambda/
+af-south-1,AWS Lambda,https://aws.amazon.com/lambda/
+ap-northeast-3,AWS Lambda,https://aws.amazon.com/lambda/
+il-central-1,AWS Lambda,https://aws.amazon.com/lambda/
 us-east-1,Amazon Q Business,https://aws.amazon.com/q/business/
 us-west-2,Amazon Q Business,https://aws.amazon.com/q/business/
-ap-northeast-2,AWS Cloud Control API,https://aws.amazon.com/cloudcontrolapi/
-ap-southeast-2,AWS Cloud Control API,https://aws.amazon.com/cloudcontrolapi/
-cn-northwest-1,AWS Cloud Control API,https://aws.amazon.com/cloudcontrolapi/
-eu-central-2,AWS Cloud Control API,https://aws.amazon.com/cloudcontrolapi/
-eu-south-1,AWS Cloud Control API,https://aws.amazon.com/cloudcontrolapi/
-eu-west-2,AWS Cloud Control API,https://aws.amazon.com/cloudcontrolapi/
-me-south-1,AWS Cloud Control API,https://aws.amazon.com/cloudcontrolapi/
-us-east-1,AWS Cloud Control API,https://aws.amazon.com/cloudcontrolapi/
-us-gov-west-1,AWS Cloud Control API,https://aws.amazon.com/cloudcontrolapi/
-us-west-2,AWS Cloud Control API,https://aws.amazon.com/cloudcontrolapi/
-af-south-1,AWS Cloud Control API,https://aws.amazon.com/cloudcontrolapi/
-ap-northeast-1,AWS Cloud Control API,https://aws.amazon.com/cloudcontrolapi/
-ap-south-2,AWS Cloud Control API,https://aws.amazon.com/cloudcontrolapi/
-ap-southeast-1,AWS Cloud Control API,https://aws.amazon.com/cloudcontrolapi/
-ap-southeast-3,AWS Cloud Control API,https://aws.amazon.com/cloudcontrolapi/
-eu-south-2,AWS Cloud Control API,https://aws.amazon.com/cloudcontrolapi/
-eu-west-1,AWS Cloud Control API,https://aws.amazon.com/cloudcontrolapi/
-me-central-1,AWS Cloud Control API,https://aws.amazon.com/cloudcontrolapi/
-sa-east-1,AWS Cloud Control API,https://aws.amazon.com/cloudcontrolapi/
-us-gov-east-1,AWS Cloud Control API,https://aws.amazon.com/cloudcontrolapi/
-ap-east-1,AWS Cloud Control API,https://aws.amazon.com/cloudcontrolapi/
-ap-northeast-3,AWS Cloud Control API,https://aws.amazon.com/cloudcontrolapi/
-ap-south-1,AWS Cloud Control API,https://aws.amazon.com/cloudcontrolapi/
-ca-central-1,AWS Cloud Control API,https://aws.amazon.com/cloudcontrolapi/
-ca-west-1,AWS Cloud Control API,https://aws.amazon.com/cloudcontrolapi/
-cn-north-1,AWS Cloud Control API,https://aws.amazon.com/cloudcontrolapi/
-eu-central-1,AWS Cloud Control API,https://aws.amazon.com/cloudcontrolapi/
-eu-north-1,AWS Cloud Control API,https://aws.amazon.com/cloudcontrolapi/
-eu-west-3,AWS Cloud Control API,https://aws.amazon.com/cloudcontrolapi/
-us-east-2,AWS Cloud Control API,https://aws.amazon.com/cloudcontrolapi/
-ap-southeast-4,AWS Cloud Control API,https://aws.amazon.com/cloudcontrolapi/
-il-central-1,AWS Cloud Control API,https://aws.amazon.com/cloudcontrolapi/
-us-west-1,AWS Cloud Control API,https://aws.amazon.com/cloudcontrolapi/
 ap-northeast-1,Amazon FSx for Windows File Server,https://aws.amazon.com/fsx/windows/
 ap-northeast-3,Amazon FSx for Windows File Server,https://aws.amazon.com/fsx/windows/
 ap-south-1,Amazon FSx for Windows File Server,https://aws.amazon.com/fsx/windows/
@@ -5157,6 +5115,103 @@ eu-west-3,AWS App Runner,https://aws.amazon.com/apprunner/
 us-east-1,AWS App Runner,https://aws.amazon.com/apprunner/
 us-east-2,AWS App Runner,https://aws.amazon.com/apprunner/
 us-west-2,AWS App Runner,https://aws.amazon.com/apprunner/
+ap-northeast-2,AWS CodeBuild,https://aws.amazon.com/codebuild/
+ap-south-1,AWS CodeBuild,https://aws.amazon.com/codebuild/
+ap-southeast-1,AWS CodeBuild,https://aws.amazon.com/codebuild/
+eu-central-1,AWS CodeBuild,https://aws.amazon.com/codebuild/
+eu-south-1,AWS CodeBuild,https://aws.amazon.com/codebuild/
+eu-south-2,AWS CodeBuild,https://aws.amazon.com/codebuild/
+eu-west-1,AWS CodeBuild,https://aws.amazon.com/codebuild/
+il-central-1,AWS CodeBuild,https://aws.amazon.com/codebuild/
+me-south-1,AWS CodeBuild,https://aws.amazon.com/codebuild/
+us-west-1,AWS CodeBuild,https://aws.amazon.com/codebuild/
+af-south-1,AWS CodeBuild,https://aws.amazon.com/codebuild/
+ap-northeast-1,AWS CodeBuild,https://aws.amazon.com/codebuild/
+ap-northeast-3,AWS CodeBuild,https://aws.amazon.com/codebuild/
+ap-southeast-2,AWS CodeBuild,https://aws.amazon.com/codebuild/
+ap-southeast-4,AWS CodeBuild,https://aws.amazon.com/codebuild/
+cn-northwest-1,AWS CodeBuild,https://aws.amazon.com/codebuild/
+eu-west-2,AWS CodeBuild,https://aws.amazon.com/codebuild/
+eu-west-3,AWS CodeBuild,https://aws.amazon.com/codebuild/
+us-east-1,AWS CodeBuild,https://aws.amazon.com/codebuild/
+us-gov-east-1,AWS CodeBuild,https://aws.amazon.com/codebuild/
+ap-east-1,AWS CodeBuild,https://aws.amazon.com/codebuild/
+ap-southeast-3,AWS CodeBuild,https://aws.amazon.com/codebuild/
+ca-central-1,AWS CodeBuild,https://aws.amazon.com/codebuild/
+cn-north-1,AWS CodeBuild,https://aws.amazon.com/codebuild/
+eu-central-2,AWS CodeBuild,https://aws.amazon.com/codebuild/
+eu-north-1,AWS CodeBuild,https://aws.amazon.com/codebuild/
+sa-east-1,AWS CodeBuild,https://aws.amazon.com/codebuild/
+us-east-2,AWS CodeBuild,https://aws.amazon.com/codebuild/
+us-gov-west-1,AWS CodeBuild,https://aws.amazon.com/codebuild/
+us-west-2,AWS CodeBuild,https://aws.amazon.com/codebuild/
+ap-south-2,AWS CodeBuild,https://aws.amazon.com/codebuild/
+me-central-1,AWS CodeBuild,https://aws.amazon.com/codebuild/
+ap-northeast-1,AWS Elemental MediaStore,https://aws.amazon.com/mediastore/
+ap-northeast-2,AWS Elemental MediaStore,https://aws.amazon.com/mediastore/
+ap-southeast-2,AWS Elemental MediaStore,https://aws.amazon.com/mediastore/
+eu-central-1,AWS Elemental MediaStore,https://aws.amazon.com/mediastore/
+eu-north-1,AWS Elemental MediaStore,https://aws.amazon.com/mediastore/
+eu-west-1,AWS Elemental MediaStore,https://aws.amazon.com/mediastore/
+eu-west-2,AWS Elemental MediaStore,https://aws.amazon.com/mediastore/
+us-east-1,AWS Elemental MediaStore,https://aws.amazon.com/mediastore/
+us-west-2,AWS Elemental MediaStore,https://aws.amazon.com/mediastore/
+ap-northeast-2,AWS Cloud Control API,https://aws.amazon.com/cloudcontrolapi/
+ap-southeast-2,AWS Cloud Control API,https://aws.amazon.com/cloudcontrolapi/
+cn-northwest-1,AWS Cloud Control API,https://aws.amazon.com/cloudcontrolapi/
+eu-central-2,AWS Cloud Control API,https://aws.amazon.com/cloudcontrolapi/
+eu-south-1,AWS Cloud Control API,https://aws.amazon.com/cloudcontrolapi/
+eu-west-2,AWS Cloud Control API,https://aws.amazon.com/cloudcontrolapi/
+me-south-1,AWS Cloud Control API,https://aws.amazon.com/cloudcontrolapi/
+us-east-1,AWS Cloud Control API,https://aws.amazon.com/cloudcontrolapi/
+us-gov-west-1,AWS Cloud Control API,https://aws.amazon.com/cloudcontrolapi/
+us-west-2,AWS Cloud Control API,https://aws.amazon.com/cloudcontrolapi/
+af-south-1,AWS Cloud Control API,https://aws.amazon.com/cloudcontrolapi/
+ap-northeast-1,AWS Cloud Control API,https://aws.amazon.com/cloudcontrolapi/
+ap-south-2,AWS Cloud Control API,https://aws.amazon.com/cloudcontrolapi/
+ap-southeast-1,AWS Cloud Control API,https://aws.amazon.com/cloudcontrolapi/
+ap-southeast-3,AWS Cloud Control API,https://aws.amazon.com/cloudcontrolapi/
+eu-south-2,AWS Cloud Control API,https://aws.amazon.com/cloudcontrolapi/
+eu-west-1,AWS Cloud Control API,https://aws.amazon.com/cloudcontrolapi/
+me-central-1,AWS Cloud Control API,https://aws.amazon.com/cloudcontrolapi/
+sa-east-1,AWS Cloud Control API,https://aws.amazon.com/cloudcontrolapi/
+us-gov-east-1,AWS Cloud Control API,https://aws.amazon.com/cloudcontrolapi/
+ap-east-1,AWS Cloud Control API,https://aws.amazon.com/cloudcontrolapi/
+ap-northeast-3,AWS Cloud Control API,https://aws.amazon.com/cloudcontrolapi/
+ap-south-1,AWS Cloud Control API,https://aws.amazon.com/cloudcontrolapi/
+ca-central-1,AWS Cloud Control API,https://aws.amazon.com/cloudcontrolapi/
+ca-west-1,AWS Cloud Control API,https://aws.amazon.com/cloudcontrolapi/
+cn-north-1,AWS Cloud Control API,https://aws.amazon.com/cloudcontrolapi/
+eu-central-1,AWS Cloud Control API,https://aws.amazon.com/cloudcontrolapi/
+eu-north-1,AWS Cloud Control API,https://aws.amazon.com/cloudcontrolapi/
+eu-west-3,AWS Cloud Control API,https://aws.amazon.com/cloudcontrolapi/
+us-east-2,AWS Cloud Control API,https://aws.amazon.com/cloudcontrolapi/
+ap-southeast-4,AWS Cloud Control API,https://aws.amazon.com/cloudcontrolapi/
+il-central-1,AWS Cloud Control API,https://aws.amazon.com/cloudcontrolapi/
+us-west-1,AWS Cloud Control API,https://aws.amazon.com/cloudcontrolapi/
+ap-northeast-1,Amazon Chime SDK,https://aws.amazon.com/chime/chime-sdk/
+ap-southeast-1,Amazon Chime SDK,https://aws.amazon.com/chime/chime-sdk/
+ap-southeast-2,Amazon Chime SDK,https://aws.amazon.com/chime/chime-sdk/
+eu-north-1,Amazon Chime SDK,https://aws.amazon.com/chime/chime-sdk/
+eu-west-2,Amazon Chime SDK,https://aws.amazon.com/chime/chime-sdk/
+il-central-1,Amazon Chime SDK,https://aws.amazon.com/chime/chime-sdk/
+us-east-2,Amazon Chime SDK,https://aws.amazon.com/chime/chime-sdk/
+us-gov-east-1,Amazon Chime SDK,https://aws.amazon.com/chime/chime-sdk/
+us-gov-west-1,Amazon Chime SDK,https://aws.amazon.com/chime/chime-sdk/
+us-west-1,Amazon Chime SDK,https://aws.amazon.com/chime/chime-sdk/
+af-south-1,Amazon Chime SDK,https://aws.amazon.com/chime/chime-sdk/
+ap-northeast-2,Amazon Chime SDK,https://aws.amazon.com/chime/chime-sdk/
+ap-south-1,Amazon Chime SDK,https://aws.amazon.com/chime/chime-sdk/
+eu-central-1,Amazon Chime SDK,https://aws.amazon.com/chime/chime-sdk/
+eu-south-1,Amazon Chime SDK,https://aws.amazon.com/chime/chime-sdk/
+eu-west-1,Amazon Chime SDK,https://aws.amazon.com/chime/chime-sdk/
+eu-west-3,Amazon Chime SDK,https://aws.amazon.com/chime/chime-sdk/
+sa-east-1,Amazon Chime SDK,https://aws.amazon.com/chime/chime-sdk/
+us-east-1,Amazon Chime SDK,https://aws.amazon.com/chime/chime-sdk/
+us-west-2,Amazon Chime SDK,https://aws.amazon.com/chime/chime-sdk/
+ca-central-1,Amazon Chime SDK,https://aws.amazon.com/chime/chime-sdk/
+cn-northwest-1,AWS Cost Explorer,https://aws.amazon.com/aws-cost-management/aws-cost-explorer/
+us-east-1,AWS Cost Explorer,https://aws.amazon.com/aws-cost-management/aws-cost-explorer/
 ap-northeast-1,Amazon Elastic Container Service (ECS),https://aws.amazon.com/ecs/
 ap-southeast-1,Amazon Elastic Container Service (ECS),https://aws.amazon.com/ecs/
 ap-southeast-3,Amazon Elastic Container Service (ECS),https://aws.amazon.com/ecs/
@@ -5190,58 +5245,3 @@ us-west-2,Amazon Elastic Container Service (ECS),https://aws.amazon.com/ecs/
 af-south-1,Amazon Elastic Container Service (ECS),https://aws.amazon.com/ecs/
 cn-northwest-1,Amazon Elastic Container Service (ECS),https://aws.amazon.com/ecs/
 me-south-1,Amazon Elastic Container Service (ECS),https://aws.amazon.com/ecs/
-ap-northeast-2,AWS CodeBuild,https://aws.amazon.com/codebuild/
-ap-south-1,AWS CodeBuild,https://aws.amazon.com/codebuild/
-ap-southeast-1,AWS CodeBuild,https://aws.amazon.com/codebuild/
-eu-central-1,AWS CodeBuild,https://aws.amazon.com/codebuild/
-eu-south-1,AWS CodeBuild,https://aws.amazon.com/codebuild/
-eu-south-2,AWS CodeBuild,https://aws.amazon.com/codebuild/
-eu-west-1,AWS CodeBuild,https://aws.amazon.com/codebuild/
-il-central-1,AWS CodeBuild,https://aws.amazon.com/codebuild/
-me-south-1,AWS CodeBuild,https://aws.amazon.com/codebuild/
-us-west-1,AWS CodeBuild,https://aws.amazon.com/codebuild/
-af-south-1,AWS CodeBuild,https://aws.amazon.com/codebuild/
-ap-northeast-1,AWS CodeBuild,https://aws.amazon.com/codebuild/
-ap-northeast-3,AWS CodeBuild,https://aws.amazon.com/codebuild/
-ap-southeast-2,AWS CodeBuild,https://aws.amazon.com/codebuild/
-ap-southeast-4,AWS CodeBuild,https://aws.amazon.com/codebuild/
-cn-northwest-1,AWS CodeBuild,https://aws.amazon.com/codebuild/
-eu-west-2,AWS CodeBuild,https://aws.amazon.com/codebuild/
-eu-west-3,AWS CodeBuild,https://aws.amazon.com/codebuild/
-us-east-1,AWS CodeBuild,https://aws.amazon.com/codebuild/
-us-gov-east-1,AWS CodeBuild,https://aws.amazon.com/codebuild/
-ap-east-1,AWS CodeBuild,https://aws.amazon.com/codebuild/
-ap-southeast-3,AWS CodeBuild,https://aws.amazon.com/codebuild/
-ca-central-1,AWS CodeBuild,https://aws.amazon.com/codebuild/
-cn-north-1,AWS CodeBuild,https://aws.amazon.com/codebuild/
-eu-central-2,AWS CodeBuild,https://aws.amazon.com/codebuild/
-eu-north-1,AWS CodeBuild,https://aws.amazon.com/codebuild/
-sa-east-1,AWS CodeBuild,https://aws.amazon.com/codebuild/
-us-east-2,AWS CodeBuild,https://aws.amazon.com/codebuild/
-us-gov-west-1,AWS CodeBuild,https://aws.amazon.com/codebuild/
-us-west-2,AWS CodeBuild,https://aws.amazon.com/codebuild/
-ap-south-2,AWS CodeBuild,https://aws.amazon.com/codebuild/
-me-central-1,AWS CodeBuild,https://aws.amazon.com/codebuild/
-ap-northeast-1,Amazon Chime SDK,https://aws.amazon.com/chime/chime-sdk/
-ap-southeast-1,Amazon Chime SDK,https://aws.amazon.com/chime/chime-sdk/
-ap-southeast-2,Amazon Chime SDK,https://aws.amazon.com/chime/chime-sdk/
-eu-north-1,Amazon Chime SDK,https://aws.amazon.com/chime/chime-sdk/
-eu-west-2,Amazon Chime SDK,https://aws.amazon.com/chime/chime-sdk/
-il-central-1,Amazon Chime SDK,https://aws.amazon.com/chime/chime-sdk/
-us-east-2,Amazon Chime SDK,https://aws.amazon.com/chime/chime-sdk/
-us-gov-east-1,Amazon Chime SDK,https://aws.amazon.com/chime/chime-sdk/
-us-gov-west-1,Amazon Chime SDK,https://aws.amazon.com/chime/chime-sdk/
-us-west-1,Amazon Chime SDK,https://aws.amazon.com/chime/chime-sdk/
-af-south-1,Amazon Chime SDK,https://aws.amazon.com/chime/chime-sdk/
-ap-northeast-2,Amazon Chime SDK,https://aws.amazon.com/chime/chime-sdk/
-ap-south-1,Amazon Chime SDK,https://aws.amazon.com/chime/chime-sdk/
-eu-central-1,Amazon Chime SDK,https://aws.amazon.com/chime/chime-sdk/
-eu-south-1,Amazon Chime SDK,https://aws.amazon.com/chime/chime-sdk/
-eu-west-1,Amazon Chime SDK,https://aws.amazon.com/chime/chime-sdk/
-eu-west-3,Amazon Chime SDK,https://aws.amazon.com/chime/chime-sdk/
-sa-east-1,Amazon Chime SDK,https://aws.amazon.com/chime/chime-sdk/
-us-east-1,Amazon Chime SDK,https://aws.amazon.com/chime/chime-sdk/
-us-west-2,Amazon Chime SDK,https://aws.amazon.com/chime/chime-sdk/
-ca-central-1,Amazon Chime SDK,https://aws.amazon.com/chime/chime-sdk/
-cn-northwest-1,AWS Cost Explorer,https://aws.amazon.com/aws-cost-management/aws-cost-explorer/
-us-east-1,AWS Cost Explorer,https://aws.amazon.com/aws-cost-management/aws-cost-explorer/
