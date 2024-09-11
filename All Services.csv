@@ -4066,6 +4066,9 @@ ca-central-1,AWS Key Management Service,https://aws.amazon.com/kms/
 ca-west-1,AWS Key Management Service,https://aws.amazon.com/kms/
 eu-south-1,AWS Key Management Service,https://aws.amazon.com/kms/
 us-west-2,AWS Key Management Service,https://aws.amazon.com/kms/
+us-east-1,AWS B2B Data Interchange,https://aws.amazon.com/b2b-data-interchange/
+us-east-2,AWS B2B Data Interchange,https://aws.amazon.com/b2b-data-interchange/
+us-west-2,AWS B2B Data Interchange,https://aws.amazon.com/b2b-data-interchange/
 ap-northeast-1,Amazon Forecast,https://aws.amazon.com/forecast/
 ap-northeast-2,Amazon Forecast,https://aws.amazon.com/forecast/
 ap-south-1,Amazon Forecast,https://aws.amazon.com/forecast/
@@ -4795,19 +4798,19 @@ us-gov-west-1,AWS Elemental MediaConvert,https://aws.amazon.com/mediaconvert/
 us-west-1,AWS Elemental MediaConvert,https://aws.amazon.com/mediaconvert/
 af-south-1,AWS Elemental MediaConvert,https://aws.amazon.com/mediaconvert/
 sa-east-1,AWS Elemental MediaConvert,https://aws.amazon.com/mediaconvert/
-ap-east-1,AWS Security Hub,https://aws.amazon.com/security-hub/
 ap-northeast-2,AWS Security Hub,https://aws.amazon.com/security-hub/
 ap-south-2,AWS Security Hub,https://aws.amazon.com/security-hub/
 ap-southeast-1,AWS Security Hub,https://aws.amazon.com/security-hub/
 ap-southeast-2,AWS Security Hub,https://aws.amazon.com/security-hub/
+ap-southeast-5,AWS Security Hub,https://aws.amazon.com/security-hub/
 ca-central-1,AWS Security Hub,https://aws.amazon.com/security-hub/
 eu-west-2,AWS Security Hub,https://aws.amazon.com/security-hub/
 us-east-2,AWS Security Hub,https://aws.amazon.com/security-hub/
 us-gov-west-1,AWS Security Hub,https://aws.amazon.com/security-hub/
 us-west-2,AWS Security Hub,https://aws.amazon.com/security-hub/
+ap-east-1,AWS Security Hub,https://aws.amazon.com/security-hub/
 ap-northeast-3,AWS Security Hub,https://aws.amazon.com/security-hub/
 ap-southeast-3,AWS Security Hub,https://aws.amazon.com/security-hub/
-ap-southeast-4,AWS Security Hub,https://aws.amazon.com/security-hub/
 eu-north-1,AWS Security Hub,https://aws.amazon.com/security-hub/
 eu-south-1,AWS Security Hub,https://aws.amazon.com/security-hub/
 eu-west-1,AWS Security Hub,https://aws.amazon.com/security-hub/
@@ -4818,7 +4821,7 @@ us-east-1,AWS Security Hub,https://aws.amazon.com/security-hub/
 af-south-1,AWS Security Hub,https://aws.amazon.com/security-hub/
 ap-northeast-1,AWS Security Hub,https://aws.amazon.com/security-hub/
 ap-south-1,AWS Security Hub,https://aws.amazon.com/security-hub/
-cn-north-1,AWS Security Hub,https://aws.amazon.com/security-hub/
+ap-southeast-4,AWS Security Hub,https://aws.amazon.com/security-hub/
 cn-northwest-1,AWS Security Hub,https://aws.amazon.com/security-hub/
 eu-central-2,AWS Security Hub,https://aws.amazon.com/security-hub/
 eu-south-2,AWS Security Hub,https://aws.amazon.com/security-hub/
@@ -4826,6 +4829,7 @@ il-central-1,AWS Security Hub,https://aws.amazon.com/security-hub/
 me-south-1,AWS Security Hub,https://aws.amazon.com/security-hub/
 us-west-1,AWS Security Hub,https://aws.amazon.com/security-hub/
 ca-west-1,AWS Security Hub,https://aws.amazon.com/security-hub/
+cn-north-1,AWS Security Hub,https://aws.amazon.com/security-hub/
 eu-central-1,AWS Security Hub,https://aws.amazon.com/security-hub/
 us-gov-east-1,AWS Security Hub,https://aws.amazon.com/security-hub/
 ap-east-1,Amazon FSx for OpenZFS,https://aws.amazon.com/fsx/openzfs
