@@ -3399,8 +3399,8 @@ eu-west-3,AWS Transfer Family,https://aws.amazon.com/aws-transfer-family/
 il-central-1,AWS Transfer Family,https://aws.amazon.com/aws-transfer-family/
 sa-east-1,AWS Transfer Family,https://aws.amazon.com/aws-transfer-family/
 us-east-1,AWS Transfer Family,https://aws.amazon.com/aws-transfer-family/
-ap-northeast-1,AWS Transfer Family,https://aws.amazon.com/aws-transfer-family/
 ap-south-2,AWS Transfer Family,https://aws.amazon.com/aws-transfer-family/
+ap-southeast-5,AWS Transfer Family,https://aws.amazon.com/aws-transfer-family/
 ca-central-1,AWS Transfer Family,https://aws.amazon.com/aws-transfer-family/
 eu-north-1,AWS Transfer Family,https://aws.amazon.com/aws-transfer-family/
 eu-west-1,AWS Transfer Family,https://aws.amazon.com/aws-transfer-family/
@@ -3409,6 +3409,7 @@ me-south-1,AWS Transfer Family,https://aws.amazon.com/aws-transfer-family/
 us-gov-east-1,AWS Transfer Family,https://aws.amazon.com/aws-transfer-family/
 us-gov-west-1,AWS Transfer Family,https://aws.amazon.com/aws-transfer-family/
 us-west-2,AWS Transfer Family,https://aws.amazon.com/aws-transfer-family/
+ap-northeast-1,AWS Transfer Family,https://aws.amazon.com/aws-transfer-family/
 cn-north-1,AWS Transfer Family,https://aws.amazon.com/aws-transfer-family/
 cn-northwest-1,AWS Transfer Family,https://aws.amazon.com/aws-transfer-family/
 eu-south-1,AWS Transfer Family,https://aws.amazon.com/aws-transfer-family/
@@ -3675,8 +3676,8 @@ us-east-1,Amazon CodeWhisperer,https://aws.amazon.com/codewhisperer/
 af-south-1,AWS Lake Formation,https://aws.amazon.com/lake-formation/
 ap-southeast-1,AWS Lake Formation,https://aws.amazon.com/lake-formation/
 ap-southeast-3,AWS Lake Formation,https://aws.amazon.com/lake-formation/
+ap-southeast-5,AWS Lake Formation,https://aws.amazon.com/lake-formation/
 eu-central-1,AWS Lake Formation,https://aws.amazon.com/lake-formation/
-eu-north-1,AWS Lake Formation,https://aws.amazon.com/lake-formation/
 eu-south-1,AWS Lake Formation,https://aws.amazon.com/lake-formation/
 eu-south-2,AWS Lake Formation,https://aws.amazon.com/lake-formation/
 us-east-1,AWS Lake Formation,https://aws.amazon.com/lake-formation/
@@ -3688,22 +3689,23 @@ ap-northeast-2,AWS Lake Formation,https://aws.amazon.com/lake-formation/
 ap-northeast-3,AWS Lake Formation,https://aws.amazon.com/lake-formation/
 ca-central-1,AWS Lake Formation,https://aws.amazon.com/lake-formation/
 cn-north-1,AWS Lake Formation,https://aws.amazon.com/lake-formation/
+eu-north-1,AWS Lake Formation,https://aws.amazon.com/lake-formation/
 eu-west-3,AWS Lake Formation,https://aws.amazon.com/lake-formation/
 me-south-1,AWS Lake Formation,https://aws.amazon.com/lake-formation/
 us-gov-west-1,AWS Lake Formation,https://aws.amazon.com/lake-formation/
-us-west-2,AWS Lake Formation,https://aws.amazon.com/lake-formation/
 ap-south-2,AWS Lake Formation,https://aws.amazon.com/lake-formation/
 ap-southeast-2,AWS Lake Formation,https://aws.amazon.com/lake-formation/
 ap-southeast-4,AWS Lake Formation,https://aws.amazon.com/lake-formation/
-cn-northwest-1,AWS Lake Formation,https://aws.amazon.com/lake-formation/
 eu-central-2,AWS Lake Formation,https://aws.amazon.com/lake-formation/
 eu-west-1,AWS Lake Formation,https://aws.amazon.com/lake-formation/
 eu-west-2,AWS Lake Formation,https://aws.amazon.com/lake-formation/
 il-central-1,AWS Lake Formation,https://aws.amazon.com/lake-formation/
 me-central-1,AWS Lake Formation,https://aws.amazon.com/lake-formation/
 us-east-2,AWS Lake Formation,https://aws.amazon.com/lake-formation/
+us-west-2,AWS Lake Formation,https://aws.amazon.com/lake-formation/
 ap-south-1,AWS Lake Formation,https://aws.amazon.com/lake-formation/
 ca-west-1,AWS Lake Formation,https://aws.amazon.com/lake-formation/
+cn-northwest-1,AWS Lake Formation,https://aws.amazon.com/lake-formation/
 sa-east-1,AWS Lake Formation,https://aws.amazon.com/lake-formation/
 af-south-1,Amazon WorkSpaces,https://aws.amazon.com/workspaces/
 ap-south-1,Amazon WorkSpaces,https://aws.amazon.com/workspaces/
