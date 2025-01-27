@@ -1,162 +1,162 @@
 Common US Services
-Elastic Load Balancing
 AWS IoT Device Defender
-AWS Chatbot
-AWS Outposts
-AWS VPN
-Amazon FSx for Windows File Server
-AWS License Manager
+AWS Security Hub
+Amazon Rekognition
+EC2 Image Builder
+Amazon Transcribe
+AWS IQ
 Amazon Data Firehose
-Amazon DevOps Guru
-AWS Health Dashboard
-Amazon Simple Notification Service (SNS)
-Amazon Simple Email Service (SES)
-AWS CloudHSM
-Amazon Aurora
-AWS CodePipeline
-Amazon Inspector Classic
-Amazon Detective
-AWS Glue
-Amazon CloudWatch Logs
-AWS OpsWorks for Chef Automate
-Amazon FSx
-Amazon EventBridge
-Amazon API Gateway
-Amazon Keyspaces (for Apache Cassandra)
-AWS Lambda
-AWS Cloud Map
-AWS Budgets
-Amazon VPC Lattice
-Amazon Elastic Compute Cloud (EC2)
-AWS Network Firewall
-AWS Transit Gateway
-AWS Secrets Manager
-AWS Snowcone
-AWS CloudTrail
 AWS Verified Access
+AWS CloudFormation
+AWS Private Certificate Authority
+AWS Audit Manager
+Amazon DevOps Guru
+Amazon DynamoDB
+AWS Backup
+AWS Elastic Beanstalk
+AWS Direct Connect
+Amazon API Gateway
+Amazon FSx for Windows File Server
+AWS Budgets
+AWS Batch
+Amazon FSx for OpenZFS
+AWS Fault Injection Service
+AWS Auto Scaling
+Amazon Simple Storage Service (S3)
+Amazon Translate
+Amazon GuardDuty
+AWS Storage Gateway
+AWS Lambda
+Amazon SageMaker
+Amazon GameLift
+Amazon Textract
+AWS Application Migration Service (MGN)
+Amazon DynamoDB Accelerator
+AWS Certificate Manager
+Amazon CloudWatch
+AWS Cloud Control API
+Amazon Elastic Kubernetes Service (EKS)
+Amazon Elastic Container Service (ECS)
+Amazon Keyspaces (for Apache Cassandra)
+AWS App Mesh
+Amazon FSx
+AWS Resource Access Manager (RAM)
+AWS Snowball
+Amazon OpenSearch Service
+AWS CloudTrail
+AWS Resilience Hub
+AWS Transit Gateway
+AWS Organizations
 VMware Cloud on AWS
 AWS Key Management Service
-AWS Storage Gateway
-AWS OpsWorks for Puppet Enterprise
-AWS Transfer Family
-Amazon Inspector
-AWS Direct Connect
-Amazon Route 53
-AWS Organizations
-AWS CloudFormation
-Amazon Textract
-Amazon Polly
-Amazon Managed Service for Apache Flink
-Amazon AppFlow
-Amazon Verified Permissions
-AWS Service Catalog
-Amazon DynamoDB
-Amazon Application Recovery Controller
-AWS Cloud9
-Amazon Elastic Block Store (EBS)
-Amazon Lumberyard
-AWS Trusted Advisor
-AWS Fault Injection Service
-Amazon Relational Database Service (RDS)
-Amazon Translate
-Amazon Pinpoint and End User Messaging
-Amazon FSx for Lustre
-Amazon Managed Streaming for Apache Kafka
-Amazon OpenSearch Service
-Amazon Kinesis Data Streams
-AWS Lake Formation
-AWS Certificate Manager
-AWS AppSync
-Amazon CloudFront
-Amazon GuardDuty
-AWS CodeDeploy
-Amazon MQ
-AWS Directory Service
-Red Hat OpenShift Service on AWS (ROSA)
-AWS Resource Access Manager (RAM)
-AWS Resource Explorer
-AWS Amplify
-Amazon Chime SDK
-AWS Cloud Control API
 AWS Compute Optimizer
-AWS IoT Core
-AWS Audit Manager
-AWS Step Functions
-Amazon Cognito
-Amazon Virtual Private Cloud (VPC)
-CloudEndure Migration
-AWS Batch
-AWS IoT Device Management
-AWS Control Tower
 AWS IAM Identity Center
-Amazon MemoryDB
-Amazon Transcribe
-AWS Config
-Amazon Rekognition
-AWS Identity and Access Management (IAM)
+Amazon MQ
+Amazon Managed Service for Apache Flink
+AWS Resource Explorer
+AWS OpsWorks for Chef Automate
+AWS Chatbot
+AWS Outposts
+Amazon Lumberyard
+Amazon FSx for Lustre
+AWS Cloud9
+AWS Database Migration Service
+Amazon Kinesis Data Streams
+Amazon Athena
+Amazon EC2 Auto Scaling
+AWS Resource Groups
+AWS Well-Architected Tool
+AWS Snowcone
+Amazon VPC Lattice
+AWS License Manager
+AWS Data Exchange
 AWS Managed Services
+AWS Transfer Family
+AWS Glue
+AWS CodeCommit
+Amazon Neptune
+AWS Systems Manager
+AWS Marketplace
+AWS Firewall Manager
+AWS Secrets Manager
+AWS IoT Core
+AWS WAF
+Amazon Cognito
+AWS DataSync
+Amazon Route 53
+AWS CodeDeploy
+AWS Elemental MediaPackage
+AWS X-Ray
+Amazon Simple Workflow Service (SWF)
+Amazon ElastiCache
+Amazon MemoryDB
+AWS Config
+Amazon Simple Email Service (SES)
+FreeRTOS
+CloudEndure Disaster Recovery
+Amazon Pinpoint and End User Messaging
+AWS Trusted Advisor
 AWS Support
+Amazon Aurora
+Amazon Chime
+Amazon CloudWatch Logs
+Amazon Managed Streaming for Apache Kafka
+Amazon Managed Workflows for Apache Airflow
+Amazon AppFlow
+AWS Elemental MediaConvert
+AWS Amplify
 AWS Signer
 Amazon FSx for NetApp ONTAP
-Amazon Elastic File System (EFS)
-AWS X-Ray
-CloudEndure Disaster Recovery
-AWS Resilience Hub
-AWS Elastic Disaster Recovery (DRS)
-AWS Well-Architected Tool
-Amazon Elastic Container Registry (ECR)
+AWS CloudHSM
+AWS CodePipeline
+Amazon Inspector
+Amazon Polly
+AWS Directory Service
 AWS Mainframe Modernization
-AWS Elastic Beanstalk
-Amazon Neptune
-AWS OpsWorks Stacks
-Amazon GameLift
-AWS Fargate
-Amazon Simple Workflow Service (SWF)
-AWS Serverless Application Repository
-AWS App Mesh
-AWS Elemental MediaPackage
-Amazon Elastic Container Service (ECS)
-AWS Resource Groups
-Amazon Redshift
-AWS Application Migration Service (MGN)
-EC2 Image Builder
-AWS Security Hub
-Amazon Managed Workflows for Apache Airflow
+AWS Lake Formation
 Amazon Simple Queue Service (SQS)
-AWS PrivateLink
-AWS Global Accelerator
-Amazon Chime
-Amazon DynamoDB Accelerator
-AWS Systems Manager
-AWS CodeBuild
-AWS Backup
 AWS Artifact
-Amazon Simple Storage Service (S3)
+Amazon Detective
 AWS Elemental MediaConnect
-AWS Shield
-Amazon FSx for OpenZFS
-AWS Data Exchange
-AWS User Notifications
-AWS CodeCommit
-AWS Marketplace
-AWS Elemental MediaConvert
-AWS Private Certificate Authority
-Amazon EC2 Auto Scaling
-Amazon Elastic MapReduce (EMR)
-AWS DataSync
-Amazon ElastiCache
-AWS Database Migration Service
-Amazon Security Lake
-AWS WAF
-Amazon Macie
-AWS IQ
-Amazon CloudWatch
-AWS CloudShell
-Amazon SageMaker
+CloudEndure Migration
+AWS Global Accelerator
 AWS Launch Wizard
-AWS Auto Scaling
-FreeRTOS
-Amazon Elastic Kubernetes Service (EKS)
-Amazon Athena
-AWS Firewall Manager
-AWS Snowball
+AWS User Notifications
+AWS VPN
+Amazon Verified Permissions
+Amazon Application Recovery Controller
+Amazon Elastic Container Registry (ECR)
+AWS CloudShell
+Amazon Chime SDK
+AWS Shield
+AWS Network Firewall
+AWS Identity and Access Management (IAM)
+AWS Control Tower
+Red Hat OpenShift Service on AWS (ROSA)
+AWS Elastic Disaster Recovery (DRS)
+Amazon Elastic MapReduce (EMR)
+AWS AppSync
+Amazon Simple Notification Service (SNS)
+AWS Serverless Application Repository
+AWS IoT Device Management
+AWS PrivateLink
+AWS Step Functions
+Amazon Inspector Classic
+AWS Health Dashboard
+Amazon Elastic File System (EFS)
+AWS Service Catalog
+AWS OpsWorks Stacks
+Amazon Elastic Block Store (EBS)
+Amazon EventBridge
+Amazon Macie
+AWS OpsWorks for Puppet Enterprise
+AWS Fargate
+Elastic Load Balancing
+Amazon CloudFront
+Amazon Elastic Compute Cloud (EC2)
+AWS CodeBuild
+Amazon Redshift
+Amazon Relational Database Service (RDS)
+Amazon Virtual Private Cloud (VPC)
+Amazon Security Lake
+AWS Cloud Map
