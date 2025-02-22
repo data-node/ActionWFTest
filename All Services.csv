@@ -942,17 +942,18 @@ af-south-1,Amazon Managed Service for Apache Flink,https://aws.amazon.com/manage
 eu-central-2,Amazon Managed Service for Apache Flink,https://aws.amazon.com/managed-service-apache-flink/
 eu-west-2,Amazon Managed Service for Apache Flink,https://aws.amazon.com/managed-service-apache-flink/
 us-gov-west-1,Amazon Managed Service for Apache Flink,https://aws.amazon.com/managed-service-apache-flink/
-ap-northeast-1,Amazon Data Firehose,https://aws.amazon.com/firehose/
 ap-northeast-2,Amazon Data Firehose,https://aws.amazon.com/firehose/
 ap-northeast-3,Amazon Data Firehose,https://aws.amazon.com/firehose/
 ap-south-1,Amazon Data Firehose,https://aws.amazon.com/firehose/
 ap-south-2,Amazon Data Firehose,https://aws.amazon.com/firehose/
 ap-southeast-3,Amazon Data Firehose,https://aws.amazon.com/firehose/
 ap-southeast-5,Amazon Data Firehose,https://aws.amazon.com/firehose/
+ap-southeast-7,Amazon Data Firehose,https://aws.amazon.com/firehose/
 cn-northwest-1,Amazon Data Firehose,https://aws.amazon.com/firehose/
 eu-central-2,Amazon Data Firehose,https://aws.amazon.com/firehose/
 eu-west-3,Amazon Data Firehose,https://aws.amazon.com/firehose/
 ap-east-1,Amazon Data Firehose,https://aws.amazon.com/firehose/
+ap-northeast-1,Amazon Data Firehose,https://aws.amazon.com/firehose/
 ap-southeast-2,Amazon Data Firehose,https://aws.amazon.com/firehose/
 ap-southeast-4,Amazon Data Firehose,https://aws.amazon.com/firehose/
 eu-central-1,Amazon Data Firehose,https://aws.amazon.com/firehose/
@@ -961,20 +962,21 @@ il-central-1,Amazon Data Firehose,https://aws.amazon.com/firehose/
 me-central-1,Amazon Data Firehose,https://aws.amazon.com/firehose/
 us-east-2,Amazon Data Firehose,https://aws.amazon.com/firehose/
 us-gov-west-1,Amazon Data Firehose,https://aws.amazon.com/firehose/
-us-west-1,Amazon Data Firehose,https://aws.amazon.com/firehose/
 af-south-1,Amazon Data Firehose,https://aws.amazon.com/firehose/
 ap-southeast-1,Amazon Data Firehose,https://aws.amazon.com/firehose/
 ca-west-1,Amazon Data Firehose,https://aws.amazon.com/firehose/
 eu-north-1,Amazon Data Firehose,https://aws.amazon.com/firehose/
-eu-south-1,Amazon Data Firehose,https://aws.amazon.com/firehose/
 eu-west-1,Amazon Data Firehose,https://aws.amazon.com/firehose/
 me-south-1,Amazon Data Firehose,https://aws.amazon.com/firehose/
 us-east-1,Amazon Data Firehose,https://aws.amazon.com/firehose/
 us-gov-east-1,Amazon Data Firehose,https://aws.amazon.com/firehose/
+us-west-1,Amazon Data Firehose,https://aws.amazon.com/firehose/
 us-west-2,Amazon Data Firehose,https://aws.amazon.com/firehose/
 ca-central-1,Amazon Data Firehose,https://aws.amazon.com/firehose/
 cn-north-1,Amazon Data Firehose,https://aws.amazon.com/firehose/
+eu-south-1,Amazon Data Firehose,https://aws.amazon.com/firehose/
 eu-south-2,Amazon Data Firehose,https://aws.amazon.com/firehose/
+mx-central-1,Amazon Data Firehose,https://aws.amazon.com/firehose/
 sa-east-1,Amazon Data Firehose,https://aws.amazon.com/firehose/
 ap-northeast-1,Amazon Kinesis Video Streams,https://aws.amazon.com/kinesis/video-streams/
 ap-southeast-1,Amazon Kinesis Video Streams,https://aws.amazon.com/kinesis/video-streams/
@@ -3910,19 +3912,17 @@ ap-northeast-2,AWS Snowball,https://aws.amazon.com/snowball/
 ap-southeast-1,AWS Snowball,https://aws.amazon.com/snowball/
 ap-southeast-2,AWS Snowball,https://aws.amazon.com/snowball/
 ap-southeast-3,AWS Snowball,https://aws.amazon.com/snowball/
-cn-north-1,AWS Snowball,https://aws.amazon.com/snowball/
 eu-north-1,AWS Snowball,https://aws.amazon.com/snowball/
 eu-south-1,AWS Snowball,https://aws.amazon.com/snowball/
 eu-west-1,AWS Snowball,https://aws.amazon.com/snowball/
 eu-west-2,AWS Snowball,https://aws.amazon.com/snowball/
 sa-east-1,AWS Snowball,https://aws.amazon.com/snowball/
+us-west-1,AWS Snowball,https://aws.amazon.com/snowball/
 ap-east-1,AWS Snowball,https://aws.amazon.com/snowball/
 ca-central-1,AWS Snowball,https://aws.amazon.com/snowball/
-cn-northwest-1,AWS Snowball,https://aws.amazon.com/snowball/
 eu-central-1,AWS Snowball,https://aws.amazon.com/snowball/
 il-central-1,AWS Snowball,https://aws.amazon.com/snowball/
 us-east-2,AWS Snowball,https://aws.amazon.com/snowball/
-us-west-1,AWS Snowball,https://aws.amazon.com/snowball/
 ap-southeast-2,AWS Database Migration Service,https://aws.amazon.com/dms/
 ap-southeast-3,AWS Database Migration Service,https://aws.amazon.com/dms/
 cn-north-1,AWS Database Migration Service,https://aws.amazon.com/dms/
