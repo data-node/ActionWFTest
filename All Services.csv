@@ -1361,10 +1361,10 @@ ap-northeast-3,Amazon MQ,https://aws.amazon.com/amazon-mq/
 ca-west-1,Amazon MQ,https://aws.amazon.com/amazon-mq/
 cn-north-1,Amazon MQ,https://aws.amazon.com/amazon-mq/
 eu-central-2,Amazon MQ,https://aws.amazon.com/amazon-mq/
-ap-east-1,AWS WAF,https://aws.amazon.com/waf/
 ap-south-2,AWS WAF,https://aws.amazon.com/waf/
 ap-southeast-3,AWS WAF,https://aws.amazon.com/waf/
 ap-southeast-5,AWS WAF,https://aws.amazon.com/waf/
+ap-southeast-7,AWS WAF,https://aws.amazon.com/waf/
 eu-north-1,AWS WAF,https://aws.amazon.com/waf/
 eu-south-2,AWS WAF,https://aws.amazon.com/waf/
 eu-west-1,AWS WAF,https://aws.amazon.com/waf/
@@ -1372,27 +1372,29 @@ eu-west-2,AWS WAF,https://aws.amazon.com/waf/
 us-gov-west-1,AWS WAF,https://aws.amazon.com/waf/
 us-west-1,AWS WAF,https://aws.amazon.com/waf/
 af-south-1,AWS WAF,https://aws.amazon.com/waf/
+ap-east-1,AWS WAF,https://aws.amazon.com/waf/
 ap-southeast-1,AWS WAF,https://aws.amazon.com/waf/
 cn-north-1,AWS WAF,https://aws.amazon.com/waf/
 eu-central-1,AWS WAF,https://aws.amazon.com/waf/
 eu-central-2,AWS WAF,https://aws.amazon.com/waf/
 il-central-1,AWS WAF,https://aws.amazon.com/waf/
-me-central-1,AWS WAF,https://aws.amazon.com/waf/
 me-south-1,AWS WAF,https://aws.amazon.com/waf/
 us-east-1,AWS WAF,https://aws.amazon.com/waf/
 us-west-2,AWS WAF,https://aws.amazon.com/waf/
 ap-northeast-1,AWS WAF,https://aws.amazon.com/waf/
 ap-northeast-2,AWS WAF,https://aws.amazon.com/waf/
 ap-northeast-3,AWS WAF,https://aws.amazon.com/waf/
-ap-southeast-2,AWS WAF,https://aws.amazon.com/waf/
 ap-southeast-4,AWS WAF,https://aws.amazon.com/waf/
 ca-west-1,AWS WAF,https://aws.amazon.com/waf/
-cn-northwest-1,AWS WAF,https://aws.amazon.com/waf/
+me-central-1,AWS WAF,https://aws.amazon.com/waf/
+mx-central-1,AWS WAF,https://aws.amazon.com/waf/
 sa-east-1,AWS WAF,https://aws.amazon.com/waf/
 us-east-2,AWS WAF,https://aws.amazon.com/waf/
 us-gov-east-1,AWS WAF,https://aws.amazon.com/waf/
 ap-south-1,AWS WAF,https://aws.amazon.com/waf/
+ap-southeast-2,AWS WAF,https://aws.amazon.com/waf/
 ca-central-1,AWS WAF,https://aws.amazon.com/waf/
+cn-northwest-1,AWS WAF,https://aws.amazon.com/waf/
 eu-south-1,AWS WAF,https://aws.amazon.com/waf/
 eu-west-3,AWS WAF,https://aws.amazon.com/waf/
 ap-northeast-1,AWS IoT Analytics,https://aws.amazon.com/iot-analytics/
@@ -2015,8 +2017,8 @@ eu-central-1,Amazon Cognito,https://aws.amazon.com/cognito/
 eu-central-2,Amazon Cognito,https://aws.amazon.com/cognito/
 eu-north-1,Amazon Cognito,https://aws.amazon.com/cognito/
 eu-south-1,Amazon Cognito,https://aws.amazon.com/cognito/
-eu-south-2,Amazon Cognito,https://aws.amazon.com/cognito/
 us-east-2,Amazon Cognito,https://aws.amazon.com/cognito/
+us-gov-east-1,Amazon Cognito,https://aws.amazon.com/cognito/
 us-gov-west-1,Amazon Cognito,https://aws.amazon.com/cognito/
 ap-east-1,Amazon Cognito,https://aws.amazon.com/cognito/
 ap-northeast-2,Amazon Cognito,https://aws.amazon.com/cognito/
@@ -2024,11 +2026,12 @@ ap-northeast-3,Amazon Cognito,https://aws.amazon.com/cognito/
 ap-southeast-3,Amazon Cognito,https://aws.amazon.com/cognito/
 ca-central-1,Amazon Cognito,https://aws.amazon.com/cognito/
 ca-west-1,Amazon Cognito,https://aws.amazon.com/cognito/
+eu-south-2,Amazon Cognito,https://aws.amazon.com/cognito/
 me-central-1,Amazon Cognito,https://aws.amazon.com/cognito/
 me-south-1,Amazon Cognito,https://aws.amazon.com/cognito/
-sa-east-1,Amazon Cognito,https://aws.amazon.com/cognito/
 us-west-2,Amazon Cognito,https://aws.amazon.com/cognito/
 eu-west-2,Amazon Cognito,https://aws.amazon.com/cognito/
+sa-east-1,Amazon Cognito,https://aws.amazon.com/cognito/
 ap-northeast-1,AWS Data Pipeline,https://aws.amazon.com/datapipeline/
 ap-southeast-2,AWS Data Pipeline,https://aws.amazon.com/datapipeline/
 eu-west-1,AWS Data Pipeline,https://aws.amazon.com/datapipeline/
