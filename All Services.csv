@@ -3446,11 +3446,10 @@ ap-southeast-3,AWS Transfer Family,https://aws.amazon.com/aws-transfer-family/
 ap-southeast-4,AWS Transfer Family,https://aws.amazon.com/aws-transfer-family/
 eu-central-1,AWS Transfer Family,https://aws.amazon.com/aws-transfer-family/
 eu-central-2,AWS Transfer Family,https://aws.amazon.com/aws-transfer-family/
-us-east-2,AWS Transfer Family,https://aws.amazon.com/aws-transfer-family/
+mx-central-1,AWS Transfer Family,https://aws.amazon.com/aws-transfer-family/
 us-west-1,AWS Transfer Family,https://aws.amazon.com/aws-transfer-family/
 ap-east-1,AWS Transfer Family,https://aws.amazon.com/aws-transfer-family/
 ap-northeast-2,AWS Transfer Family,https://aws.amazon.com/aws-transfer-family/
-ap-northeast-3,AWS Transfer Family,https://aws.amazon.com/aws-transfer-family/
 ca-west-1,AWS Transfer Family,https://aws.amazon.com/aws-transfer-family/
 eu-south-2,AWS Transfer Family,https://aws.amazon.com/aws-transfer-family/
 eu-west-2,AWS Transfer Family,https://aws.amazon.com/aws-transfer-family/
@@ -3458,11 +3457,12 @@ eu-west-3,AWS Transfer Family,https://aws.amazon.com/aws-transfer-family/
 il-central-1,AWS Transfer Family,https://aws.amazon.com/aws-transfer-family/
 sa-east-1,AWS Transfer Family,https://aws.amazon.com/aws-transfer-family/
 us-east-1,AWS Transfer Family,https://aws.amazon.com/aws-transfer-family/
+us-east-2,AWS Transfer Family,https://aws.amazon.com/aws-transfer-family/
+ap-northeast-3,AWS Transfer Family,https://aws.amazon.com/aws-transfer-family/
 ap-south-2,AWS Transfer Family,https://aws.amazon.com/aws-transfer-family/
 ap-southeast-5,AWS Transfer Family,https://aws.amazon.com/aws-transfer-family/
 ca-central-1,AWS Transfer Family,https://aws.amazon.com/aws-transfer-family/
 eu-north-1,AWS Transfer Family,https://aws.amazon.com/aws-transfer-family/
-eu-west-1,AWS Transfer Family,https://aws.amazon.com/aws-transfer-family/
 me-central-1,AWS Transfer Family,https://aws.amazon.com/aws-transfer-family/
 me-south-1,AWS Transfer Family,https://aws.amazon.com/aws-transfer-family/
 us-gov-east-1,AWS Transfer Family,https://aws.amazon.com/aws-transfer-family/
@@ -3472,6 +3472,7 @@ ap-northeast-1,AWS Transfer Family,https://aws.amazon.com/aws-transfer-family/
 cn-north-1,AWS Transfer Family,https://aws.amazon.com/aws-transfer-family/
 cn-northwest-1,AWS Transfer Family,https://aws.amazon.com/aws-transfer-family/
 eu-south-1,AWS Transfer Family,https://aws.amazon.com/aws-transfer-family/
+eu-west-1,AWS Transfer Family,https://aws.amazon.com/aws-transfer-family/
 af-south-1,Amazon Simple Email Service (SES),https://aws.amazon.com/ses/
 ap-northeast-1,Amazon Simple Email Service (SES),https://aws.amazon.com/ses/
 ap-northeast-3,Amazon Simple Email Service (SES),https://aws.amazon.com/ses/
@@ -3981,16 +3982,18 @@ ca-central-1,AWS Database Migration Service,https://aws.amazon.com/dms/
 cn-northwest-1,AWS Database Migration Service,https://aws.amazon.com/dms/
 eu-north-1,AWS Database Migration Service,https://aws.amazon.com/dms/
 us-gov-east-1,AWS Database Migration Service,https://aws.amazon.com/dms/
+af-south-1,AWS Entity Resolution,https://aws.amazon.com/entity-resolution
 ap-northeast-1,AWS Entity Resolution,https://aws.amazon.com/entity-resolution
-ap-northeast-2,AWS Entity Resolution,https://aws.amazon.com/entity-resolution
-ap-southeast-1,AWS Entity Resolution,https://aws.amazon.com/entity-resolution
 ap-southeast-2,AWS Entity Resolution,https://aws.amazon.com/entity-resolution
+ca-central-1,AWS Entity Resolution,https://aws.amazon.com/entity-resolution
 eu-central-1,AWS Entity Resolution,https://aws.amazon.com/entity-resolution
 eu-west-1,AWS Entity Resolution,https://aws.amazon.com/entity-resolution
 eu-west-2,AWS Entity Resolution,https://aws.amazon.com/entity-resolution
 us-east-1,AWS Entity Resolution,https://aws.amazon.com/entity-resolution
 us-east-2,AWS Entity Resolution,https://aws.amazon.com/entity-resolution
 us-west-2,AWS Entity Resolution,https://aws.amazon.com/entity-resolution
+ap-northeast-2,AWS Entity Resolution,https://aws.amazon.com/entity-resolution
+ap-southeast-1,AWS Entity Resolution,https://aws.amazon.com/entity-resolution
 ap-east-1,AWS Elastic Beanstalk,https://aws.amazon.com/elasticbeanstalk/
 ap-northeast-2,AWS Elastic Beanstalk,https://aws.amazon.com/elasticbeanstalk/
 ap-south-1,AWS Elastic Beanstalk,https://aws.amazon.com/elasticbeanstalk/
