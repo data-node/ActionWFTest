@@ -1051,14 +1051,15 @@ us-west-2,Amazon GuardDuty,https://aws.amazon.com/guardduty/
 ap-east-1,Amazon GuardDuty,https://aws.amazon.com/guardduty/
 ap-northeast-1,Amazon GuardDuty,https://aws.amazon.com/guardduty/
 ap-northeast-3,Amazon GuardDuty,https://aws.amazon.com/guardduty/
-ap-south-2,Amazon GuardDuty,https://aws.amazon.com/guardduty/
 ap-southeast-1,Amazon GuardDuty,https://aws.amazon.com/guardduty/
 ap-southeast-5,Amazon GuardDuty,https://aws.amazon.com/guardduty/
 ca-west-1,Amazon GuardDuty,https://aws.amazon.com/guardduty/
 eu-south-1,Amazon GuardDuty,https://aws.amazon.com/guardduty/
 il-central-1,Amazon GuardDuty,https://aws.amazon.com/guardduty/
+mx-central-1,Amazon GuardDuty,https://aws.amazon.com/guardduty/
 us-east-2,Amazon GuardDuty,https://aws.amazon.com/guardduty/
 ap-south-1,Amazon GuardDuty,https://aws.amazon.com/guardduty/
+ap-south-2,Amazon GuardDuty,https://aws.amazon.com/guardduty/
 ap-southeast-2,Amazon GuardDuty,https://aws.amazon.com/guardduty/
 ap-southeast-7,Amazon GuardDuty,https://aws.amazon.com/guardduty/
 ca-central-1,Amazon GuardDuty,https://aws.amazon.com/guardduty/
@@ -1066,13 +1067,13 @@ eu-west-1,Amazon GuardDuty,https://aws.amazon.com/guardduty/
 eu-west-3,Amazon GuardDuty,https://aws.amazon.com/guardduty/
 me-central-1,Amazon GuardDuty,https://aws.amazon.com/guardduty/
 me-south-1,Amazon GuardDuty,https://aws.amazon.com/guardduty/
-us-gov-east-1,Amazon GuardDuty,https://aws.amazon.com/guardduty/
 us-west-1,Amazon GuardDuty,https://aws.amazon.com/guardduty/
 ap-northeast-2,Amazon GuardDuty,https://aws.amazon.com/guardduty/
 cn-north-1,Amazon GuardDuty,https://aws.amazon.com/guardduty/
 cn-northwest-1,Amazon GuardDuty,https://aws.amazon.com/guardduty/
 eu-central-2,Amazon GuardDuty,https://aws.amazon.com/guardduty/
 eu-north-1,Amazon GuardDuty,https://aws.amazon.com/guardduty/
+us-gov-east-1,Amazon GuardDuty,https://aws.amazon.com/guardduty/
 af-south-1,AWS Launch Wizard,https://aws.amazon.com/launchwizard/
 ap-east-1,AWS Launch Wizard,https://aws.amazon.com/launchwizard/
 ap-northeast-1,AWS Launch Wizard,https://aws.amazon.com/launchwizard/
@@ -1133,15 +1134,16 @@ us-west-1,VMware Cloud on AWS,https://aws.amazon.com/vmware/
 ap-northeast-2,Amazon AppStream 2.0,https://aws.amazon.com/appstream2/
 ap-south-1,Amazon AppStream 2.0,https://aws.amazon.com/appstream2/
 ap-southeast-1,Amazon AppStream 2.0,https://aws.amazon.com/appstream2/
-ca-central-1,Amazon AppStream 2.0,https://aws.amazon.com/appstream2/
 eu-central-1,Amazon AppStream 2.0,https://aws.amazon.com/appstream2/
 eu-west-1,Amazon AppStream 2.0,https://aws.amazon.com/appstream2/
 eu-west-2,Amazon AppStream 2.0,https://aws.amazon.com/appstream2/
+eu-west-3,Amazon AppStream 2.0,https://aws.amazon.com/appstream2/
 sa-east-1,Amazon AppStream 2.0,https://aws.amazon.com/appstream2/
 us-gov-east-1,Amazon AppStream 2.0,https://aws.amazon.com/appstream2/
 us-west-2,Amazon AppStream 2.0,https://aws.amazon.com/appstream2/
 ap-northeast-1,Amazon AppStream 2.0,https://aws.amazon.com/appstream2/
 ap-southeast-2,Amazon AppStream 2.0,https://aws.amazon.com/appstream2/
+ca-central-1,Amazon AppStream 2.0,https://aws.amazon.com/appstream2/
 us-east-1,Amazon AppStream 2.0,https://aws.amazon.com/appstream2/
 us-east-2,Amazon AppStream 2.0,https://aws.amazon.com/appstream2/
 us-gov-west-1,Amazon AppStream 2.0,https://aws.amazon.com/appstream2/
@@ -2370,16 +2372,17 @@ eu-south-2,Amazon Pinpoint and End User Messaging,https://aws.amazon.com/end-use
 il-central-1,Amazon Pinpoint and End User Messaging,https://aws.amazon.com/end-user-messaging/amazon-pinpoint-aws-end-user-messaging-landing-page/
 me-south-1,Amazon Pinpoint and End User Messaging,https://aws.amazon.com/end-user-messaging/amazon-pinpoint-aws-end-user-messaging-landing-page/
 us-east-1,Amazon Pinpoint and End User Messaging,https://aws.amazon.com/end-user-messaging/amazon-pinpoint-aws-end-user-messaging-landing-page/
-ap-northeast-1,Amazon Pinpoint and End User Messaging,https://aws.amazon.com/end-user-messaging/amazon-pinpoint-aws-end-user-messaging-landing-page/
 ap-south-2,Amazon Pinpoint and End User Messaging,https://aws.amazon.com/end-user-messaging/amazon-pinpoint-aws-end-user-messaging-landing-page/
 ap-southeast-1,Amazon Pinpoint and End User Messaging,https://aws.amazon.com/end-user-messaging/amazon-pinpoint-aws-end-user-messaging-landing-page/
 eu-central-1,Amazon Pinpoint and End User Messaging,https://aws.amazon.com/end-user-messaging/amazon-pinpoint-aws-end-user-messaging-landing-page/
 eu-north-1,Amazon Pinpoint and End User Messaging,https://aws.amazon.com/end-user-messaging/amazon-pinpoint-aws-end-user-messaging-landing-page/
 eu-west-2,Amazon Pinpoint and End User Messaging,https://aws.amazon.com/end-user-messaging/amazon-pinpoint-aws-end-user-messaging-landing-page/
 me-central-1,Amazon Pinpoint and End User Messaging,https://aws.amazon.com/end-user-messaging/amazon-pinpoint-aws-end-user-messaging-landing-page/
+mx-central-1,Amazon Pinpoint and End User Messaging,https://aws.amazon.com/end-user-messaging/amazon-pinpoint-aws-end-user-messaging-landing-page/
 us-east-2,Amazon Pinpoint and End User Messaging,https://aws.amazon.com/end-user-messaging/amazon-pinpoint-aws-end-user-messaging-landing-page/
 us-gov-east-1,Amazon Pinpoint and End User Messaging,https://aws.amazon.com/end-user-messaging/amazon-pinpoint-aws-end-user-messaging-landing-page/
 us-west-1,Amazon Pinpoint and End User Messaging,https://aws.amazon.com/end-user-messaging/amazon-pinpoint-aws-end-user-messaging-landing-page/
+ap-northeast-1,Amazon Pinpoint and End User Messaging,https://aws.amazon.com/end-user-messaging/amazon-pinpoint-aws-end-user-messaging-landing-page/
 ap-south-1,AWS Resource Groups,https://docs.aws.amazon.com/ARG/index.html
 ap-southeast-1,AWS Resource Groups,https://docs.aws.amazon.com/ARG/index.html
 ap-southeast-2,AWS Resource Groups,https://docs.aws.amazon.com/ARG/index.html
@@ -3858,7 +3861,7 @@ ap-southeast-2,Amazon WorkSpaces,https://aws.amazon.com/workspaces/
 ca-central-1,Amazon WorkSpaces,https://aws.amazon.com/workspaces/
 cn-northwest-1,Amazon WorkSpaces,https://aws.amazon.com/workspaces/
 eu-central-1,Amazon WorkSpaces,https://aws.amazon.com/workspaces/
-sa-east-1,Amazon WorkSpaces,https://aws.amazon.com/workspaces/
+eu-west-3,Amazon WorkSpaces,https://aws.amazon.com/workspaces/
 us-east-1,Amazon WorkSpaces,https://aws.amazon.com/workspaces/
 us-gov-west-1,Amazon WorkSpaces,https://aws.amazon.com/workspaces/
 us-west-2,Amazon WorkSpaces,https://aws.amazon.com/workspaces/
@@ -3868,6 +3871,7 @@ ap-southeast-1,Amazon WorkSpaces,https://aws.amazon.com/workspaces/
 eu-west-1,Amazon WorkSpaces,https://aws.amazon.com/workspaces/
 eu-west-2,Amazon WorkSpaces,https://aws.amazon.com/workspaces/
 il-central-1,Amazon WorkSpaces,https://aws.amazon.com/workspaces/
+sa-east-1,Amazon WorkSpaces,https://aws.amazon.com/workspaces/
 us-gov-east-1,Amazon WorkSpaces,https://aws.amazon.com/workspaces/
 ap-northeast-1,Amazon Managed Blockchain,https://aws.amazon.com/managed-blockchain/
 ap-northeast-2,Amazon Managed Blockchain,https://aws.amazon.com/managed-blockchain/
@@ -3975,14 +3979,15 @@ eu-north-1,AWS Database Migration Service,https://aws.amazon.com/dms/
 us-gov-east-1,AWS Database Migration Service,https://aws.amazon.com/dms/
 ap-northeast-1,AWS Entity Resolution,https://aws.amazon.com/entity-resolution
 ap-northeast-2,AWS Entity Resolution,https://aws.amazon.com/entity-resolution
-ap-southeast-1,AWS Entity Resolution,https://aws.amazon.com/entity-resolution
 ap-southeast-2,AWS Entity Resolution,https://aws.amazon.com/entity-resolution
+ca-central-1,AWS Entity Resolution,https://aws.amazon.com/entity-resolution
 eu-central-1,AWS Entity Resolution,https://aws.amazon.com/entity-resolution
 eu-west-1,AWS Entity Resolution,https://aws.amazon.com/entity-resolution
 eu-west-2,AWS Entity Resolution,https://aws.amazon.com/entity-resolution
 us-east-1,AWS Entity Resolution,https://aws.amazon.com/entity-resolution
 us-east-2,AWS Entity Resolution,https://aws.amazon.com/entity-resolution
 us-west-2,AWS Entity Resolution,https://aws.amazon.com/entity-resolution
+ap-southeast-1,AWS Entity Resolution,https://aws.amazon.com/entity-resolution
 ap-east-1,AWS Serverless Application Repository,https://aws.amazon.com/serverless/serverlessrepo/
 ap-northeast-1,AWS Serverless Application Repository,https://aws.amazon.com/serverless/serverlessrepo/
 ap-northeast-2,AWS Serverless Application Repository,https://aws.amazon.com/serverless/serverlessrepo/
