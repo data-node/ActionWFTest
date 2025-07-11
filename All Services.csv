@@ -2274,8 +2274,8 @@ ap-southeast-5,Amazon FSx for NetApp ONTAP,https://aws.amazon.com/fsx/netapp-ont
 eu-central-2,Amazon FSx for NetApp ONTAP,https://aws.amazon.com/fsx/netapp-ontap
 eu-west-3,Amazon FSx for NetApp ONTAP,https://aws.amazon.com/fsx/netapp-ontap
 us-east-1,Amazon FSx for NetApp ONTAP,https://aws.amazon.com/fsx/netapp-ontap
+ap-east-2,Amazon FSx for NetApp ONTAP,https://aws.amazon.com/fsx/netapp-ontap
 cn-northwest-1,Amazon FSx for NetApp ONTAP,https://aws.amazon.com/fsx/netapp-ontap
-eu-central-1,Amazon FSx for NetApp ONTAP,https://aws.amazon.com/fsx/netapp-ontap
 eu-south-1,Amazon FSx for NetApp ONTAP,https://aws.amazon.com/fsx/netapp-ontap
 eu-south-2,Amazon FSx for NetApp ONTAP,https://aws.amazon.com/fsx/netapp-ontap
 eu-west-2,Amazon FSx for NetApp ONTAP,https://aws.amazon.com/fsx/netapp-ontap
@@ -2288,6 +2288,7 @@ ap-east-1,Amazon FSx for NetApp ONTAP,https://aws.amazon.com/fsx/netapp-ontap
 ap-northeast-1,Amazon FSx for NetApp ONTAP,https://aws.amazon.com/fsx/netapp-ontap
 ap-south-1,Amazon FSx for NetApp ONTAP,https://aws.amazon.com/fsx/netapp-ontap
 ap-southeast-4,Amazon FSx for NetApp ONTAP,https://aws.amazon.com/fsx/netapp-ontap
+eu-central-1,Amazon FSx for NetApp ONTAP,https://aws.amazon.com/fsx/netapp-ontap
 eu-north-1,Amazon FSx for NetApp ONTAP,https://aws.amazon.com/fsx/netapp-ontap
 sa-east-1,Amazon FSx for NetApp ONTAP,https://aws.amazon.com/fsx/netapp-ontap
 ap-southeast-1,AWS HealthOmics,https://aws.amazon.com/healthomics/
@@ -3127,11 +3128,11 @@ me-south-1,Amazon FSx,https://aws.amazon.com/fsx/
 us-east-1,Amazon FSx,https://aws.amazon.com/fsx/
 us-gov-east-1,Amazon FSx,https://aws.amazon.com/fsx/
 us-west-2,Amazon FSx,https://aws.amazon.com/fsx/
+ap-east-2,Amazon FSx,https://aws.amazon.com/fsx/
 ap-south-1,Amazon FSx,https://aws.amazon.com/fsx/
 ap-southeast-1,Amazon FSx,https://aws.amazon.com/fsx/
 ap-southeast-2,Amazon FSx,https://aws.amazon.com/fsx/
 ap-southeast-7,Amazon FSx,https://aws.amazon.com/fsx/
-cn-north-1,Amazon FSx,https://aws.amazon.com/fsx/
 cn-northwest-1,Amazon FSx,https://aws.amazon.com/fsx/
 eu-west-2,Amazon FSx,https://aws.amazon.com/fsx/
 il-central-1,Amazon FSx,https://aws.amazon.com/fsx/
@@ -3142,17 +3143,18 @@ ap-northeast-2,Amazon FSx,https://aws.amazon.com/fsx/
 ap-southeast-3,Amazon FSx,https://aws.amazon.com/fsx/
 ap-southeast-4,Amazon FSx,https://aws.amazon.com/fsx/
 ap-southeast-5,Amazon FSx,https://aws.amazon.com/fsx/
+cn-north-1,Amazon FSx,https://aws.amazon.com/fsx/
 eu-south-2,Amazon FSx,https://aws.amazon.com/fsx/
 eu-west-1,Amazon FSx,https://aws.amazon.com/fsx/
 mx-central-1,Amazon FSx,https://aws.amazon.com/fsx/
 us-gov-west-1,Amazon FSx,https://aws.amazon.com/fsx/
-us-west-1,Amazon FSx,https://aws.amazon.com/fsx/
 ap-east-1,Amazon FSx,https://aws.amazon.com/fsx/
 ap-south-2,Amazon FSx,https://aws.amazon.com/fsx/
 ca-central-1,Amazon FSx,https://aws.amazon.com/fsx/
 ca-west-1,Amazon FSx,https://aws.amazon.com/fsx/
 eu-south-1,Amazon FSx,https://aws.amazon.com/fsx/
 eu-west-3,Amazon FSx,https://aws.amazon.com/fsx/
+us-west-1,Amazon FSx,https://aws.amazon.com/fsx/
 af-south-1,Amazon Verified Permissions,https://aws.amazon.com/verified-permissions/
 ap-northeast-1,Amazon Verified Permissions,https://aws.amazon.com/verified-permissions/
 ap-southeast-1,Amazon Verified Permissions,https://aws.amazon.com/verified-permissions/
@@ -4653,7 +4655,7 @@ me-south-1,Amazon FSx for Lustre,https://aws.amazon.com/fsx/lustre/
 us-east-2,Amazon FSx for Lustre,https://aws.amazon.com/fsx/lustre/
 us-gov-east-1,Amazon FSx for Lustre,https://aws.amazon.com/fsx/lustre/
 us-gov-west-1,Amazon FSx for Lustre,https://aws.amazon.com/fsx/lustre/
-af-south-1,Amazon FSx for Lustre,https://aws.amazon.com/fsx/lustre/
+ap-east-2,Amazon FSx for Lustre,https://aws.amazon.com/fsx/lustre/
 ap-northeast-1,Amazon FSx for Lustre,https://aws.amazon.com/fsx/lustre/
 ap-northeast-3,Amazon FSx for Lustre,https://aws.amazon.com/fsx/lustre/
 ap-south-1,Amazon FSx for Lustre,https://aws.amazon.com/fsx/lustre/
@@ -4663,9 +4665,9 @@ eu-west-3,Amazon FSx for Lustre,https://aws.amazon.com/fsx/lustre/
 il-central-1,Amazon FSx for Lustre,https://aws.amazon.com/fsx/lustre/
 us-east-1,Amazon FSx for Lustre,https://aws.amazon.com/fsx/lustre/
 us-west-1,Amazon FSx for Lustre,https://aws.amazon.com/fsx/lustre/
+af-south-1,Amazon FSx for Lustre,https://aws.amazon.com/fsx/lustre/
 ap-northeast-2,Amazon FSx for Lustre,https://aws.amazon.com/fsx/lustre/
 ap-southeast-1,Amazon FSx for Lustre,https://aws.amazon.com/fsx/lustre/
-ap-southeast-5,Amazon FSx for Lustre,https://aws.amazon.com/fsx/lustre/
 cn-northwest-1,Amazon FSx for Lustre,https://aws.amazon.com/fsx/lustre/
 eu-central-1,Amazon FSx for Lustre,https://aws.amazon.com/fsx/lustre/
 eu-south-1,Amazon FSx for Lustre,https://aws.amazon.com/fsx/lustre/
@@ -4675,6 +4677,7 @@ mx-central-1,Amazon FSx for Lustre,https://aws.amazon.com/fsx/lustre/
 sa-east-1,Amazon FSx for Lustre,https://aws.amazon.com/fsx/lustre/
 ap-east-1,Amazon FSx for Lustre,https://aws.amazon.com/fsx/lustre/
 ap-south-2,Amazon FSx for Lustre,https://aws.amazon.com/fsx/lustre/
+ap-southeast-5,Amazon FSx for Lustre,https://aws.amazon.com/fsx/lustre/
 cn-north-1,Amazon FSx for Lustre,https://aws.amazon.com/fsx/lustre/
 eu-central-2,Amazon FSx for Lustre,https://aws.amazon.com/fsx/lustre/
 eu-south-2,Amazon FSx for Lustre,https://aws.amazon.com/fsx/lustre/
@@ -5163,7 +5166,7 @@ me-south-1,Amazon FSx for OpenZFS,https://aws.amazon.com/fsx/openzfs
 mx-central-1,Amazon FSx for OpenZFS,https://aws.amazon.com/fsx/openzfs
 sa-east-1,Amazon FSx for OpenZFS,https://aws.amazon.com/fsx/openzfs
 us-gov-west-1,Amazon FSx for OpenZFS,https://aws.amazon.com/fsx/openzfs
-ap-northeast-3,Amazon FSx for OpenZFS,https://aws.amazon.com/fsx/openzfs
+ap-east-2,Amazon FSx for OpenZFS,https://aws.amazon.com/fsx/openzfs
 ap-southeast-3,Amazon FSx for OpenZFS,https://aws.amazon.com/fsx/openzfs
 ap-southeast-7,Amazon FSx for OpenZFS,https://aws.amazon.com/fsx/openzfs
 ca-west-1,Amazon FSx for OpenZFS,https://aws.amazon.com/fsx/openzfs
@@ -5173,6 +5176,7 @@ me-central-1,Amazon FSx for OpenZFS,https://aws.amazon.com/fsx/openzfs
 us-east-1,Amazon FSx for OpenZFS,https://aws.amazon.com/fsx/openzfs
 us-east-2,Amazon FSx for OpenZFS,https://aws.amazon.com/fsx/openzfs
 us-gov-east-1,Amazon FSx for OpenZFS,https://aws.amazon.com/fsx/openzfs
+ap-northeast-3,Amazon FSx for OpenZFS,https://aws.amazon.com/fsx/openzfs
 ap-south-2,Amazon FSx for OpenZFS,https://aws.amazon.com/fsx/openzfs
 ap-southeast-1,Amazon FSx for OpenZFS,https://aws.amazon.com/fsx/openzfs
 eu-central-1,Amazon FSx for OpenZFS,https://aws.amazon.com/fsx/openzfs
@@ -5524,6 +5528,7 @@ eu-west-1,Amazon FSx for Windows File Server,https://aws.amazon.com/fsx/windows/
 il-central-1,Amazon FSx for Windows File Server,https://aws.amazon.com/fsx/windows/
 us-east-2,Amazon FSx for Windows File Server,https://aws.amazon.com/fsx/windows/
 us-gov-east-1,Amazon FSx for Windows File Server,https://aws.amazon.com/fsx/windows/
+ap-east-2,Amazon FSx for Windows File Server,https://aws.amazon.com/fsx/windows/
 ap-southeast-1,Amazon FSx for Windows File Server,https://aws.amazon.com/fsx/windows/
 ap-southeast-3,Amazon FSx for Windows File Server,https://aws.amazon.com/fsx/windows/
 ap-southeast-4,Amazon FSx for Windows File Server,https://aws.amazon.com/fsx/windows/
@@ -5533,13 +5538,13 @@ eu-south-1,Amazon FSx for Windows File Server,https://aws.amazon.com/fsx/windows
 eu-south-2,Amazon FSx for Windows File Server,https://aws.amazon.com/fsx/windows/
 eu-west-3,Amazon FSx for Windows File Server,https://aws.amazon.com/fsx/windows/
 me-central-1,Amazon FSx for Windows File Server,https://aws.amazon.com/fsx/windows/
-mx-central-1,Amazon FSx for Windows File Server,https://aws.amazon.com/fsx/windows/
 af-south-1,Amazon FSx for Windows File Server,https://aws.amazon.com/fsx/windows/
 ap-northeast-2,Amazon FSx for Windows File Server,https://aws.amazon.com/fsx/windows/
 ap-south-2,Amazon FSx for Windows File Server,https://aws.amazon.com/fsx/windows/
 ap-southeast-2,Amazon FSx for Windows File Server,https://aws.amazon.com/fsx/windows/
 cn-northwest-1,Amazon FSx for Windows File Server,https://aws.amazon.com/fsx/windows/
 me-south-1,Amazon FSx for Windows File Server,https://aws.amazon.com/fsx/windows/
+mx-central-1,Amazon FSx for Windows File Server,https://aws.amazon.com/fsx/windows/
 ap-northeast-1,AWS App Runner,https://aws.amazon.com/apprunner/
 ap-south-1,AWS App Runner,https://aws.amazon.com/apprunner/
 ap-southeast-1,AWS App Runner,https://aws.amazon.com/apprunner/
