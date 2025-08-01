@@ -575,17 +575,19 @@ eu-west-2,AWS IoT Greengrass,https://aws.amazon.com/greengrass/
 us-east-2,AWS IoT Greengrass,https://aws.amazon.com/greengrass/
 us-west-2,AWS IoT Greengrass,https://aws.amazon.com/greengrass/
 ap-southeast-2,AWS IoT Greengrass,https://aws.amazon.com/greengrass/
+ap-southeast-5,AWS IoT Greengrass,https://aws.amazon.com/greengrass/
 eu-central-1,AWS IoT Greengrass,https://aws.amazon.com/greengrass/
+eu-south-2,AWS IoT Greengrass,https://aws.amazon.com/greengrass/
 us-east-1,AWS IoT Greengrass,https://aws.amazon.com/greengrass/
 us-gov-east-1,AWS IoT Greengrass,https://aws.amazon.com/greengrass/
 us-gov-west-1,AWS IoT Greengrass,https://aws.amazon.com/greengrass/
 ap-east-1,AWS IoT Device Defender,https://aws.amazon.com/iot-device-defender/
 ap-southeast-2,AWS IoT Device Defender,https://aws.amazon.com/iot-device-defender/
+ap-southeast-5,AWS IoT Device Defender,https://aws.amazon.com/iot-device-defender/
 cn-northwest-1,AWS IoT Device Defender,https://aws.amazon.com/iot-device-defender/
 eu-central-1,AWS IoT Device Defender,https://aws.amazon.com/iot-device-defender/
-eu-west-1,AWS IoT Device Defender,https://aws.amazon.com/iot-device-defender/
+eu-south-2,AWS IoT Device Defender,https://aws.amazon.com/iot-device-defender/
 eu-west-3,AWS IoT Device Defender,https://aws.amazon.com/iot-device-defender/
-me-central-1,AWS IoT Device Defender,https://aws.amazon.com/iot-device-defender/
 us-east-2,AWS IoT Device Defender,https://aws.amazon.com/iot-device-defender/
 us-gov-west-1,AWS IoT Device Defender,https://aws.amazon.com/iot-device-defender/
 us-west-1,AWS IoT Device Defender,https://aws.amazon.com/iot-device-defender/
@@ -595,12 +597,14 @@ ap-southeast-1,AWS IoT Device Defender,https://aws.amazon.com/iot-device-defende
 ca-central-1,AWS IoT Device Defender,https://aws.amazon.com/iot-device-defender/
 cn-north-1,AWS IoT Device Defender,https://aws.amazon.com/iot-device-defender/
 eu-north-1,AWS IoT Device Defender,https://aws.amazon.com/iot-device-defender/
-eu-west-2,AWS IoT Device Defender,https://aws.amazon.com/iot-device-defender/
+eu-west-1,AWS IoT Device Defender,https://aws.amazon.com/iot-device-defender/
+me-central-1,AWS IoT Device Defender,https://aws.amazon.com/iot-device-defender/
 me-south-1,AWS IoT Device Defender,https://aws.amazon.com/iot-device-defender/
-us-gov-east-1,AWS IoT Device Defender,https://aws.amazon.com/iot-device-defender/
 us-west-2,AWS IoT Device Defender,https://aws.amazon.com/iot-device-defender/
 ap-northeast-1,AWS IoT Device Defender,https://aws.amazon.com/iot-device-defender/
+eu-west-2,AWS IoT Device Defender,https://aws.amazon.com/iot-device-defender/
 us-east-1,AWS IoT Device Defender,https://aws.amazon.com/iot-device-defender/
+us-gov-east-1,AWS IoT Device Defender,https://aws.amazon.com/iot-device-defender/
 ap-south-1,AWS HealthLake,https://aws.amazon.com/healthlake/
 ap-southeast-2,AWS HealthLake,https://aws.amazon.com/healthlake/
 eu-west-1,AWS HealthLake,https://aws.amazon.com/healthlake/
@@ -1025,24 +1029,27 @@ me-south-1,Amazon Data Firehose,https://aws.amazon.com/firehose/
 mx-central-1,Amazon Data Firehose,https://aws.amazon.com/firehose/
 sa-east-1,Amazon Data Firehose,https://aws.amazon.com/firehose/
 ap-northeast-1,Amazon Kinesis Video Streams,https://aws.amazon.com/kinesis/video-streams/
-ap-southeast-1,Amazon Kinesis Video Streams,https://aws.amazon.com/kinesis/video-streams/
 ap-southeast-2,Amazon Kinesis Video Streams,https://aws.amazon.com/kinesis/video-streams/
+ap-southeast-5,Amazon Kinesis Video Streams,https://aws.amazon.com/kinesis/video-streams/
 eu-central-1,Amazon Kinesis Video Streams,https://aws.amazon.com/kinesis/video-streams/
+eu-south-2,Amazon Kinesis Video Streams,https://aws.amazon.com/kinesis/video-streams/
 eu-west-1,Amazon Kinesis Video Streams,https://aws.amazon.com/kinesis/video-streams/
 eu-west-3,Amazon Kinesis Video Streams,https://aws.amazon.com/kinesis/video-streams/
-sa-east-1,Amazon Kinesis Video Streams,https://aws.amazon.com/kinesis/video-streams/
 us-east-1,Amazon Kinesis Video Streams,https://aws.amazon.com/kinesis/video-streams/
 us-east-2,Amazon Kinesis Video Streams,https://aws.amazon.com/kinesis/video-streams/
 us-west-2,Amazon Kinesis Video Streams,https://aws.amazon.com/kinesis/video-streams/
 af-south-1,Amazon Kinesis Video Streams,https://aws.amazon.com/kinesis/video-streams/
 ap-east-1,Amazon Kinesis Video Streams,https://aws.amazon.com/kinesis/video-streams/
 ap-northeast-2,Amazon Kinesis Video Streams,https://aws.amazon.com/kinesis/video-streams/
-ap-south-1,Amazon Kinesis Video Streams,https://aws.amazon.com/kinesis/video-streams/
+ap-southeast-1,Amazon Kinesis Video Streams,https://aws.amazon.com/kinesis/video-streams/
 ca-central-1,Amazon Kinesis Video Streams,https://aws.amazon.com/kinesis/video-streams/
 cn-north-1,Amazon Kinesis Video Streams,https://aws.amazon.com/kinesis/video-streams/
 eu-west-2,Amazon Kinesis Video Streams,https://aws.amazon.com/kinesis/video-streams/
-us-gov-east-1,Amazon Kinesis Video Streams,https://aws.amazon.com/kinesis/video-streams/
+me-south-1,Amazon Kinesis Video Streams,https://aws.amazon.com/kinesis/video-streams/
+sa-east-1,Amazon Kinesis Video Streams,https://aws.amazon.com/kinesis/video-streams/
 us-gov-west-1,Amazon Kinesis Video Streams,https://aws.amazon.com/kinesis/video-streams/
+ap-south-1,Amazon Kinesis Video Streams,https://aws.amazon.com/kinesis/video-streams/
+us-gov-east-1,Amazon Kinesis Video Streams,https://aws.amazon.com/kinesis/video-streams/
 ap-southeast-1,AWS SimSpace Weaver,https://aws.amazon.com/simspaceweaver/
 ap-southeast-2,AWS SimSpace Weaver,https://aws.amazon.com/simspaceweaver/
 eu-central-1,AWS SimSpace Weaver,https://aws.amazon.com/simspaceweaver/
@@ -1094,6 +1101,7 @@ eu-west-3,Amazon GuardDuty,https://aws.amazon.com/guardduty/
 me-central-1,Amazon GuardDuty,https://aws.amazon.com/guardduty/
 me-south-1,Amazon GuardDuty,https://aws.amazon.com/guardduty/
 us-west-1,Amazon GuardDuty,https://aws.amazon.com/guardduty/
+ap-east-2,Amazon GuardDuty,https://aws.amazon.com/guardduty/
 ap-northeast-2,Amazon GuardDuty,https://aws.amazon.com/guardduty/
 cn-north-1,Amazon GuardDuty,https://aws.amazon.com/guardduty/
 cn-northwest-1,Amazon GuardDuty,https://aws.amazon.com/guardduty/
@@ -2660,28 +2668,30 @@ ap-southeast-4,Amazon Aurora,https://aws.amazon.com/rds/aurora/
 mx-central-1,Amazon Aurora,https://aws.amazon.com/rds/aurora/
 us-gov-east-1,Amazon Aurora,https://aws.amazon.com/rds/aurora/
 us-west-2,Amazon Aurora,https://aws.amazon.com/rds/aurora/
-ap-northeast-1,AWS IoT Core,https://aws.amazon.com/iot/
 ap-southeast-2,AWS IoT Core,https://aws.amazon.com/iot/
+ap-southeast-5,AWS IoT Core,https://aws.amazon.com/iot/
 ca-central-1,AWS IoT Core,https://aws.amazon.com/iot/
 eu-north-1,AWS IoT Core,https://aws.amazon.com/iot/
-eu-west-2,AWS IoT Core,https://aws.amazon.com/iot/
+eu-south-2,AWS IoT Core,https://aws.amazon.com/iot/
 eu-west-3,AWS IoT Core,https://aws.amazon.com/iot/
 me-south-1,AWS IoT Core,https://aws.amazon.com/iot/
 us-east-2,AWS IoT Core,https://aws.amazon.com/iot/
 us-gov-east-1,AWS IoT Core,https://aws.amazon.com/iot/
 us-west-1,AWS IoT Core,https://aws.amazon.com/iot/
 ap-east-1,AWS IoT Core,https://aws.amazon.com/iot/
+ap-northeast-1,AWS IoT Core,https://aws.amazon.com/iot/
 ap-south-1,AWS IoT Core,https://aws.amazon.com/iot/
 ap-southeast-1,AWS IoT Core,https://aws.amazon.com/iot/
 cn-north-1,AWS IoT Core,https://aws.amazon.com/iot/
 cn-northwest-1,AWS IoT Core,https://aws.amazon.com/iot/
-eu-west-1,AWS IoT Core,https://aws.amazon.com/iot/
+eu-west-2,AWS IoT Core,https://aws.amazon.com/iot/
 me-central-1,AWS IoT Core,https://aws.amazon.com/iot/
 sa-east-1,AWS IoT Core,https://aws.amazon.com/iot/
 us-east-1,AWS IoT Core,https://aws.amazon.com/iot/
-us-gov-west-1,AWS IoT Core,https://aws.amazon.com/iot/
 ap-northeast-2,AWS IoT Core,https://aws.amazon.com/iot/
 eu-central-1,AWS IoT Core,https://aws.amazon.com/iot/
+eu-west-1,AWS IoT Core,https://aws.amazon.com/iot/
+us-gov-west-1,AWS IoT Core,https://aws.amazon.com/iot/
 us-west-2,AWS IoT Core,https://aws.amazon.com/iot/
 ap-northeast-1,Amazon Comprehend,https://aws.amazon.com/comprehend/
 ap-northeast-2,Amazon Comprehend,https://aws.amazon.com/comprehend/
@@ -2967,6 +2977,7 @@ us-west-2,Amazon Bedrock,https://aws.amazon.com/bedrock/
 ap-northeast-1,Amazon Bedrock,https://aws.amazon.com/bedrock/
 ap-northeast-2,Amazon Bedrock,https://aws.amazon.com/bedrock/
 ap-south-1,Amazon Bedrock,https://aws.amazon.com/bedrock/
+ap-southeast-4,Amazon Bedrock,https://aws.amazon.com/bedrock/
 ap-south-1,AWS Elastic Disaster Recovery (DRS),https://aws.amazon.com/disaster-recovery/
 ap-south-2,AWS Elastic Disaster Recovery (DRS),https://aws.amazon.com/disaster-recovery/
 ap-southeast-2,AWS Elastic Disaster Recovery (DRS),https://aws.amazon.com/disaster-recovery/
@@ -4231,8 +4242,8 @@ us-east-2,AWS IoT Device Management,https://aws.amazon.com/iot-device-management
 us-gov-west-1,AWS IoT Device Management,https://aws.amazon.com/iot-device-management/
 us-west-1,AWS IoT Device Management,https://aws.amazon.com/iot-device-management/
 ap-northeast-1,AWS IoT Device Management,https://aws.amazon.com/iot-device-management/
-ap-northeast-2,AWS IoT Device Management,https://aws.amazon.com/iot-device-management/
 ap-southeast-2,AWS IoT Device Management,https://aws.amazon.com/iot-device-management/
+ap-southeast-5,AWS IoT Device Management,https://aws.amazon.com/iot-device-management/
 ca-central-1,AWS IoT Device Management,https://aws.amazon.com/iot-device-management/
 eu-north-1,AWS IoT Device Management,https://aws.amazon.com/iot-device-management/
 eu-west-2,AWS IoT Device Management,https://aws.amazon.com/iot-device-management/
@@ -4240,7 +4251,9 @@ me-central-1,AWS IoT Device Management,https://aws.amazon.com/iot-device-managem
 us-east-1,AWS IoT Device Management,https://aws.amazon.com/iot-device-management/
 us-gov-east-1,AWS IoT Device Management,https://aws.amazon.com/iot-device-management/
 us-west-2,AWS IoT Device Management,https://aws.amazon.com/iot-device-management/
+ap-northeast-2,AWS IoT Device Management,https://aws.amazon.com/iot-device-management/
 cn-northwest-1,AWS IoT Device Management,https://aws.amazon.com/iot-device-management/
+eu-south-2,AWS IoT Device Management,https://aws.amazon.com/iot-device-management/
 eu-west-1,AWS IoT Device Management,https://aws.amazon.com/iot-device-management/
 sa-east-1,AWS IoT Device Management,https://aws.amazon.com/iot-device-management/
 ap-northeast-1,Amazon Macie,https://aws.amazon.com/macie/
