@@ -1976,18 +1976,17 @@ eu-north-1,AWS Firewall Manager,https://aws.amazon.com/firewall-manager/
 us-gov-west-1,AWS Firewall Manager,https://aws.amazon.com/firewall-manager/
 us-west-2,AWS Firewall Manager,https://aws.amazon.com/firewall-manager/
 ap-east-1,AWS Resource Explorer,https://aws.amazon.com/resourceexplorer/
+ap-east-2,AWS Resource Explorer,https://aws.amazon.com/resourceexplorer/
 ap-south-2,AWS Resource Explorer,https://aws.amazon.com/resourceexplorer/
 ap-southeast-4,AWS Resource Explorer,https://aws.amazon.com/resourceexplorer/
 ca-west-1,AWS Resource Explorer,https://aws.amazon.com/resourceexplorer/
 eu-north-1,AWS Resource Explorer,https://aws.amazon.com/resourceexplorer/
 eu-south-1,AWS Resource Explorer,https://aws.amazon.com/resourceexplorer/
 eu-west-1,AWS Resource Explorer,https://aws.amazon.com/resourceexplorer/
-me-south-1,AWS Resource Explorer,https://aws.amazon.com/resourceexplorer/
 mx-central-1,AWS Resource Explorer,https://aws.amazon.com/resourceexplorer/
 us-east-1,AWS Resource Explorer,https://aws.amazon.com/resourceexplorer/
 ap-northeast-1,AWS Resource Explorer,https://aws.amazon.com/resourceexplorer/
 ap-south-1,AWS Resource Explorer,https://aws.amazon.com/resourceexplorer/
-ap-southeast-1,AWS Resource Explorer,https://aws.amazon.com/resourceexplorer/
 ap-southeast-3,AWS Resource Explorer,https://aws.amazon.com/resourceexplorer/
 ap-southeast-5,AWS Resource Explorer,https://aws.amazon.com/resourceexplorer/
 ap-southeast-7,AWS Resource Explorer,https://aws.amazon.com/resourceexplorer/
@@ -1995,18 +1994,20 @@ eu-south-2,AWS Resource Explorer,https://aws.amazon.com/resourceexplorer/
 eu-west-2,AWS Resource Explorer,https://aws.amazon.com/resourceexplorer/
 eu-west-3,AWS Resource Explorer,https://aws.amazon.com/resourceexplorer/
 il-central-1,AWS Resource Explorer,https://aws.amazon.com/resourceexplorer/
+me-south-1,AWS Resource Explorer,https://aws.amazon.com/resourceexplorer/
 af-south-1,AWS Resource Explorer,https://aws.amazon.com/resourceexplorer/
 ap-northeast-2,AWS Resource Explorer,https://aws.amazon.com/resourceexplorer/
+ap-southeast-1,AWS Resource Explorer,https://aws.amazon.com/resourceexplorer/
 ap-southeast-2,AWS Resource Explorer,https://aws.amazon.com/resourceexplorer/
 ca-central-1,AWS Resource Explorer,https://aws.amazon.com/resourceexplorer/
 eu-central-1,AWS Resource Explorer,https://aws.amazon.com/resourceexplorer/
 eu-central-2,AWS Resource Explorer,https://aws.amazon.com/resourceexplorer/
 sa-east-1,AWS Resource Explorer,https://aws.amazon.com/resourceexplorer/
 us-east-2,AWS Resource Explorer,https://aws.amazon.com/resourceexplorer/
-us-west-1,AWS Resource Explorer,https://aws.amazon.com/resourceexplorer/
 us-west-2,AWS Resource Explorer,https://aws.amazon.com/resourceexplorer/
 ap-northeast-3,AWS Resource Explorer,https://aws.amazon.com/resourceexplorer/
 me-central-1,AWS Resource Explorer,https://aws.amazon.com/resourceexplorer/
+us-west-1,AWS Resource Explorer,https://aws.amazon.com/resourceexplorer/
 ap-southeast-1,Amazon Cloud Directory,https://aws.amazon.com/cloud-directory/
 ap-southeast-2,Amazon Cloud Directory,https://aws.amazon.com/cloud-directory/
 ca-central-1,Amazon Cloud Directory,https://aws.amazon.com/cloud-directory/
@@ -3297,36 +3298,40 @@ eu-central-1,Amazon AppFlow,https://aws.amazon.com/appflow/
 eu-west-1,Amazon AppFlow,https://aws.amazon.com/appflow/
 us-west-2,Amazon AppFlow,https://aws.amazon.com/appflow/
 af-south-1,Amazon Verified Permissions,https://aws.amazon.com/verified-permissions/
-ap-northeast-1,Amazon Verified Permissions,https://aws.amazon.com/verified-permissions/
+ap-east-2,Amazon Verified Permissions,https://aws.amazon.com/verified-permissions/
 ap-southeast-1,Amazon Verified Permissions,https://aws.amazon.com/verified-permissions/
-ap-southeast-3,Amazon Verified Permissions,https://aws.amazon.com/verified-permissions/
+ap-southeast-5,Amazon Verified Permissions,https://aws.amazon.com/verified-permissions/
 eu-central-2,Amazon Verified Permissions,https://aws.amazon.com/verified-permissions/
 eu-west-1,Amazon Verified Permissions,https://aws.amazon.com/verified-permissions/
 eu-west-3,Amazon Verified Permissions,https://aws.amazon.com/verified-permissions/
 il-central-1,Amazon Verified Permissions,https://aws.amazon.com/verified-permissions/
 sa-east-1,Amazon Verified Permissions,https://aws.amazon.com/verified-permissions/
 us-west-2,Amazon Verified Permissions,https://aws.amazon.com/verified-permissions/
-ap-east-1,Amazon Verified Permissions,https://aws.amazon.com/verified-permissions/
+ap-northeast-1,Amazon Verified Permissions,https://aws.amazon.com/verified-permissions/
 ap-south-1,Amazon Verified Permissions,https://aws.amazon.com/verified-permissions/
-ap-southeast-2,Amazon Verified Permissions,https://aws.amazon.com/verified-permissions/
+ap-southeast-3,Amazon Verified Permissions,https://aws.amazon.com/verified-permissions/
+ap-southeast-7,Amazon Verified Permissions,https://aws.amazon.com/verified-permissions/
 ca-west-1,Amazon Verified Permissions,https://aws.amazon.com/verified-permissions/
-eu-central-1,Amazon Verified Permissions,https://aws.amazon.com/verified-permissions/
 eu-south-1,Amazon Verified Permissions,https://aws.amazon.com/verified-permissions/
 me-south-1,Amazon Verified Permissions,https://aws.amazon.com/verified-permissions/
 us-east-2,Amazon Verified Permissions,https://aws.amazon.com/verified-permissions/
 us-gov-west-1,Amazon Verified Permissions,https://aws.amazon.com/verified-permissions/
 us-west-1,Amazon Verified Permissions,https://aws.amazon.com/verified-permissions/
+ap-east-1,Amazon Verified Permissions,https://aws.amazon.com/verified-permissions/
 ap-northeast-2,Amazon Verified Permissions,https://aws.amazon.com/verified-permissions/
 ap-northeast-3,Amazon Verified Permissions,https://aws.amazon.com/verified-permissions/
 ap-south-2,Amazon Verified Permissions,https://aws.amazon.com/verified-permissions/
-ap-southeast-4,Amazon Verified Permissions,https://aws.amazon.com/verified-permissions/
-ca-central-1,Amazon Verified Permissions,https://aws.amazon.com/verified-permissions/
+ap-southeast-2,Amazon Verified Permissions,https://aws.amazon.com/verified-permissions/
+eu-central-1,Amazon Verified Permissions,https://aws.amazon.com/verified-permissions/
 eu-north-1,Amazon Verified Permissions,https://aws.amazon.com/verified-permissions/
 eu-west-2,Amazon Verified Permissions,https://aws.amazon.com/verified-permissions/
-me-central-1,Amazon Verified Permissions,https://aws.amazon.com/verified-permissions/
 us-east-1,Amazon Verified Permissions,https://aws.amazon.com/verified-permissions/
 us-gov-east-1,Amazon Verified Permissions,https://aws.amazon.com/verified-permissions/
+ap-southeast-4,Amazon Verified Permissions,https://aws.amazon.com/verified-permissions/
+ca-central-1,Amazon Verified Permissions,https://aws.amazon.com/verified-permissions/
 eu-south-2,Amazon Verified Permissions,https://aws.amazon.com/verified-permissions/
+me-central-1,Amazon Verified Permissions,https://aws.amazon.com/verified-permissions/
+mx-central-1,Amazon Verified Permissions,https://aws.amazon.com/verified-permissions/
 af-south-1,AWS CloudHSM,https://aws.amazon.com/cloudhsm/
 ap-northeast-3,AWS CloudHSM,https://aws.amazon.com/cloudhsm/
 ap-south-2,AWS CloudHSM,https://aws.amazon.com/cloudhsm/
@@ -4072,17 +4077,18 @@ us-east-2,AWS Serverless Application Repository,https://aws.amazon.com/serverles
 us-gov-west-1,AWS Serverless Application Repository,https://aws.amazon.com/serverless/serverlessrepo/
 ca-central-1,AWS Serverless Application Repository,https://aws.amazon.com/serverless/serverlessrepo/
 us-east-1,AWS Serverless Application Repository,https://aws.amazon.com/serverless/serverlessrepo/
-ap-east-1,AWS Elastic Beanstalk,https://aws.amazon.com/elasticbeanstalk/
 ap-northeast-2,AWS Elastic Beanstalk,https://aws.amazon.com/elasticbeanstalk/
 ap-south-1,AWS Elastic Beanstalk,https://aws.amazon.com/elasticbeanstalk/
 ap-southeast-2,AWS Elastic Beanstalk,https://aws.amazon.com/elasticbeanstalk/
 ap-southeast-3,AWS Elastic Beanstalk,https://aws.amazon.com/elasticbeanstalk/
+ap-southeast-5,AWS Elastic Beanstalk,https://aws.amazon.com/elasticbeanstalk/
 eu-north-1,AWS Elastic Beanstalk,https://aws.amazon.com/elasticbeanstalk/
 eu-west-1,AWS Elastic Beanstalk,https://aws.amazon.com/elasticbeanstalk/
 sa-east-1,AWS Elastic Beanstalk,https://aws.amazon.com/elasticbeanstalk/
 us-gov-east-1,AWS Elastic Beanstalk,https://aws.amazon.com/elasticbeanstalk/
 us-west-1,AWS Elastic Beanstalk,https://aws.amazon.com/elasticbeanstalk/
 af-south-1,AWS Elastic Beanstalk,https://aws.amazon.com/elasticbeanstalk/
+ap-east-1,AWS Elastic Beanstalk,https://aws.amazon.com/elasticbeanstalk/
 ap-southeast-1,AWS Elastic Beanstalk,https://aws.amazon.com/elasticbeanstalk/
 cn-north-1,AWS Elastic Beanstalk,https://aws.amazon.com/elasticbeanstalk/
 cn-northwest-1,AWS Elastic Beanstalk,https://aws.amazon.com/elasticbeanstalk/
@@ -4090,16 +4096,18 @@ eu-central-1,AWS Elastic Beanstalk,https://aws.amazon.com/elasticbeanstalk/
 eu-south-1,AWS Elastic Beanstalk,https://aws.amazon.com/elasticbeanstalk/
 eu-west-2,AWS Elastic Beanstalk,https://aws.amazon.com/elasticbeanstalk/
 me-central-1,AWS Elastic Beanstalk,https://aws.amazon.com/elasticbeanstalk/
-me-south-1,AWS Elastic Beanstalk,https://aws.amazon.com/elasticbeanstalk/
 us-east-1,AWS Elastic Beanstalk,https://aws.amazon.com/elasticbeanstalk/
 ap-northeast-1,AWS Elastic Beanstalk,https://aws.amazon.com/elasticbeanstalk/
 ap-northeast-3,AWS Elastic Beanstalk,https://aws.amazon.com/elasticbeanstalk/
+ap-southeast-7,AWS Elastic Beanstalk,https://aws.amazon.com/elasticbeanstalk/
 ca-central-1,AWS Elastic Beanstalk,https://aws.amazon.com/elasticbeanstalk/
+eu-south-2,AWS Elastic Beanstalk,https://aws.amazon.com/elasticbeanstalk/
 eu-west-3,AWS Elastic Beanstalk,https://aws.amazon.com/elasticbeanstalk/
 il-central-1,AWS Elastic Beanstalk,https://aws.amazon.com/elasticbeanstalk/
+me-south-1,AWS Elastic Beanstalk,https://aws.amazon.com/elasticbeanstalk/
 us-east-2,AWS Elastic Beanstalk,https://aws.amazon.com/elasticbeanstalk/
-us-gov-west-1,AWS Elastic Beanstalk,https://aws.amazon.com/elasticbeanstalk/
 us-west-2,AWS Elastic Beanstalk,https://aws.amazon.com/elasticbeanstalk/
+us-gov-west-1,AWS Elastic Beanstalk,https://aws.amazon.com/elasticbeanstalk/
 ap-south-1,AWS Organizations,https://aws.amazon.com/organizations
 ap-south-2,AWS Organizations,https://aws.amazon.com/organizations
 ap-southeast-2,AWS Organizations,https://aws.amazon.com/organizations
