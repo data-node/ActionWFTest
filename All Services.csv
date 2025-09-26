@@ -5048,7 +5048,6 @@ us-east-2,AWS Elemental MediaTailor,https://aws.amazon.com/mediatailor/
 cn-north-1,AWS Server Migration Service (SMS),https://aws.amazon.com/server-migration-service/
 us-gov-west-1,AWS Server Migration Service (SMS),https://aws.amazon.com/server-migration-service/
 us-west-2,AWS Server Migration Service (SMS),https://aws.amazon.com/server-migration-service/
-us-east-1,AWS DeepRacer,https://aws.amazon.com/deepracer/
 ap-northeast-1,Amazon MemoryDB,https://aws.amazon.com/memorydb
 ap-southeast-1,Amazon MemoryDB,https://aws.amazon.com/memorydb
 cn-northwest-1,Amazon MemoryDB,https://aws.amazon.com/memorydb
@@ -5094,11 +5093,11 @@ us-east-2,Amazon Elastic File System (EFS),https://aws.amazon.com/efs/
 us-west-1,Amazon Elastic File System (EFS),https://aws.amazon.com/efs/
 af-south-1,Amazon Elastic File System (EFS),https://aws.amazon.com/efs/
 ap-northeast-1,Amazon Elastic File System (EFS),https://aws.amazon.com/efs/
+ap-southeast-6,Amazon Elastic File System (EFS),https://aws.amazon.com/efs/
 ca-central-1,Amazon Elastic File System (EFS),https://aws.amazon.com/efs/
 ca-west-1,Amazon Elastic File System (EFS),https://aws.amazon.com/efs/
 cn-north-1,Amazon Elastic File System (EFS),https://aws.amazon.com/efs/
 eu-central-2,Amazon Elastic File System (EFS),https://aws.amazon.com/efs/
-eu-south-1,Amazon Elastic File System (EFS),https://aws.amazon.com/efs/
 eu-west-3,Amazon Elastic File System (EFS),https://aws.amazon.com/efs/
 sa-east-1,Amazon Elastic File System (EFS),https://aws.amazon.com/efs/
 us-gov-east-1,Amazon Elastic File System (EFS),https://aws.amazon.com/efs/
@@ -5108,14 +5107,15 @@ ap-northeast-3,Amazon Elastic File System (EFS),https://aws.amazon.com/efs/
 ap-southeast-1,Amazon Elastic File System (EFS),https://aws.amazon.com/efs/
 ap-southeast-3,Amazon Elastic File System (EFS),https://aws.amazon.com/efs/
 eu-central-1,Amazon Elastic File System (EFS),https://aws.amazon.com/efs/
+eu-south-1,Amazon Elastic File System (EFS),https://aws.amazon.com/efs/
 eu-south-2,Amazon Elastic File System (EFS),https://aws.amazon.com/efs/
-il-central-1,Amazon Elastic File System (EFS),https://aws.amazon.com/efs/
 me-central-1,Amazon Elastic File System (EFS),https://aws.amazon.com/efs/
 mx-central-1,Amazon Elastic File System (EFS),https://aws.amazon.com/efs/
 ap-east-2,Amazon Elastic File System (EFS),https://aws.amazon.com/efs/
 ap-southeast-2,Amazon Elastic File System (EFS),https://aws.amazon.com/efs/
 ap-southeast-5,Amazon Elastic File System (EFS),https://aws.amazon.com/efs/
 eu-north-1,Amazon Elastic File System (EFS),https://aws.amazon.com/efs/
+il-central-1,Amazon Elastic File System (EFS),https://aws.amazon.com/efs/
 us-east-1,Amazon Elastic File System (EFS),https://aws.amazon.com/efs/
 us-gov-west-1,Amazon Elastic File System (EFS),https://aws.amazon.com/efs/
 us-west-2,Amazon Elastic File System (EFS),https://aws.amazon.com/efs/
@@ -5138,6 +5138,7 @@ us-east-1,Amazon Comprehend Medical,https://aws.amazon.com/comprehend/medical/
 us-east-2,Amazon Comprehend Medical,https://aws.amazon.com/comprehend/medical/
 us-gov-west-1,Amazon Comprehend Medical,https://aws.amazon.com/comprehend/medical/
 us-west-2,Amazon Comprehend Medical,https://aws.amazon.com/comprehend/medical/
+us-east-1,AWS DeepRacer,https://aws.amazon.com/deepracer/
 ap-northeast-1,Amazon Inspector Classic,https://docs.aws.amazon.com/inspector/v1/userguide/inspector_introduction.html
 ap-northeast-2,Amazon Inspector Classic,https://docs.aws.amazon.com/inspector/v1/userguide/inspector_introduction.html
 ap-southeast-2,Amazon Inspector Classic,https://docs.aws.amazon.com/inspector/v1/userguide/inspector_introduction.html
@@ -5305,9 +5306,6 @@ eu-central-1,AWS Security Hub,https://aws.amazon.com/security-hub/
 eu-south-2,AWS Security Hub,https://aws.amazon.com/security-hub/
 il-central-1,AWS Security Hub,https://aws.amazon.com/security-hub/
 us-gov-east-1,AWS Security Hub,https://aws.amazon.com/security-hub/
-eu-west-1,Amazon WorkMail,https://aws.amazon.com/workmail/
-us-east-1,Amazon WorkMail,https://aws.amazon.com/workmail/
-us-west-2,Amazon WorkMail,https://aws.amazon.com/workmail/
 ap-east-1,Amazon DocumentDB (with MongoDB compatibility),https://aws.amazon.com/documentdb/
 ap-southeast-2,Amazon DocumentDB (with MongoDB compatibility),https://aws.amazon.com/documentdb/
 eu-central-1,Amazon DocumentDB (with MongoDB compatibility),https://aws.amazon.com/documentdb/
@@ -5468,6 +5466,9 @@ eu-west-1,AWS Config,https://aws.amazon.com/config/
 eu-west-3,AWS Config,https://aws.amazon.com/config/
 me-central-1,AWS Config,https://aws.amazon.com/config/
 us-east-2,AWS Config,https://aws.amazon.com/config/
+eu-west-1,Amazon WorkMail,https://aws.amazon.com/workmail/
+us-east-1,Amazon WorkMail,https://aws.amazon.com/workmail/
+us-west-2,Amazon WorkMail,https://aws.amazon.com/workmail/
 ap-northeast-1,AWS Payment Cryptography,https://aws.amazon.com/payment-cryptography/
 ap-northeast-3,AWS Payment Cryptography,https://aws.amazon.com/payment-cryptography/
 ap-south-1,AWS Payment Cryptography,https://aws.amazon.com/payment-cryptography/
