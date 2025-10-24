@@ -804,26 +804,27 @@ eu-west-1,AWS Ground Station,https://aws.amazon.com/ground-station/
 us-west-2,AWS Ground Station,https://aws.amazon.com/ground-station/
 ap-northeast-1,AWS Chatbot,https://aws.amazon.com/chatbot/
 ap-southeast-3,AWS Chatbot,https://aws.amazon.com/chatbot/
+ap-southeast-5,AWS Chatbot,https://aws.amazon.com/chatbot/
 ca-central-1,AWS Chatbot,https://aws.amazon.com/chatbot/
 ca-west-1,AWS Chatbot,https://aws.amazon.com/chatbot/
 eu-south-1,AWS Chatbot,https://aws.amazon.com/chatbot/
-eu-south-2,AWS Chatbot,https://aws.amazon.com/chatbot/
 eu-west-2,AWS Chatbot,https://aws.amazon.com/chatbot/
 me-central-1,AWS Chatbot,https://aws.amazon.com/chatbot/
 me-south-1,AWS Chatbot,https://aws.amazon.com/chatbot/
 us-east-1,AWS Chatbot,https://aws.amazon.com/chatbot/
 ap-east-1,AWS Chatbot,https://aws.amazon.com/chatbot/
-ap-northeast-3,AWS Chatbot,https://aws.amazon.com/chatbot/
 ap-south-1,AWS Chatbot,https://aws.amazon.com/chatbot/
 ap-south-2,AWS Chatbot,https://aws.amazon.com/chatbot/
 ap-southeast-1,AWS Chatbot,https://aws.amazon.com/chatbot/
 ap-southeast-2,AWS Chatbot,https://aws.amazon.com/chatbot/
 eu-central-1,AWS Chatbot,https://aws.amazon.com/chatbot/
 eu-north-1,AWS Chatbot,https://aws.amazon.com/chatbot/
+eu-south-2,AWS Chatbot,https://aws.amazon.com/chatbot/
 eu-west-3,AWS Chatbot,https://aws.amazon.com/chatbot/
 il-central-1,AWS Chatbot,https://aws.amazon.com/chatbot/
 af-south-1,AWS Chatbot,https://aws.amazon.com/chatbot/
 ap-northeast-2,AWS Chatbot,https://aws.amazon.com/chatbot/
+ap-northeast-3,AWS Chatbot,https://aws.amazon.com/chatbot/
 ap-southeast-4,AWS Chatbot,https://aws.amazon.com/chatbot/
 eu-central-2,AWS Chatbot,https://aws.amazon.com/chatbot/
 eu-west-1,AWS Chatbot,https://aws.amazon.com/chatbot/
@@ -4389,6 +4390,7 @@ us-east-1,Amazon Connect,https://aws.amazon.com/connect/
 us-gov-west-1,Amazon Connect,https://aws.amazon.com/connect/
 us-west-2,Amazon Connect,https://aws.amazon.com/connect/
 eu-west-2,Amazon Connect,https://aws.amazon.com/connect/
+eu-west-1,AWS B2B Data Interchange,https://aws.amazon.com/b2b-data-interchange/
 us-east-1,AWS B2B Data Interchange,https://aws.amazon.com/b2b-data-interchange/
 us-east-2,AWS B2B Data Interchange,https://aws.amazon.com/b2b-data-interchange/
 us-west-2,AWS B2B Data Interchange,https://aws.amazon.com/b2b-data-interchange/
@@ -5474,9 +5476,9 @@ eu-west-1,AWS Config,https://aws.amazon.com/config/
 eu-west-3,AWS Config,https://aws.amazon.com/config/
 me-central-1,AWS Config,https://aws.amazon.com/config/
 us-east-2,AWS Config,https://aws.amazon.com/config/
+af-south-1,AWS Payment Cryptography,https://aws.amazon.com/payment-cryptography/
 ap-northeast-1,AWS Payment Cryptography,https://aws.amazon.com/payment-cryptography/
 ap-northeast-3,AWS Payment Cryptography,https://aws.amazon.com/payment-cryptography/
-ap-south-1,AWS Payment Cryptography,https://aws.amazon.com/payment-cryptography/
 ap-southeast-1,AWS Payment Cryptography,https://aws.amazon.com/payment-cryptography/
 ca-central-1,AWS Payment Cryptography,https://aws.amazon.com/payment-cryptography/
 eu-central-1,AWS Payment Cryptography,https://aws.amazon.com/payment-cryptography/
@@ -5484,10 +5486,12 @@ eu-west-1,AWS Payment Cryptography,https://aws.amazon.com/payment-cryptography/
 eu-west-2,AWS Payment Cryptography,https://aws.amazon.com/payment-cryptography/
 us-east-1,AWS Payment Cryptography,https://aws.amazon.com/payment-cryptography/
 us-west-2,AWS Payment Cryptography,https://aws.amazon.com/payment-cryptography/
+ap-south-1,AWS Payment Cryptography,https://aws.amazon.com/payment-cryptography/
 us-east-2,AWS Payment Cryptography,https://aws.amazon.com/payment-cryptography/
 ap-northeast-1,Amazon Aurora DSQL,https://aws.amazon.com/rds/aurora/dsql/
 ap-northeast-2,Amazon Aurora DSQL,https://aws.amazon.com/rds/aurora/dsql/
 ap-northeast-3,Amazon Aurora DSQL,https://aws.amazon.com/rds/aurora/dsql/
+eu-central-1,Amazon Aurora DSQL,https://aws.amazon.com/rds/aurora/dsql/
 eu-west-1,Amazon Aurora DSQL,https://aws.amazon.com/rds/aurora/dsql/
 eu-west-2,Amazon Aurora DSQL,https://aws.amazon.com/rds/aurora/dsql/
 eu-west-3,Amazon Aurora DSQL,https://aws.amazon.com/rds/aurora/dsql/
